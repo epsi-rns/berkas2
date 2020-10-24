@@ -1,0 +1,12 @@
+ffmpeg -i candyline-only.sozi.ogv \
+  -vf "scale=iw/2:ih/2" \
+  -c:v libx264 \
+  -profile:v baseline \
+  -level 3.0 \
+  -pix_fmt yuv420p \
+  candyline-only-small.mp4
+
+ffmpeg -i candyline-cubes.sozi.ogv \
+       -vf "fps=10,scale=480:-1:flags=lanczos,split[s0][s1];[s0]palettegen[p];[s1][p]paletteuse"\
+       -loop 0 \
+       candyline-cubes-small.gif

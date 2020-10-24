@@ -1,0 +1,699 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   sodipodi:docname="candyline-only.svg"
+   inkscape:version="0.92.2 5c3e80d, 2017-08-06"
+   id="svg8"
+   version="1.1"
+   viewBox="0 0 105.83333 79.375002"
+   height="300"
+   width="400">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     inkscape:document-rotation="0"
+     inkscape:window-maximized="1"
+     inkscape:window-y="40"
+     inkscape:window-x="10"
+     inkscape:window-height="983"
+     inkscape:window-width="1900"
+     inkscape:pagecheckerboard="true"
+     units="px"
+     showgrid="false"
+     inkscape:current-layer="layer1"
+     inkscape:document-units="px"
+     inkscape:cy="150"
+     inkscape:cx="199.36583"
+     inkscape:zoom="0.5"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     borderopacity="1.0"
+     bordercolor="#666666"
+     pagecolor="#ffffff"
+     id="base" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     transform="translate(0,-217.62499)"
+     id="layer1"
+     inkscape:groupmode="layer"
+     inkscape:label="Background"
+     style="display:inline">
+    <rect
+       style="opacity:1;fill:#b2ebf2;fill-opacity:1;stroke:none;stroke-width:0.26458299;stroke-miterlimit:2;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="bg-wider"
+       width="211.66669"
+       height="158.75"
+       x="-52.916672"
+       y="177.93748"
+       inkscape:label="bg-wider">
+      <title
+         id="title926">Background Wider</title>
+    </rect>
+    <rect
+       y="217.62498"
+       x="0"
+       height="79.375"
+       width="105.83334"
+       id="background"
+       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458299;stroke-miterlimit:2;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1">
+      <title
+         id="title928">Background</title>
+    </rect>
+    <g
+       style="display:none"
+       inkscape:label="Frames"
+       id="layer3"
+       inkscape:groupmode="layer"
+       sodipodi:insensitive="true">
+      <rect
+         y="0.2645835"
+         x="0.26458332"
+         height="78.845833"
+         width="105.30417"
+         id="bg-frame-01-01"
+         style="opacity:1;fill:none;fill-opacity:1;stroke:#b71c1c;stroke-width:0.529167;stroke-miterlimit:2;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         inkscape:label="bg-frame-01-01"
+         transform="translate(0,217.62499)">
+        <title
+           id="title861">Background Frame 01:01</title>
+      </rect>
+    </g>
+  </g>
+  <g
+     style="display:inline"
+     inkscape:label="Left Bottom"
+     id="layer4"
+     inkscape:groupmode="layer"
+     sodipodi:insensitive="true">
+    <g
+       style="display:none"
+       inkscape:label="Frames"
+       id="layer5"
+       inkscape:groupmode="layer"
+       sodipodi:insensitive="true">
+      <rect
+         inkscape:label="lb-frame-01-01"
+         style="fill:none;fill-opacity:1;stroke:#b71c1c;stroke-width:0.529167;stroke-miterlimit:2;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="lb-frame-01-01"
+         width="105.30417"
+         height="78.845833"
+         x="0.26458332"
+         y="0.2645835">
+        <title
+           id="title866">Frame 01:01</title>
+      </rect>
+      <rect
+         y="-39.422916"
+         x="-52.652084"
+         height="158.22083"
+         width="211.1375"
+         id="lb-frame-02-01"
+         style="fill:none;fill-opacity:1;stroke:#b71c1c;stroke-width:0.52916598;stroke-miterlimit:2;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         inkscape:label="lb-frame-02-01">
+        <title
+           id="title868">LB Frame 02:01</title>
+      </rect>
+      <rect
+         inkscape:label="lb-frame-04-01"
+         style="fill:none;fill-opacity:1;stroke:#b71c1c;stroke-width:0.529167;stroke-miterlimit:2;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="lb-frame-04-01"
+         width="422.80417"
+         height="316.97083"
+         x="-158.48541"
+         y="-118.79791">
+        <title
+           id="title872">LB Frame 04:01</title>
+      </rect>
+      <rect
+         y="-198.17293"
+         x="-264.31876"
+         height="475.72083"
+         width="634.47083"
+         id="lb-frame-06-01"
+         style="fill:none;fill-opacity:1;stroke:#b71c1c;stroke-width:0.529167;stroke-miterlimit:2;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         inkscape:label="lb-frame-06-01">
+        <title
+           id="title880">LB Frame 06:01</title>
+      </rect>
+      <rect
+         y="-277.54791"
+         x="-370.1521"
+         height="634.47083"
+         width="846.13751"
+         id="lb-frame-08-01"
+         style="fill:none;fill-opacity:1;stroke:#b71c1c;stroke-width:0.529167;stroke-miterlimit:2;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         inkscape:label="lb-frame-08-01">
+        <title
+           id="title884">LB Frame 08:01</title>
+      </rect>
+      <rect
+         y="-356.92291"
+         x="-475.98544"
+         height="793.22083"
+         width="1057.8042"
+         id="lb-frame-10-01"
+         style="fill:none;fill-opacity:1;stroke:#b71c1c;stroke-width:0.529167;stroke-miterlimit:2;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         inkscape:label="lb-frame-10-01">
+        <title
+           id="title888">LB Frame 10:01</title>
+      </rect>
+      <rect
+         y="-436.29791"
+         x="-581.81879"
+         height="951.97089"
+         width="1269.4708"
+         id="lb-frame-12-01"
+         style="fill:none;fill-opacity:1;stroke:#b71c1c;stroke-width:0.529167;stroke-miterlimit:2;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         inkscape:label="lb-frame-12-01">
+        <title
+           id="title892">LB Frame 12:01</title>
+      </rect>
+    </g>
+    <path
+       inkscape:label="#left-bottom"
+       id="left-bottom"
+       d="M 0,60.400448 V 79.374999 H 2.6458333 V 63.046281 Z"
+       style="fill:#bbdefb;fill-opacity:1;stroke:none;stroke-width:0.26458299;stroke-miterlimit:2;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       inkscape:connector-curvature="0">
+      <title
+         id="title847">Left Bottom</title>
+    </path>
+  </g>
+  <g
+     sodipodi:insensitive="true"
+     style="display:inline"
+     inkscape:groupmode="layer"
+     id="g871"
+     inkscape:label="Left Middle">
+    <g
+       sodipodi:insensitive="true"
+       inkscape:groupmode="layer"
+       id="g869"
+       inkscape:label="Frames"
+       style="display:none">
+      <rect
+         y="0.2645835"
+         x="0.26458332"
+         height="78.845833"
+         width="105.30417"
+         id="lm-frame-01-01"
+         style="fill:none;fill-opacity:1;stroke:#b71c1c;stroke-width:0.529167;stroke-miterlimit:2;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         inkscape:label="lm-frame-01-01">
+        <title
+           id="title915">LM Frame 01:01</title>
+      </rect>
+      <rect
+         inkscape:label="lm-frame-02-01"
+         style="fill:none;fill-opacity:1;stroke:#b71c1c;stroke-width:0.52916598;stroke-miterlimit:2;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="lm-frame-02-01"
+         width="211.1375"
+         height="158.22083"
+         x="-52.652084"
+         y="-39.422916">
+        <title
+           id="title919">LM Frame 02:01</title>
+      </rect>
+      <rect
+         y="-118.79791"
+         x="-158.48541"
+         height="316.97083"
+         width="422.80417"
+         id="lm-frame-04-01"
+         style="fill:none;fill-opacity:1;stroke:#b71c1c;stroke-width:0.529167;stroke-miterlimit:2;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         inkscape:label="lm-frame-04-01">
+        <title
+           id="title923">LM Frame 04:01</title>
+      </rect>
+      <rect
+         inkscape:label="lm-frame-06-01"
+         style="fill:none;fill-opacity:1;stroke:#b71c1c;stroke-width:0.529167;stroke-miterlimit:2;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="lm-frame-06-01"
+         width="634.47083"
+         height="475.72083"
+         x="-264.31876"
+         y="-198.17293">
+        <title
+           id="title927">LM Frame 06:01</title>
+      </rect>
+      <rect
+         inkscape:label="lm-frame-08-01"
+         style="fill:none;fill-opacity:1;stroke:#b71c1c;stroke-width:0.529167;stroke-miterlimit:2;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="lm-frame-08-01"
+         width="846.13751"
+         height="634.47083"
+         x="-370.1521"
+         y="-277.54791">
+        <title
+           id="title931">LM Frame 08:01</title>
+      </rect>
+      <rect
+         inkscape:label="lm-frame-10-01"
+         style="fill:none;fill-opacity:1;stroke:#b71c1c;stroke-width:0.529167;stroke-miterlimit:2;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="lm-frame-10-01"
+         width="1057.8042"
+         height="793.22083"
+         x="-475.98544"
+         y="-356.92291">
+        <title
+           id="title935">LM Frame 10:01</title>
+      </rect>
+      <rect
+         inkscape:label="lm-frame-12-01"
+         style="fill:none;fill-opacity:1;stroke:#b71c1c;stroke-width:0.529167;stroke-miterlimit:2;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="lm-frame-12-01"
+         width="1269.4708"
+         height="951.97089"
+         x="-581.81879"
+         y="-436.29791">
+        <title
+           id="title939">LM Frame 12:01</title>
+      </rect>
+    </g>
+    <path
+       inkscape:label="#left-middle"
+       id="left-middle"
+       d="m 0,16.97054 v 35.946126 l 2.6458333,2.645833 V 19.616373 Z"
+       style="fill:#64b5f6;fill-opacity:1;stroke:none;stroke-width:0.26458299;stroke-miterlimit:2;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       inkscape:connector-curvature="0">
+      <title
+         id="title849">Left Middle</title>
+    </path>
+  </g>
+  <g
+     sodipodi:insensitive="true"
+     style="display:inline"
+     inkscape:label="Left Top"
+     id="layer6"
+     inkscape:groupmode="layer">
+    <g
+       sodipodi:insensitive="true"
+       inkscape:label="Frames"
+       id="layer7"
+       inkscape:groupmode="layer"
+       style="display:none">
+      <rect
+         inkscape:label="lt-frame-01-01"
+         style="fill:none;fill-opacity:1;stroke:#b71c1c;stroke-width:0.529167;stroke-miterlimit:2;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="lt-frame-01-01"
+         width="105.30417"
+         height="78.845833"
+         x="0.26458332"
+         y="0.2645835">
+        <title
+           id="title1168">LT Frame 01:01</title>
+      </rect>
+      <rect
+         y="-39.422916"
+         x="-52.652084"
+         height="158.22083"
+         width="211.1375"
+         id="lt-frame-02-01"
+         style="fill:none;fill-opacity:1;stroke:#b71c1c;stroke-width:0.52916598;stroke-miterlimit:2;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         inkscape:label="lt-frame-02-01">
+        <title
+           id="title1172">LT Frame 02:01</title>
+      </rect>
+      <rect
+         inkscape:label="lt-frame-04-01"
+         style="fill:none;fill-opacity:1;stroke:#b71c1c;stroke-width:0.529167;stroke-miterlimit:2;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="lt-frame-04-01"
+         width="422.80417"
+         height="316.97083"
+         x="-158.48541"
+         y="-118.79791">
+        <title
+           id="title1176">LT Frame 04:01</title>
+      </rect>
+      <rect
+         y="-198.17293"
+         x="-264.31876"
+         height="475.72083"
+         width="634.47083"
+         id="lt-frame-06-01"
+         style="fill:none;fill-opacity:1;stroke:#b71c1c;stroke-width:0.529167;stroke-miterlimit:2;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         inkscape:label="lt-frame-06-01">
+        <title
+           id="title1180">LT Frame 06:01</title>
+      </rect>
+      <rect
+         y="-277.54791"
+         x="-370.1521"
+         height="634.47083"
+         width="846.13751"
+         id="lt-frame-08-01"
+         style="fill:none;fill-opacity:1;stroke:#b71c1c;stroke-width:0.529167;stroke-miterlimit:2;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         inkscape:label="lt-frame-08-01">
+        <title
+           id="title1184">LT Frame 08:01</title>
+      </rect>
+      <rect
+         y="-356.92291"
+         x="-475.98544"
+         height="793.22083"
+         width="1057.8042"
+         id="lt-frame-10-01"
+         style="fill:none;fill-opacity:1;stroke:#b71c1c;stroke-width:0.529167;stroke-miterlimit:2;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         inkscape:label="lt-frame-10-01">
+        <title
+           id="title1188">LT Frame 10:01</title>
+      </rect>
+      <rect
+         y="-436.29791"
+         x="-581.81879"
+         height="951.97089"
+         width="1269.4708"
+         id="lt-frame-12-01"
+         style="fill:none;fill-opacity:1;stroke:#b71c1c;stroke-width:0.529167;stroke-miterlimit:2;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         inkscape:label="lt-frame-12-01">
+        <title
+           id="title1192">LT Frame 12:01</title>
+      </rect>
+    </g>
+    <path
+       inkscape:label="#left-top"
+       id="left-top"
+       d="M 0,0 V 13.229167 L 2.6458333,15.875 V 0 Z"
+       style="fill:#2196f3;fill-opacity:1;stroke:none;stroke-width:0.26458299;stroke-miterlimit:2;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       inkscape:connector-curvature="0">
+      <title
+         id="title851">Left Top</title>
+    </path>
+  </g>
+  <g
+     sodipodi:insensitive="true"
+     style="display:inline"
+     inkscape:label="Right Bottom"
+     id="layer8"
+     inkscape:groupmode="layer">
+    <g
+       style="display:none"
+       sodipodi:insensitive="true"
+       inkscape:label="Frames"
+       id="layer11"
+       inkscape:groupmode="layer">
+      <rect
+         y="0.2645835"
+         x="0.26458332"
+         height="78.845833"
+         width="105.30417"
+         id="rb-frame-01-01"
+         style="fill:none;fill-opacity:1;stroke:#b71c1c;stroke-width:0.529167;stroke-miterlimit:2;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         inkscape:label="rb-frame-01-01">
+        <title
+           id="title1108">RB Frame 01:01</title>
+      </rect>
+      <rect
+         inkscape:label="rb-frame-02-01"
+         style="fill:none;fill-opacity:1;stroke:#b71c1c;stroke-width:0.52916598;stroke-miterlimit:2;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="rb-frame-02-01"
+         width="211.1375"
+         height="158.22083"
+         x="-52.652084"
+         y="-39.422916">
+        <title
+           id="title1112">RB Frame 02:01</title>
+      </rect>
+      <rect
+         y="-118.79791"
+         x="-158.48541"
+         height="316.97083"
+         width="422.80417"
+         id="rb-frame-04-01"
+         style="fill:none;fill-opacity:1;stroke:#b71c1c;stroke-width:0.529167;stroke-miterlimit:2;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         inkscape:label="rb-frame-04-01">
+        <title
+           id="title1116">RB Frame 04:01</title>
+      </rect>
+      <rect
+         inkscape:label="rb-frame-06-01"
+         style="fill:none;fill-opacity:1;stroke:#b71c1c;stroke-width:0.529167;stroke-miterlimit:2;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="rb-frame-06-01"
+         width="634.47083"
+         height="475.72083"
+         x="-264.31876"
+         y="-198.17293">
+        <title
+           id="title1120">RB Frame 06:01</title>
+      </rect>
+      <rect
+         inkscape:label="rb-frame-08-01"
+         style="fill:none;fill-opacity:1;stroke:#b71c1c;stroke-width:0.529167;stroke-miterlimit:2;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="rb-frame-08-01"
+         width="846.13751"
+         height="634.47083"
+         x="-370.1521"
+         y="-277.54791">
+        <title
+           id="title1124">RB Frame 08:01</title>
+      </rect>
+      <rect
+         inkscape:label="rb-frame-10-01"
+         style="fill:none;fill-opacity:1;stroke:#b71c1c;stroke-width:0.529167;stroke-miterlimit:2;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="rb-frame-10-01"
+         width="1057.8042"
+         height="793.22083"
+         x="-475.98544"
+         y="-356.92291">
+        <title
+           id="title1128">RB Frame 10:01</title>
+      </rect>
+      <rect
+         inkscape:label="rb-frame-12-01"
+         style="fill:none;fill-opacity:1;stroke:#b71c1c;stroke-width:0.529167;stroke-miterlimit:2;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="rb-frame-12-01"
+         width="1269.4708"
+         height="951.97089"
+         x="-581.81879"
+         y="-436.29791">
+        <title
+           id="title1132">RB Frame 12:01</title>
+      </rect>
+    </g>
+    <path
+       inkscape:label="#right-bottom"
+       id="right-bottom"
+       d="m 103.1875,59.758627 v 19.616372 h 2.64583 V 62.40446 Z"
+       style="fill:#2196f3;fill-opacity:1;stroke:none;stroke-width:0.26458299;stroke-miterlimit:2;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       inkscape:connector-curvature="0">
+      <title
+         id="title853">Right Bottom</title>
+    </path>
+  </g>
+  <g
+     sodipodi:insensitive="true"
+     style="display:inline"
+     inkscape:label="Right Middle"
+     id="layer9"
+     inkscape:groupmode="layer">
+    <g
+       style="display:none"
+       sodipodi:insensitive="true"
+       inkscape:label="Frames"
+       id="layer12"
+       inkscape:groupmode="layer">
+      <rect
+         inkscape:label="rm-frame-01-01"
+         style="fill:none;fill-opacity:1;stroke:#b71c1c;stroke-width:0.529167;stroke-miterlimit:2;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="rm-frame-01-01"
+         width="105.30417"
+         height="78.845833"
+         x="0.26458332"
+         y="0.2645835">
+        <title
+           id="title975">RM Frame 01:01</title>
+      </rect>
+      <rect
+         y="-39.422916"
+         x="-52.652084"
+         height="158.22083"
+         width="211.1375"
+         id="rm-frame-02-01"
+         style="fill:none;fill-opacity:1;stroke:#b71c1c;stroke-width:0.52916598;stroke-miterlimit:2;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         inkscape:label="rm-frame-02-01">
+        <title
+           id="title979">RM Frame 02:01</title>
+      </rect>
+      <rect
+         inkscape:label="rm-frame-04-01"
+         style="fill:none;fill-opacity:1;stroke:#b71c1c;stroke-width:0.529167;stroke-miterlimit:2;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="rm-frame-04-01"
+         width="422.80417"
+         height="316.97083"
+         x="-158.48541"
+         y="-118.79791">
+        <title
+           id="title983">RM Frame 04:01</title>
+      </rect>
+      <rect
+         y="-198.17293"
+         x="-264.31876"
+         height="475.72083"
+         width="634.47083"
+         id="rm-frame-06-01"
+         style="fill:none;fill-opacity:1;stroke:#b71c1c;stroke-width:0.529167;stroke-miterlimit:2;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         inkscape:label="rm-frame-06-01">
+        <title
+           id="title987">RM Frame 06:01</title>
+      </rect>
+      <rect
+         y="-277.54791"
+         x="-370.1521"
+         height="634.47083"
+         width="846.13751"
+         id="rm-frame-08-01"
+         style="fill:none;fill-opacity:1;stroke:#b71c1c;stroke-width:0.529167;stroke-miterlimit:2;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         inkscape:label="rm-frame-08-01">
+        <title
+           id="title991">RM Frame 08:01</title>
+      </rect>
+      <rect
+         y="-356.92291"
+         x="-475.98544"
+         height="793.22083"
+         width="1057.8042"
+         id="rm-frame-10-01"
+         style="fill:none;fill-opacity:1;stroke:#b71c1c;stroke-width:0.529167;stroke-miterlimit:2;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         inkscape:label="rm-frame-10-01">
+        <title
+           id="title995">RM Frame 10:01</title>
+      </rect>
+      <rect
+         y="-436.29791"
+         x="-581.81879"
+         height="951.97089"
+         width="1269.4708"
+         id="rm-frame-12-01"
+         style="fill:none;fill-opacity:1;stroke:#b71c1c;stroke-width:0.529167;stroke-miterlimit:2;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         inkscape:label="rm-frame-12-01">
+        <title
+           id="title999">RM Frame 12:01</title>
+      </rect>
+    </g>
+    <path
+       inkscape:label="#right-middle"
+       id="right-middle"
+       d="m 103.1875,23.8125 v 32.203717 l 2.64583,2.645834 V 26.458333 Z"
+       style="fill:#1976d2;fill-opacity:1;stroke:none;stroke-width:0.26458299;stroke-miterlimit:2;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       inkscape:connector-curvature="0">
+      <title
+         id="title855">Right Middle</title>
+    </path>
+  </g>
+  <g
+     sodipodi:insensitive="true"
+     style="display:inline"
+     inkscape:label="Right Top"
+     id="layer10"
+     inkscape:groupmode="layer">
+    <g
+       style="display:none"
+       sodipodi:insensitive="true"
+       inkscape:label="Frames"
+       id="layer13"
+       inkscape:groupmode="layer">
+      <rect
+         y="0.2645835"
+         x="0.26458332"
+         height="78.845833"
+         width="105.30417"
+         id="rt-frame-01-01"
+         style="fill:none;fill-opacity:1;stroke:#b71c1c;stroke-width:0.529167;stroke-miterlimit:2;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         inkscape:label="rt-frame-01-01">
+        <title
+           id="title1255">RT Frame 01:01</title>
+      </rect>
+      <rect
+         inkscape:label="rt-frame-02-01"
+         style="fill:none;fill-opacity:1;stroke:#b71c1c;stroke-width:0.52916598;stroke-miterlimit:2;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="rt-frame-02-01"
+         width="211.1375"
+         height="158.22083"
+         x="-52.652084"
+         y="-39.422916">
+        <title
+           id="title1259">RT Frame 02:01</title>
+      </rect>
+      <rect
+         y="-118.79791"
+         x="-158.48541"
+         height="316.97083"
+         width="422.80417"
+         id="rt-frame-04-01"
+         style="fill:none;fill-opacity:1;stroke:#b71c1c;stroke-width:0.529167;stroke-miterlimit:2;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         inkscape:label="rt-frame-04-01">
+        <title
+           id="title1263">RT Frame 04:01</title>
+      </rect>
+      <rect
+         inkscape:label="rt-frame-06-01"
+         style="fill:none;fill-opacity:1;stroke:#b71c1c;stroke-width:0.529167;stroke-miterlimit:2;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="rt-frame-06-01"
+         width="634.47083"
+         height="475.72083"
+         x="-264.31876"
+         y="-198.17293">
+        <title
+           id="title1267">RT Frame 06:01</title>
+      </rect>
+      <rect
+         inkscape:label="rt-frame-08-01"
+         style="fill:none;fill-opacity:1;stroke:#b71c1c;stroke-width:0.529167;stroke-miterlimit:2;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="rt-frame-08-01"
+         width="846.13751"
+         height="634.47083"
+         x="-370.1521"
+         y="-277.54791">
+        <title
+           id="title1271">RT Frame 08:01</title>
+      </rect>
+      <rect
+         inkscape:label="rt-frame-10-01"
+         style="fill:none;fill-opacity:1;stroke:#b71c1c;stroke-width:0.529167;stroke-miterlimit:2;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="rt-frame-10-01"
+         width="1057.8042"
+         height="793.22083"
+         x="-475.98544"
+         y="-356.92291">
+        <title
+           id="title1275">RT Frame 10:01</title>
+      </rect>
+      <rect
+         inkscape:label="rt-frame-12-01"
+         style="fill:none;fill-opacity:1;stroke:#b71c1c;stroke-width:0.529167;stroke-miterlimit:2;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="rt-frame-12-01"
+         width="1269.4708"
+         height="951.97089"
+         x="-581.81879"
+         y="-436.29791">
+        <title
+           id="title1279">RT Frame 12:01</title>
+      </rect>
+    </g>
+    <path
+       inkscape:label="#right-top"
+       id="right-top"
+       d="m 103.1875,0 v 16.328719 l 2.64583,2.645833 V 0 Z"
+       style="fill:#0d47a1;fill-opacity:1;stroke:none;stroke-width:0.26458299;stroke-miterlimit:2;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       inkscape:connector-curvature="0">
+      <title
+         id="title857">Right Top</title>
+    </path>
+  </g>
+</svg>
