@@ -120,6 +120,10 @@ You should see the tutorial for details.
 
 ![Template: Candyclone: Thumbnails 4][template-thumbs-4]
 
+![Template: Candyclone: Thumbnails 5][template-thumbs-5]
+
+![Template: Candyclone: Thumbnails 6][template-thumbs-6]
+
 [template-candy]:   https://github.com/epsi-rns/berkas2/raw/master/impress-template-candyclone/preview/template-candyclone-cover.png
 [impress-slides-2]: https://epsi-rns.gitlab.io/design/2020/09-impress/22/inkscape-impress-slides-02/
 [hervy-qa-bluez]:   https://hervyqa.com/gnome-bluez-libreoffice-impress-free-template/
@@ -131,6 +135,8 @@ You should see the tutorial for details.
 [template-thumbs-2]:https://github.com/epsi-rns/berkas2/raw/master/impress-template-candyclone/preview/thumbs-2.png
 [template-thumbs-3]:https://github.com/epsi-rns/berkas2/raw/master/impress-template-candyclone/preview/thumbs-3.png
 [template-thumbs-4]:https://github.com/epsi-rns/berkas2/raw/master/impress-template-candyclone/preview/thumbs-4.png
+[template-thumbs-5]:https://github.com/epsi-rns/berkas2/raw/master/impress-template-candyclone/preview/thumbs-5.png
+[template-thumbs-6]:https://github.com/epsi-rns/berkas2/raw/master/impress-template-candyclone/preview/thumbs-6.png
 
 [isometric-wall]:   https://github.com/epsi-rns/isometric-wallpaper
 [kartu-nama]:       https://akutidaktahu.netlify.app/inkscape/2017/10/03/kartu-nama.html
