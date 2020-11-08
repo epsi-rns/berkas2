@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <SCRIBUSUTF8NEW Version="1.5.6.svn">
-    <DOCUMENT ANZPAGES="17" PAGEWIDTH="432" PAGEHEIGHT="648" BORDERLEFT="57.6" BORDERRIGHT="36" BORDERTOP="36" BORDERBOTTOM="36" PRESET="0" BleedTop="0" BleedLeft="0" BleedRight="0" BleedBottom="0" ORIENTATION="0" PAGESIZE="Custom" FIRSTNUM="1" BOOK="1" AUTOTEXT="1" AUTOSPALTEN="1" ABSTSPALTEN="0.1528" UNITS="2" DFONT="Liberation Serif Regular" DSIZE="12" DCOL="1" DGAP="0" TabFill="" TabWidth="72" TextDistLeft="0" TextDistRight="0" TextDistBottom="0" TextDistTop="0" AUTHOR="IndieImprint" COMMENTS="This is a basic template to use for 6x9 books for Createspace and Lulu" KEYWORDS="Book, Template" PUBLISHER="IndieImprint" DOCDATE="" DOCTYPE="" DOCFORMAT="" DOCIDENT="" DOCSOURCE="" DOCLANGINFO="EN" DOCRELATION="" DOCCOVER="" DOCRIGHTS="Copyright 2016 IndieImprint under the Creative Commons Attribution 4.0 License" DOCCONTRIB="This work is licensed under the Creative Commons Attribution 4.0 International License. To view a copy of this license, visit http://creativecommons.org/licenses/by/4.0/ or send a letter to Creative Commons, PO Box 1866, Mountain View, CA 94042, USA." TITLE="The Book Title" SUBJECT="Basic Template" VHOCH="33" VHOCHSC="66" VTIEF="33" VTIEFSC="66" VKAPIT="75" BASEGRID="14.4" BASEO="0" AUTOL="100" UnderlinePos="-1" UnderlineWidth="-1" StrikeThruPos="-1" StrikeThruWidth="-1" GROUPC="1" HCMS="0" DPSo="0" DPSFo="0" DPuse="0" DPgam="0" DPbla="1" DPPr="Fogra27L CMYK Coated Press" DPIn="sRGB IEC61966-2.1" DPInCMYK="Fogra27L CMYK Coated Press" DPIn2="sRGB IEC61966-2.1" DPIn3="Fogra27L CMYK Coated Press" DISc="1" DIIm="0" ALAYER="0" LANGUAGE="" AUTOMATIC="1" AUTOCHECK="0" GUIDELOCK="0" SnapToGuides="0" SnapToGrid="0" SnapToElement="0" MINGRID="20.0016" MAJGRID="100.0008" SHOWGRID="0" SHOWGUIDES="1" showcolborders="1" SHOWFRAME="1" SHOWControl="0" SHOWLAYERM="0" SHOWMARGIN="1" SHOWBASE="0" SHOWPICT="1" SHOWLINK="1" rulerMode="1" showrulers="1" showBleed="1" rulerXoffset="0" rulerYoffset="0" GuideRad="10" GRAB="4" POLYC="4" POLYF="0.707106781186548" POLYR="0" POLYIR="0" POLYCUR="0" POLYOCUR="0" POLYS="0" arcStartAngle="30" arcSweepAngle="300" spiralStartAngle="0" spiralEndAngle="1080" spiralFactor="1.2" AutoSave="1" AutoSaveTime="600000" AutoSaveCount="1" AutoSaveKeep="0" AUtoSaveInDocDir="1" AutoSaveDir="" ScratchBottom="20.0016" ScratchLeft="100.0008" ScratchRight="100.0008" ScratchTop="20.0016" GapHorizontal="0" GapVertical="40.0032" StartArrow="0" EndArrow="0" PEN="Black" BRUSH="None" PENLINE="d" PENTEXT="Black" StrokeText="Black" TextBackGround="None" TextLineColor="None" TextBackGroundShade="100" TextLineShade="100" TextPenShade="100" TextStrokeShade="100" STIL="1" STILLINE="1" WIDTH="1" WIDTHLINE="1" PENSHADE="100" LINESHADE="100" BRUSHSHADE="100" CPICT="None" PICTSHADE="100" CSPICT="None" PICTSSHADE="100" PICTSCX="1" PICTSCY="1" PSCALE="1" PASPECT="1" EmbeddedPath="0" HalfRes="1" dispX="0" dispY="0" constrain="15" MINORC="#00ff00" MAJORC="#00ff00" GuideC="#000080" BaseC="#c0c0c0" renderStack="0 1 2 3 4" GridType="0" PAGEC="#ffffff" MARGC="#0000ff" RANDF="0" currentProfile="PDF 1.4" calligraphicPenFillColor="Black" calligraphicPenLineColor="Black" calligraphicPenFillColorShade="100" calligraphicPenLineColorShade="100" calligraphicPenLineWidth="1" calligraphicPenAngle="0" calligraphicPenWidth="10" calligraphicPenStyle="1">
+    <DOCUMENT ANZPAGES="13" PAGEWIDTH="432" PAGEHEIGHT="648" BORDERLEFT="57.6" BORDERRIGHT="36" BORDERTOP="36" BORDERBOTTOM="36" PRESET="0" BleedTop="0" BleedLeft="0" BleedRight="0" BleedBottom="0" ORIENTATION="0" PAGESIZE="Custom" FIRSTNUM="1" BOOK="1" AUTOTEXT="1" AUTOSPALTEN="1" ABSTSPALTEN="0.1528" UNITS="2" DFONT="Liberation Serif Regular" DSIZE="12" DCOL="1" DGAP="0" TabFill="" TabWidth="72" TextDistLeft="0" TextDistRight="0" TextDistBottom="0" TextDistTop="0" AUTHOR="IndieImprint" COMMENTS="This is a basic template to use for 6x9 books for Createspace and Lulu" KEYWORDS="Book, Template" PUBLISHER="IndieImprint" DOCDATE="" DOCTYPE="" DOCFORMAT="" DOCIDENT="" DOCSOURCE="" DOCLANGINFO="EN" DOCRELATION="" DOCCOVER="" DOCRIGHTS="Copyright 2016 IndieImprint under the Creative Commons Attribution 4.0 License" DOCCONTRIB="This work is licensed under the Creative Commons Attribution 4.0 International License. To view a copy of this license, visit http://creativecommons.org/licenses/by/4.0/ or send a letter to Creative Commons, PO Box 1866, Mountain View, CA 94042, USA." TITLE="The Book Title" SUBJECT="Basic Template" VHOCH="33" VHOCHSC="66" VTIEF="33" VTIEFSC="66" VKAPIT="75" BASEGRID="14.4" BASEO="0" AUTOL="100" UnderlinePos="-1" UnderlineWidth="-1" StrikeThruPos="-1" StrikeThruWidth="-1" GROUPC="1" HCMS="0" DPSo="0" DPSFo="0" DPuse="0" DPgam="0" DPbla="1" DPPr="Fogra27L CMYK Coated Press" DPIn="sRGB IEC61966-2.1" DPInCMYK="Fogra27L CMYK Coated Press" DPIn2="sRGB IEC61966-2.1" DPIn3="Fogra27L CMYK Coated Press" DISc="1" DIIm="0" ALAYER="0" LANGUAGE="" AUTOMATIC="1" AUTOCHECK="0" GUIDELOCK="0" SnapToGuides="0" SnapToGrid="0" SnapToElement="0" MINGRID="20.0016" MAJGRID="100.0008" SHOWGRID="0" SHOWGUIDES="1" showcolborders="1" SHOWFRAME="1" SHOWControl="0" SHOWLAYERM="1" SHOWMARGIN="1" SHOWBASE="0" SHOWPICT="1" SHOWLINK="1" rulerMode="1" showrulers="1" showBleed="1" rulerXoffset="0" rulerYoffset="0" GuideRad="10" GRAB="4" POLYC="4" POLYF="0.707106781186548" POLYR="0" POLYIR="0" POLYCUR="0" POLYOCUR="0" POLYS="0" arcStartAngle="30" arcSweepAngle="300" spiralStartAngle="0" spiralEndAngle="1080" spiralFactor="1.2" AutoSave="1" AutoSaveTime="600000" AutoSaveCount="1" AutoSaveKeep="0" AUtoSaveInDocDir="1" AutoSaveDir="" ScratchBottom="20.0016" ScratchLeft="100.0008" ScratchRight="100.0008" ScratchTop="20.0016" GapHorizontal="0" GapVertical="40.0032" StartArrow="0" EndArrow="0" PEN="Black" BRUSH="None" PENLINE="d" PENTEXT="Black" StrokeText="Black" TextBackGround="None" TextLineColor="None" TextBackGroundShade="100" TextLineShade="100" TextPenShade="100" TextStrokeShade="100" STIL="1" STILLINE="1" WIDTH="1" WIDTHLINE="1" PENSHADE="100" LINESHADE="100" BRUSHSHADE="100" CPICT="None" PICTSHADE="100" CSPICT="None" PICTSSHADE="100" PICTSCX="1" PICTSCY="1" PSCALE="1" PASPECT="1" EmbeddedPath="0" HalfRes="1" dispX="0" dispY="0" constrain="15" MINORC="#00ff00" MAJORC="#00ff00" GuideC="#000080" BaseC="#c0c0c0" renderStack="0 1 2 3 4" GridType="0" PAGEC="#ffffff" MARGC="#0000ff" RANDF="0" currentProfile="PDF 1.4" calligraphicPenFillColor="Black" calligraphicPenLineColor="Black" calligraphicPenFillColorShade="100" calligraphicPenLineColorShade="100" calligraphicPenLineWidth="1" calligraphicPenAngle="0" calligraphicPenWidth="10" calligraphicPenStyle="1">
         <CheckProfile Name="PDF 1.3" ignoreErrors="0" autoCheck="1" checkGlyphs="1" checkOrphans="1" checkOverflow="1" checkPictures="1" checkPartFilledImageFrames="0" checkResolution="1" checkTransparency="1" minResolution="144" maxResolution="2400" checkAnnotations="0" checkRasterPDF="1" checkForGIF="1" ignoreOffLayers="0" checkNotCMYKOrSpot="0" checkDeviceColorsAndOutputIntent="0" checkFontNotEmbedded="0" checkFontIsOpenType="0" checkAppliedMasterDifferentSide="1" checkEmptyTextFrames="1"/>
         <CheckProfile Name="PDF 1.4" ignoreErrors="0" autoCheck="1" checkGlyphs="1" checkOrphans="1" checkOverflow="1" checkPictures="1" checkPartFilledImageFrames="0" checkResolution="1" checkTransparency="0" minResolution="144" maxResolution="2400" checkAnnotations="0" checkRasterPDF="1" checkForGIF="1" ignoreOffLayers="0" checkNotCMYKOrSpot="0" checkDeviceColorsAndOutputIntent="0" checkFontNotEmbedded="0" checkFontIsOpenType="0" checkAppliedMasterDifferentSide="1" checkEmptyTextFrames="1"/>
         <CheckProfile Name="PDF 1.5" ignoreErrors="0" autoCheck="1" checkGlyphs="1" checkOrphans="1" checkOverflow="1" checkPictures="1" checkPartFilledImageFrames="0" checkResolution="1" checkTransparency="0" minResolution="144" maxResolution="2400" checkAnnotations="0" checkRasterPDF="1" checkForGIF="1" ignoreOffLayers="0" checkNotCMYKOrSpot="0" checkDeviceColorsAndOutputIntent="0" checkFontNotEmbedded="0" checkFontIsOpenType="0" checkAppliedMasterDifferentSide="1" checkEmptyTextFrames="1"/>
@@ -16,45 +16,36 @@
         <COLOR NAME="Blue 900" SPACE="RGB" R="13" G="71" B="161"/>
         <COLOR NAME="Cool Black" SPACE="CMYK" C="60" M="0" Y="0" K="100"/>
         <COLOR NAME="Cyan" SPACE="CMYK" C="100" M="0" Y="0" K="0"/>
+        <COLOR NAME="Cyan 700" SPACE="RGB" R="0" G="151" B="167"/>
+        <COLOR NAME="Cyan 900" SPACE="RGB" R="0" G="96" B="100"/>
         <COLOR NAME="Green" SPACE="RGB" R="0" G="255" B="0"/>
         <COLOR NAME="Green 700" SPACE="RGB" R="56" G="142" B="60"/>
         <COLOR NAME="Green 900" SPACE="RGB" R="27" G="94" B="32"/>
         <COLOR NAME="Magenta" SPACE="CMYK" C="0" M="100" Y="0" K="0"/>
         <COLOR NAME="Red" SPACE="RGB" R="255" G="0" B="0"/>
+        <COLOR NAME="Red 700" SPACE="RGB" R="211" G="47" B="47"/>
+        <COLOR NAME="Red 900" SPACE="RGB" R="183" G="28" B="28"/>
         <COLOR NAME="Registration" SPACE="CMYK" C="100" M="100" Y="100" K="100" Register="1"/>
         <COLOR NAME="Rich Black" SPACE="CMYK" C="60" M="40" Y="40" K="100"/>
-        <COLOR NAME="Scribus 01" SPACE="CMYK" C="89.0196078431373" M="73.7254901960784" Y="15.6862745098039" K="35.2941176470588"/>
-        <COLOR NAME="Scribus 02" SPACE="CMYK" C="87.0588235294118" M="69.0196078431373" Y="7.84313725490196" K="15.2941176470588"/>
-        <COLOR NAME="Scribus 03" SPACE="CMYK" C="0" M="0" Y="0" K="80.3921568627451"/>
-        <COLOR NAME="Scribus 04" SPACE="CMYK" C="79.2156862745098" M="56.4705882352941" Y="4.31372549019608" K="7.84313725490196"/>
-        <COLOR NAME="Scribus 05" SPACE="CMYK" C="61.1764705882353" M="50.1960784313725" Y="54.9019607843137" K="60.3921568627451"/>
-        <COLOR NAME="Scribus 06" SPACE="CMYK" C="56.8627450980392" M="30.1960784313725" Y="2.35294117647059" K="2.74509803921569"/>
-        <COLOR NAME="Scribus 07" SPACE="CMYK" C="43.921568627451" M="32.9411764705882" Y="49.4117647058824" K="33.7254901960784"/>
-        <COLOR NAME="Scribus 08" SPACE="CMYK" C="19.2156862745098" M="50.5882352941176" Y="94.5098039215686" K="45.8823529411765"/>
-        <COLOR NAME="Scribus 09" SPACE="CMYK" C="37.2549019607843" M="27.843137254902" Y="31.7647058823529" K="27.843137254902"/>
-        <COLOR NAME="Scribus 10" SPACE="CMYK" C="12.5490196078431" M="47.843137254902" Y="93.7254901960784" K="41.1764705882353"/>
-        <COLOR NAME="Scribus 11" SPACE="CMYK" C="33.3333333333333" M="24.7058823529412" Y="33.7254901960784" K="21.5686274509804"/>
-        <COLOR NAME="Scribus 12" SPACE="CMYK" C="18.8235294117647" M="12.9411764705882" Y="14.1176470588235" K="5.49019607843137"/>
-        <COLOR NAME="Scribus 13" SPACE="CMYK" C="12.5490196078431" M="8.62745098039216" Y="9.41176470588235" K="1.96078431372549"/>
-        <COLOR NAME="Scribus 14" SPACE="CMYK" C="14.5098039215686" M="5.88235294117647" Y="45.0980392156863" K="0.784313725490196"/>
-        <COLOR NAME="Scribus 15" SPACE="CMYK" C="11.3725490196078" M="7.84313725490196" Y="7.05882352941176" K="1.17647058823529"/>
-        <COLOR NAME="Scribus 16" SPACE="CMYK" C="4.70588235294118" M="2.35294117647059" Y="27.0588235294118" K="0"/>
-        <COLOR NAME="Scribus 17" SPACE="CMYK" C="3.52941176470588" M="0.392156862745098" Y="31.7647058823529" K="0"/>
+        <COLOR NAME="Teal 700" SPACE="RGB" R="0" G="121" B="107"/>
+        <COLOR NAME="Teal 900" SPACE="RGB" R="0" G="77" B="64"/>
         <COLOR NAME="Warm Black" SPACE="CMYK" C="0" M="60" Y="29.8039215686275" K="100"/>
         <COLOR NAME="White" SPACE="CMYK" C="0" M="0" Y="0" K="0"/>
         <COLOR NAME="Yellow" SPACE="CMYK" C="0" M="0" Y="100" K="0"/>
         <HYPHEN/>
         <STYLE NAME="Default Paragraph Style" DefaultStyle="1" ALIGN="0" LINESPMode="0" LINESP="15" INDENT="0" RMARGIN="0" FIRST="0" VOR="0" NACH="0" ParagraphEffectOffset="0" DROP="0" DROPLIN="2"/>
-        <STYLE NAME="Interior Paragraph" PARENT="Default Paragraph Style" FIRST="18" FONT="Source Serif Pro Regular" FONTSIZE="10" FONTFEATURES="-clig"/>
+        <STYLE NAME="Interior Paragraph" PARENT="Default Paragraph Style" ALIGN="3" FIRST="18" FONT="Source Serif Pro Regular" FONTSIZE="10" FONTFEATURES="-clig"/>
         <STYLE NAME="Chapter Heading" PARENT="Default Paragraph Style" ALIGN="1" FIRST="0" VOR="5" NACH="5" BCOLOR="None" FONT="Source Serif Pro Bold" FONTSIZE="18" FONTFEATURES="-clig" FCOLOR="Blue 900"/>
         <STYLE NAME="Interior Paragraph italic" PARENT="Default Paragraph Style" FIRST="18" FONT="Liberation Serif Italic" FONTSIZE="10"/>
         <STYLE NAME="Interior Paragraph No Indent" PARENT="Default Paragraph Style" FIRST="0" FONT="Source Serif Pro Regular" FONTSIZE="10" FONTFEATURES="-clig"/>
         <STYLE NAME="Heading One" VOR="10" NACH="5" FONT="Source Serif Pro SemiBold" FONTSIZE="14" FONTFEATURES="-clig" FCOLOR="Blue 700" LANGUAGE=""/>
         <STYLE NAME="Heading Two" VOR="6" NACH="3" FONT="Source Serif Pro SemiBold" FONTSIZE="12" FONTFEATURES="-clig" FCOLOR="Blue 500" LANGUAGE=""/>
-        <STYLE NAME="Butir Pikiran" PARENT="Default Paragraph Style" INDENT="7.2" FIRST="0" ParagraphEffectOffset="5.76" ParagraphEffectIndent="0" DROP="0" Bullet="1" BulletStr="▶" Numeration="0"/>
+        <STYLE NAME="Butir Pikiran" PARENT="Default Paragraph Style" INDENT="18" FIRST="-10.8" ParagraphEffectOffset="5.76" ParagraphEffectIndent="0" DROP="0" Bullet="1" BulletStr="▶" Numeration="0"/>
+        <STYLE NAME="Quotes" PARENT="Default Paragraph Style" ALIGN="1" FONT="Marck Script Regular" FONTFEATURES="-clig,-liga"/>
         <CHARSTYLE CNAME="Default Character Style" DefaultStyle="1" FONT="Source Serif Pro Regular" FONTSIZE="10" FONTFEATURES="-clig" FEATURES="inherit" FCOLOR="Black" FSHADE="100" SCOLOR="Black" SSHADE="100" TXTSHX="5" TXTSHY="-5" TXTOUT="1" TXTULP="-0.1" TXTULW="-0.1" TXTSTP="-0.1" TXTSTW="-0.1" SCALEH="100" SCALEV="100" BASEO="0" KERN="0" LANGUAGE="en_US"/>
-        <CHARSTYLE CNAME="Kata Asing" FONT="Source Serif Pro Italic" FONTFEATURES="-clig" FCOLOR="Green 900" LANGUAGE=""/>
-        <CHARSTYLE CNAME="Tautan Link" FONT="Source Serif Pro Regular" FONTFEATURES="-clig" FCOLOR="Blue 900" LANGUAGE=""/>
+        <CHARSTYLE CNAME="Tautan Link" FONT="Source Serif Pro Regular" FONTFEATURES="-clig" FEATURES="underline" FCOLOR="Red 900" TXTSHX="5" TXTSHY="-5" TXTOUT="1" TXTULP="50" TXTULW="5" TXTSTP="-0.1" TXTSTW="-0.1" LANGUAGE=""/>
+        <CHARSTYLE CNAME="Terminology" FONT="Source Serif Pro Italic" FONTFEATURES="-clig" FCOLOR="Teal 900" LANGUAGE=""/>
+        <CHARSTYLE CNAME="Code" FONT="Source Sans Pro Regular" FONTFEATURES="-clig" FCOLOR="Blue 900" LANGUAGE=""/>
         <TableStyle NAME="Default Table Style" DefaultStyle="1" FillColor="None" FillShade="100">
             <TableBorderLeft>
                 <TableBorderLine Width="1" PenStyle="1" Color="Black" Shade="100"/>
@@ -86,12 +77,14 @@
         <LAYERS NUMMER="0" LEVEL="0" NAME="Background" SICHTBAR="1" DRUCKEN="1" EDIT="1" SELECT="0" FLOW="1" TRANS="1" BLEND="0" OUTL="0" LAYERC="#000000"/>
         <Printer firstUse="1" toFile="0" useAltPrintCommand="0" outputSeparations="0" useSpotColors="1" useColor="1" mirrorH="0" mirrorV="0" useICC="0" doGCR="0" doClip="0" setDevParam="0" useDocBleeds="1" cropMarks="0" bleedMarks="0" registrationMarks="0" colorMarks="0" includePDFMarks="1" PSLevel="3" PDLanguage="3" markLength="20.0016" markOffset="0" BleedTop="0" BleedLeft="0" BleedRight="0" BleedBottom="0" printer="HP_Deskjet_1510_series" filename="" separationName="All" printerCommand=""/>
         <PDF firstUse="0" Thumbnails="0" Articles="0" Bookmarks="0" Compress="1" CMethod="0" Quality="0" EmbedPDF="0" MirrorH="0" MirrorV="0" Clip="0" rangeSel="0" rangeTxt="" RotateDeg="0" PresentMode="0" RecalcPic="0" FontEmbedding="0" Grayscale="0" RGBMode="0" UseProfiles="0" UseProfiles2="0" Binding="0" PicRes="300" Resolution="300" Version="14" Intent="1" Intent2="0" SolidP="sRGB IEC61966-2.1" ImageP="sRGB IEC61966-2.1" PrintP="Fogra27L CMYK Coated Press" InfoString="" BTop="0" BLeft="0" BRight="0" BBottom="0" useDocBleeds="0" cropMarks="0" bleedMarks="0" registrationMarks="0" colorMarks="0" docInfoMarks="0" markLength="1.0008" markOffset="0" ImagePr="0" PassOwner="" PassUser="" Permissions="-4" Encrypt="0" UseLayers="0" UseLpi="0" UseSpotColors="1" doMultiFile="0" displayBookmarks="0" displayFullscreen="0" displayLayers="0" displayThumbs="0" hideMenuBar="0" hideToolBar="0" fitWindow="0" openAfterExport="0" PageLayout="0" openAction="">
+            <Fonts Name="Marck Script Regular"/>
+            <Fonts Name="Source Sans Pro Regular"/>
+            <Fonts Name="Source Serif Pro Bold"/>
+            <Fonts Name="Source Serif Pro Italic"/>
             <Fonts Name="Source Serif Pro Regular"/>
-            <Subset Name="Liberation Serif Bold"/>
+            <Fonts Name="Source Serif Pro SemiBold"/>
             <Subset Name="Liberation Serif Italic"/>
             <Subset Name="Liberation Serif Regular"/>
-            <Subset Name="Source Serif Pro Bold"/>
-            <Subset Name="Source Serif Pro SemiBold"/>
             <LPI Color="" Frequency="10" Angle="0" SpotFunction="0"/>
             <LPI Color="Black" Frequency="133" Angle="45" SpotFunction="3"/>
             <LPI Color="Cyan" Frequency="133" Angle="105" SpotFunction="3"/>
@@ -122,70 +115,66 @@
             </Set>
         </PageSets>
         <Sections>
-            <Section Number="0" Name="0" From="0" To="16" Type="Type_1_2_3" Start="1" Reversed="0" Active="1" FillChar="0" FieldWidth="0"/>
+            <Section Number="0" Name="0" From="0" To="12" Type="Type_1_2_3" Start="1" Reversed="0" Active="1" FillChar="0" FieldWidth="0"/>
         </Sections>
-        <MASTERPAGE PAGEXPOS="100.0008" PAGEYPOS="20.0016" PAGEWIDTH="432" PAGEHEIGHT="648" BORDERLEFT="57.6" BORDERRIGHT="36" BORDERTOP="36" BORDERBOTTOM="36" NUM="0" NAM="Normal Left" MNAM="" Size="Custom" Orientation="0" LEFT="1" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
-        <MASTERPAGE PAGEXPOS="100.0008" PAGEYPOS="20.0016" PAGEWIDTH="432" PAGEHEIGHT="648" BORDERLEFT="57.6" BORDERRIGHT="36" BORDERTOP="36" BORDERBOTTOM="36" NUM="1" NAM="Normal Right" MNAM="" Size="Custom" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
-        <MASTERPAGE PAGEXPOS="100.0008" PAGEYPOS="20.0016" PAGEWIDTH="432" PAGEHEIGHT="648" BORDERLEFT="57.6" BORDERRIGHT="36" BORDERTOP="36" BORDERBOTTOM="36" NUM="2" NAM="Interior Right" MNAM="" Size="Custom" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
-        <MASTERPAGE PAGEXPOS="100.0008" PAGEYPOS="20.0016" PAGEWIDTH="432" PAGEHEIGHT="648" BORDERLEFT="57.6" BORDERRIGHT="36" BORDERTOP="36" BORDERBOTTOM="36" NUM="3" NAM="Interior Left" MNAM="" Size="Custom" Orientation="0" LEFT="1" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
-        <PAGE PAGEXPOS="532.0008" PAGEYPOS="20.0016" PAGEWIDTH="432" PAGEHEIGHT="648" BORDERLEFT="57.6" BORDERRIGHT="36" BORDERTOP="36" BORDERBOTTOM="36" NUM="0" NAM="" MNAM="Normal Right" Size="Custom" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
-        <PAGE PAGEXPOS="100.0008" PAGEYPOS="708.0048" PAGEWIDTH="432" PAGEHEIGHT="648" BORDERLEFT="57.6" BORDERRIGHT="36" BORDERTOP="36" BORDERBOTTOM="36" NUM="1" NAM="" MNAM="Normal Left" Size="Custom" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
-        <PAGE PAGEXPOS="532.0008" PAGEYPOS="708.0048" PAGEWIDTH="432" PAGEHEIGHT="648" BORDERLEFT="57.6" BORDERRIGHT="36" BORDERTOP="36" BORDERBOTTOM="36" NUM="2" NAM="" MNAM="Normal Right" Size="Custom" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
-        <PAGE PAGEXPOS="100.0008" PAGEYPOS="1396.008" PAGEWIDTH="432" PAGEHEIGHT="648" BORDERLEFT="57.6" BORDERRIGHT="36" BORDERTOP="36" BORDERBOTTOM="36" NUM="3" NAM="" MNAM="Normal Left" Size="Custom" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
-        <PAGE PAGEXPOS="532.0008" PAGEYPOS="1396.008" PAGEWIDTH="432" PAGEHEIGHT="648" BORDERLEFT="57.6" BORDERRIGHT="36" BORDERTOP="36" BORDERBOTTOM="36" NUM="4" NAM="" MNAM="Interior Right" Size="Custom" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
-        <PAGE PAGEXPOS="100.0008" PAGEYPOS="2084.0112" PAGEWIDTH="432" PAGEHEIGHT="648" BORDERLEFT="57.6" BORDERRIGHT="36" BORDERTOP="36" BORDERBOTTOM="36" NUM="5" NAM="" MNAM="Interior Left" Size="Custom" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
-        <PAGE PAGEXPOS="532.0008" PAGEYPOS="2084.0112" PAGEWIDTH="432" PAGEHEIGHT="648" BORDERLEFT="57.6" BORDERRIGHT="36" BORDERTOP="36" BORDERBOTTOM="36" NUM="6" NAM="" MNAM="Interior Right" Size="Custom" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
-        <PAGE PAGEXPOS="100.0008" PAGEYPOS="2772.0144" PAGEWIDTH="432" PAGEHEIGHT="648" BORDERLEFT="57.6" BORDERRIGHT="36" BORDERTOP="36" BORDERBOTTOM="36" NUM="7" NAM="" MNAM="Normal Left" Size="Custom" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
-        <PAGE PAGEXPOS="532.0008" PAGEYPOS="2772.0144" PAGEWIDTH="432" PAGEHEIGHT="648" BORDERLEFT="57.6" BORDERRIGHT="36" BORDERTOP="36" BORDERBOTTOM="36" NUM="8" NAM="" MNAM="Interior Right" Size="Custom" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
-        <PAGE PAGEXPOS="100.0008" PAGEYPOS="3460.0176" PAGEWIDTH="432" PAGEHEIGHT="648" BORDERLEFT="57.6" BORDERRIGHT="36" BORDERTOP="36" BORDERBOTTOM="36" NUM="9" NAM="" MNAM="Interior Left" Size="Custom" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
-        <PAGE PAGEXPOS="532.0008" PAGEYPOS="3460.0176" PAGEWIDTH="432" PAGEHEIGHT="648" BORDERLEFT="57.6" BORDERRIGHT="36" BORDERTOP="36" BORDERBOTTOM="36" NUM="10" NAM="" MNAM="Interior Right" Size="Custom" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
-        <PAGE PAGEXPOS="100.0008" PAGEYPOS="4148.0208" PAGEWIDTH="432" PAGEHEIGHT="648" BORDERLEFT="57.6" BORDERRIGHT="36" BORDERTOP="36" BORDERBOTTOM="36" NUM="11" NAM="" MNAM="Interior Left" Size="Custom" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
-        <PAGE PAGEXPOS="532.0008" PAGEYPOS="4148.0208" PAGEWIDTH="432" PAGEHEIGHT="648" BORDERLEFT="57.6" BORDERRIGHT="36" BORDERTOP="36" BORDERBOTTOM="36" NUM="12" NAM="" MNAM="Interior Right" Size="Custom" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
-        <PAGE PAGEXPOS="100.0008" PAGEYPOS="4836.024" PAGEWIDTH="432" PAGEHEIGHT="648" BORDERLEFT="36" BORDERRIGHT="57.6" BORDERTOP="36" BORDERBOTTOM="36" NUM="13" NAM="" MNAM="Normal Right" Size="Custom" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
-        <PAGE PAGEXPOS="532.0008" PAGEYPOS="4836.024" PAGEWIDTH="432" PAGEHEIGHT="648" BORDERLEFT="57.6" BORDERRIGHT="36" BORDERTOP="36" BORDERBOTTOM="36" NUM="14" NAM="" MNAM="Normal Right" Size="Custom" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
-        <PAGE PAGEXPOS="100.0008" PAGEYPOS="5524.0272" PAGEWIDTH="432" PAGEHEIGHT="648" BORDERLEFT="57.6" BORDERRIGHT="36" BORDERTOP="36" BORDERBOTTOM="36" NUM="15" NAM="" MNAM="Normal Left" Size="Custom" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
-        <PAGE PAGEXPOS="532.0008" PAGEYPOS="5524.0272" PAGEWIDTH="432" PAGEHEIGHT="648" BORDERLEFT="57.6" BORDERRIGHT="36" BORDERTOP="36" BORDERBOTTOM="36" NUM="16" NAM="" MNAM="Normal Right" Size="Custom" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
-        <MASTEROBJECT XPOS="158.5008" YPOS="617.2516" OwnPage="2" ItemID="1931677600" PTYPE="4" WIDTH="337.5" HEIGHT="14.25" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L337.5 0 L337.5 14.25 L0 14.25 L0 0 Z" copath="M0 0 L337.5 0 L337.5 14.25 L0 14.25 L0 0 Z" OnMasterPage="Interior Right" gXpos="18958320" gYpos="153782475.263977" gWidth="0" gHeight="0" ALIGN="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+        <MASTERPAGE PAGEXPOS="100.0008" PAGEYPOS="20.0016" PAGEWIDTH="432" PAGEHEIGHT="648" BORDERLEFT="50.4" BORDERRIGHT="36" BORDERTOP="36" BORDERBOTTOM="36" NUM="0" NAM="Normal Left" MNAM="" Size="Custom" Orientation="0" LEFT="1" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <MASTERPAGE PAGEXPOS="100.0008" PAGEYPOS="20.0016" PAGEWIDTH="432" PAGEHEIGHT="648" BORDERLEFT="50.4" BORDERRIGHT="36" BORDERTOP="36" BORDERBOTTOM="36" NUM="1" NAM="Normal Right" MNAM="" Size="Custom" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <MASTERPAGE PAGEXPOS="100.0008" PAGEYPOS="20.0016" PAGEWIDTH="432" PAGEHEIGHT="648" BORDERLEFT="50.4" BORDERRIGHT="36" BORDERTOP="36" BORDERBOTTOM="36" NUM="2" NAM="Interior Right" MNAM="" Size="Custom" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <MASTERPAGE PAGEXPOS="100.0008" PAGEYPOS="20.0016" PAGEWIDTH="432" PAGEHEIGHT="648" BORDERLEFT="50.4" BORDERRIGHT="36" BORDERTOP="36" BORDERBOTTOM="36" NUM="3" NAM="Interior Left" MNAM="" Size="Custom" Orientation="0" LEFT="1" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <PAGE PAGEXPOS="532.0008" PAGEYPOS="20.0016" PAGEWIDTH="432" PAGEHEIGHT="648" BORDERLEFT="50.4" BORDERRIGHT="36" BORDERTOP="36" BORDERBOTTOM="36" NUM="0" NAM="" MNAM="Normal Right" Size="Custom" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <PAGE PAGEXPOS="100.0008" PAGEYPOS="708.0048" PAGEWIDTH="432" PAGEHEIGHT="648" BORDERLEFT="50.4" BORDERRIGHT="36" BORDERTOP="36" BORDERBOTTOM="36" NUM="1" NAM="" MNAM="Normal Left" Size="Custom" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <PAGE PAGEXPOS="532.0008" PAGEYPOS="708.0048" PAGEWIDTH="432" PAGEHEIGHT="648" BORDERLEFT="50.4" BORDERRIGHT="36" BORDERTOP="36" BORDERBOTTOM="36" NUM="2" NAM="" MNAM="Normal Right" Size="Custom" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <PAGE PAGEXPOS="100.0008" PAGEYPOS="1396.008" PAGEWIDTH="432" PAGEHEIGHT="648" BORDERLEFT="50.4" BORDERRIGHT="36" BORDERTOP="36" BORDERBOTTOM="36" NUM="3" NAM="" MNAM="Normal Left" Size="Custom" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <PAGE PAGEXPOS="532.0008" PAGEYPOS="1396.008" PAGEWIDTH="432" PAGEHEIGHT="648" BORDERLEFT="50.4" BORDERRIGHT="36" BORDERTOP="36" BORDERBOTTOM="36" NUM="4" NAM="" MNAM="Interior Right" Size="Custom" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <PAGE PAGEXPOS="100.0008" PAGEYPOS="2084.0112" PAGEWIDTH="432" PAGEHEIGHT="648" BORDERLEFT="50.4" BORDERRIGHT="36" BORDERTOP="36" BORDERBOTTOM="36" NUM="5" NAM="" MNAM="Interior Left" Size="Custom" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <PAGE PAGEXPOS="532.0008" PAGEYPOS="2084.0112" PAGEWIDTH="432" PAGEHEIGHT="648" BORDERLEFT="50.4" BORDERRIGHT="36" BORDERTOP="36" BORDERBOTTOM="36" NUM="6" NAM="" MNAM="Interior Right" Size="Custom" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <PAGE PAGEXPOS="100.0008" PAGEYPOS="2772.0144" PAGEWIDTH="432" PAGEHEIGHT="648" BORDERLEFT="50.4" BORDERRIGHT="36" BORDERTOP="36" BORDERBOTTOM="36" NUM="7" NAM="" MNAM="Interior Left" Size="Custom" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <PAGE PAGEXPOS="532.0008" PAGEYPOS="2772.0144" PAGEWIDTH="432" PAGEHEIGHT="648" BORDERLEFT="50.4" BORDERRIGHT="36" BORDERTOP="36" BORDERBOTTOM="36" NUM="8" NAM="" MNAM="Interior Right" Size="Custom" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <PAGE PAGEXPOS="100.0008" PAGEYPOS="3460.0176" PAGEWIDTH="432" PAGEHEIGHT="648" BORDERLEFT="50.4" BORDERRIGHT="36" BORDERTOP="36" BORDERBOTTOM="36" NUM="9" NAM="" MNAM="Interior Left" Size="Custom" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <PAGE PAGEXPOS="532.0008" PAGEYPOS="3460.0176" PAGEWIDTH="432" PAGEHEIGHT="648" BORDERLEFT="50.4" BORDERRIGHT="36" BORDERTOP="36" BORDERBOTTOM="36" NUM="10" NAM="" MNAM="Interior Right" Size="Custom" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <PAGE PAGEXPOS="100.0008" PAGEYPOS="4148.0208" PAGEWIDTH="432" PAGEHEIGHT="648" BORDERLEFT="50.4" BORDERRIGHT="36" BORDERTOP="36" BORDERBOTTOM="36" NUM="11" NAM="" MNAM="Interior Left" Size="Custom" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <PAGE PAGEXPOS="532.0008" PAGEYPOS="4148.0208" PAGEWIDTH="432" PAGEHEIGHT="648" BORDERLEFT="50.4" BORDERRIGHT="36" BORDERTOP="36" BORDERBOTTOM="36" NUM="12" NAM="" MNAM="Interior Right" Size="Custom" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <MASTEROBJECT XPOS="150.4008" YPOS="617.6016" OwnPage="2" ItemID="1934477456" PTYPE="4" WIDTH="345.6" HEIGHT="14.4" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L345.6 0 L345.6 14.4 L0 14.4 L0 0 Z" copath="M0 0 L345.6 0 L345.6 14.4 L0 14.4 L0 0 Z" OnMasterPage="Interior Right" gXpos="38319687.9" gYpos="255365460.090895" gWidth="0" gHeight="0" ALIGN="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle ALIGN="0" LINESPMode="0" LINESP="15" FONT="Liberation Serif Regular" FONTSIZE="12" FCOLOR="Black" FSHADE="100" SCOLOR="Black" SSHADE="100" TXTSHX="5" TXTSHY="-5" TXTOUT="1" TXTULP="-0.1" TXTULW="-0.1" TXTSTP="-0.1" TXTSTW="-0.1" SCALEH="100" SCALEV="100" BASEO="0"/>
                 <var name="pgno" FONT="Liberation Serif Regular" FONTSIZE="10"/>
                 <para ALIGN="1"/>
             </StoryText>
         </MASTEROBJECT>
-        <MASTEROBJECT XPOS="158.5008" YPOS="58.0016" OwnPage="2" ItemID="1931635808" PTYPE="4" WIDTH="337.5" HEIGHT="15.5" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L337.5 0 L337.5 15.5 L0 15.5 L0 0 Z" copath="M0 0 L337.5 0 L337.5 15.5 L0 15.5 L0 0 Z" OnMasterPage="Interior Right" gXpos="18958320" gYpos="153782475.263977" gWidth="0" gHeight="0" ALIGN="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+        <MASTEROBJECT XPOS="150.4008" YPOS="56.0016" OwnPage="2" ItemID="1932215984" PTYPE="4" WIDTH="345.6" HEIGHT="14.4" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L345.6 0 L345.6 14.4 L0 14.4 L0 0 Z" copath="M0 0 L345.6 0 L345.6 14.4 L0 14.4 L0 0 Z" OnMasterPage="Interior Right" gXpos="38319687.9" gYpos="255365457.740895" gWidth="0" gHeight="0" ALIGN="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle ALIGN="0" LINESPMode="0" LINESP="15" FONT="Liberation Serif Regular" FONTSIZE="12" FCOLOR="Black" FSHADE="100" SCOLOR="Black" SSHADE="100" TXTSHX="5" TXTSHY="-5" TXTOUT="1" TXTULP="-0.1" TXTULW="-0.1" TXTSTP="-0.1" TXTSTW="-0.1" SCALEH="100" SCALEV="100" BASEO="0"/>
                 <ITEXT FONT="Source Serif Pro Regular" FONTSIZE="10" FONTFEATURES="-liga" FEATURES="inherit smallcaps" FCOLOR="Black" FSHADE="100" SCOLOR="Black" SSHADE="100" TXTSHX="5" TXTSHY="-5" TXTOUT="1" TXTULP="-0.1" TXTULW="-0.1" TXTSTP="-0.1" TXTSTW="-0.1" SCALEH="100" SCALEV="100" BASEO="0" CH="Praktek Menggunakan CSS Preprocessor"/>
                 <trail ALIGN="1"/>
             </StoryText>
         </MASTEROBJECT>
-        <MASTEROBJECT XPOS="136.5008" YPOS="617.2516" OwnPage="3" ItemID="1931775088" PTYPE="4" WIDTH="337.5" HEIGHT="14.25" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L337.5 0 L337.5 14.25 L0 14.25 L0 0 Z" copath="M0 0 L337.5 0 L337.5 14.25 L0 14.25 L0 0 Z" OnMasterPage="Interior Left" gXpos="474768" gYpos="124788644.409585" gWidth="0" gHeight="0" ALIGN="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+        <MASTEROBJECT XPOS="136.0008" YPOS="617.6016" OwnPage="3" ItemID="1935191216" PTYPE="4" WIDTH="345.6" HEIGHT="14.4" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L345.6 0 L345.6 14.4 L0 14.4 L0 0 Z" copath="M0 0 L345.6 0 L345.6 14.4 L0 14.4 L0 0 Z" OnMasterPage="Interior Left" gXpos="506735.5" gYpos="216893009.150235" gWidth="0" gHeight="0" ALIGN="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle ALIGN="0" LINESPMode="0" LINESP="15" FONT="Liberation Serif Regular" FONTSIZE="12" FCOLOR="Black" FSHADE="100" SCOLOR="Black" SSHADE="100" TXTSHX="5" TXTSHY="-5" TXTOUT="1" TXTULP="-0.1" TXTULW="-0.1" TXTSTP="-0.1" TXTSTW="-0.1" SCALEH="100" SCALEV="100" BASEO="0"/>
                 <var name="pgno" FONT="Liberation Serif Regular" FONTSIZE="10"/>
                 <para ALIGN="1"/>
             </StoryText>
         </MASTEROBJECT>
-        <MASTEROBJECT XPOS="136.5008" YPOS="58.0016" OwnPage="3" ItemID="1931800432" PTYPE="4" WIDTH="337.5" HEIGHT="15.5" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L337.5 0 L337.5 15.5 L0 15.5 L0 0 Z" copath="M0 0 L337.5 0 L337.5 15.5 L0 15.5 L0 0 Z" OnMasterPage="Interior Left" gXpos="474768" gYpos="124788644.409585" gWidth="0" gHeight="0" ALIGN="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+        <MASTEROBJECT XPOS="136.0008" YPOS="56.0016" OwnPage="3" ItemID="1934672368" PTYPE="4" WIDTH="345.6" HEIGHT="14.4" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L345.6 0 L345.6 14.4 L0 14.4 L0 0 Z" copath="M0 0 L345.6 0 L345.6 14.4 L0 14.4 L0 0 Z" OnMasterPage="Interior Left" gXpos="506735.5" gYpos="216893006.800235" gWidth="0" gHeight="0" ALIGN="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle ALIGN="0" LINESPMode="0" LINESP="15" FONT="Liberation Serif Regular" FONTSIZE="12" FCOLOR="Black" FSHADE="100" SCOLOR="Black" SSHADE="100" TXTSHX="5" TXTSHY="-5" TXTOUT="1" TXTULP="-0.1" TXTULW="-0.1" TXTSTP="-0.1" TXTSTW="-0.1" SCALEH="100" SCALEV="100" BASEO="0"/>
                 <ITEXT FONT="Source Serif Pro Regular" FONTSIZE="10" FEATURES="inherit smallcaps" FCOLOR="Black" FSHADE="100" SCOLOR="Black" SSHADE="100" TXTSHX="5" TXTSHY="-5" TXTOUT="1" TXTULP="-0.1" TXTULW="-0.1" TXTSTP="-0.1" TXTSTW="-0.1" SCALEH="100" SCALEV="100" BASEO="0" CH="E.R. Nurwijayadi"/>
                 <trail ALIGN="1"/>
             </StoryText>
         </MASTEROBJECT>
-        <MASTEROBJECT XPOS="136.0008" YPOS="77.4436090225564" OwnPage="3" ItemID="1931860800" PTYPE="4" WIDTH="338.435290225564" HEIGHT="537.593984962406" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" LOCKR="1" path="M0 0 L338.435 0 L338.435 537.594 L0 537.594 L0 0 Z" copath="M0 0 L338.435 0 L338.435 537.594 L0 537.594 L0 0 Z" OnMasterPage="Interior Left" gXpos="474768" gYpos="124788644.409585" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+        <MASTEROBJECT XPOS="136.0008" YPOS="74.7216" OwnPage="3" ItemID="1935965552" PTYPE="4" WIDTH="345.6" HEIGHT="540" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" LOCKR="1" path="M0 0 L345.6 0 L345.6 540 L0 540 L0 0 Z" copath="M0 0 L345.6 0 L345.6 540 L0 540 L0 0 Z" OnMasterPage="Interior Left" gXpos="506736" gYpos="216893006.078226" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
                 <trail/>
             </StoryText>
         </MASTEROBJECT>
-        <MASTEROBJECT XPOS="158.0008" YPOS="77.44360902" OwnPage="2" ItemID="1931818704" PTYPE="4" WIDTH="338.4352902" HEIGHT="537.593985" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" LOCKR="1" path="M0 0 L338.435 0 L338.435 537.594 L0 537.594 L0 0 Z" copath="M0 0 L338.435 0 L338.435 537.594 L0 537.594 L0 0 Z" OnMasterPage="Interior Right" gXpos="18958320" gYpos="153782475.263977" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+        <MASTEROBJECT XPOS="150.4008" YPOS="74.7216" OwnPage="2" ItemID="1977543664" PTYPE="4" WIDTH="345.6" HEIGHT="540" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L345.6 0 L345.6 540 L0 540 L0 0 Z" copath="M0 0 L345.6 0 L345.6 540 L0 540 L0 0 Z" OnMasterPage="Interior Right" gXpos="38319688.4" gYpos="255365457.018886" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
                 <trail/>
             </StoryText>
         </MASTEROBJECT>
-        <PAGEOBJECT XPOS="136.0008" YPOS="1432.008" OwnPage="3" ItemID="1931760528" PTYPE="4" WIDTH="338.4" HEIGHT="576" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0.1528" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L338.4 0 L338.4 576 L0 576 L0 0 Z" copath="M0 0 L338.4 0 L338.4 576 L0 576 L0 0 Z" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+        <PAGEOBJECT XPOS="136.0008" YPOS="1432.008" OwnPage="3" ItemID="1944080112" PTYPE="4" WIDTH="345.6" HEIGHT="576" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0.1528" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L345.6 0 L345.6 576 L0 576 L0 0 Z" copath="M0 0 L345.6 0 L345.6 576 L0 576 L0 0 Z" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
                 <para ALIGN="1"/>
@@ -236,7 +225,7 @@
                 <trail ALIGN="1"/>
             </StoryText>
         </PAGEOBJECT>
-        <PAGEOBJECT XPOS="589.5008" YPOS="744.0048" OwnPage="2" ItemID="1932304192" PTYPE="4" WIDTH="338.5" HEIGHT="576" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L338.5 0 L338.5 576 L0 576 L0 0 Z" copath="M0 0 L338.5 0 L338.5 576 L0 576 L0 0 Z" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+        <PAGEOBJECT XPOS="582.4008" YPOS="744.0048" OwnPage="2" ItemID="1972690288" PTYPE="4" WIDTH="345.6" HEIGHT="576" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L345.6 0 L345.6 576 L0 576 L0 0 Z" copath="M0 0 L345.6 0 L345.6 576 L0 576 L0 0 Z" gXpos="-7.10000000000002" gYpos="0" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
                 <para ALIGN="1"/>
@@ -277,7 +266,7 @@
                 <para ALIGN="1"/>
             </StoryText>
         </PAGEOBJECT>
-        <PAGEOBJECT XPOS="590.6008" YPOS="1452.9936" OwnPage="4" ItemID="1931907440" PTYPE="4" WIDTH="338.4" HEIGHT="538.5" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0.1528" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L338.4 0 L338.4 538.5 L0 538.5 L0 0 Z" copath="M0 0 L338.4 0 L338.4 538.5 L0 538.5 L0 0 Z" gXpos="0" gYpos="-2752.0128" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+        <PAGEOBJECT XPOS="582.4008" YPOS="1450.728" OwnPage="4" ItemID="1951040848" PTYPE="4" WIDTH="345.6" HEIGHT="540" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0.1528" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L345.6 0 L345.6 540 L0 540 L0 0 Z" copath="M0 0 L345.6 0 L345.6 540 L0 540 L0 0 Z" gXpos="-8.20000000000005" gYpos="-2754.2784" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
                 <para PARENT="Interior Paragraph" ALIGN="1"/>
@@ -318,185 +307,14 @@
                 <para PARENT="Interior Paragraph italic"/>
             </StoryText>
         </PAGEOBJECT>
-        <PAGEOBJECT XPOS="590.0008" YPOS="2829.4968" OwnPage="8" ItemID="1932319024" PTYPE="4" WIDTH="338.4" HEIGHT="537.75" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0.1528" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L338.4 0 L338.4 537.75 L0 537.75 L0 0 Z" copath="M0 0 L338.4 0 L338.4 537.75 L0 537.75 L0 0 Z" gXpos="0" gYpos="-2064.0096" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="1933348384" BACKITEM="-1">
-            <StoryText>
-                <DefaultStyle/>
-                <para PARENT="Chapter Heading"/>
-                <para PARENT="Chapter Heading"/>
-                <para PARENT="Chapter Heading"/>
-                <para PARENT="Chapter Heading"/>
-                <para PARENT="Chapter Heading"/>
-                <para PARENT="Chapter Heading"/>
-                <para PARENT="Chapter Heading"/>
-                <para PARENT="Chapter Heading"/>
-                <para PARENT="Chapter Heading"/>
-                <para PARENT="Chapter Heading"/>
-                <para PARENT="Chapter Heading"/>
-                <para PARENT="Chapter Heading"/>
-                <para PARENT="Chapter Heading"/>
-                <para PARENT="Chapter Heading"/>
-                <para PARENT="Chapter Heading"/>
-                <ITEXT CH="CHAPTER 2"/>
-                <para PARENT="Chapter Heading"/>
-                <para PARENT="Chapter Heading"/>
-                <para PARENT="Interior Paragraph" ALIGN="1"/>
-                <para PARENT="Interior Paragraph"/>
-                <ITEXT FONTSIZE="16" CH="L"/>
-                <ITEXT CH="orem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. "/>
-                <para PARENT="Interior Paragraph"/>
-                <ITEXT CH="Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."/>
-                <para PARENT="Interior Paragraph"/>
-                <ITEXT CH="Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."/>
-                <para PARENT="Interior Paragraph"/>
-                <ITEXT CH="Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."/>
-                <trail PARENT="Interior Paragraph"/>
-            </StoryText>
-        </PAGEOBJECT>
-        <PAGEOBJECT XPOS="136.0008" YPOS="3517.5" OwnPage="9" ItemID="1933348384" PTYPE="4" WIDTH="338.4" HEIGHT="537.75" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0.1528" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L338.4 0 L338.4 537.75 L0 537.75 L0 0 Z" copath="M0 0 L338.4 0 L338.4 537.75 L0 537.75 L0 0 Z" gXpos="0" gYpos="-2064.0096" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="1932319024"/>
-        <PAGEOBJECT XPOS="590.0008" YPOS="3517.5" OwnPage="10" ItemID="1933756672" PTYPE="4" WIDTH="338.4" HEIGHT="537.75" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0.1528" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L338.4 0 L338.4 537.75 L0 537.75 L0 0 Z" copath="M0 0 L338.4 0 L338.4 537.75 L0 537.75 L0 0 Z" gXpos="0" gYpos="-2064.0096" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="1935158992" BACKITEM="-1">
-            <StoryText>
-                <DefaultStyle/>
-                <para PARENT="Chapter Heading"/>
-                <para PARENT="Chapter Heading"/>
-                <para PARENT="Chapter Heading"/>
-                <para PARENT="Chapter Heading"/>
-                <para PARENT="Chapter Heading"/>
-                <para PARENT="Chapter Heading"/>
-                <para PARENT="Chapter Heading"/>
-                <para PARENT="Chapter Heading"/>
-                <para PARENT="Chapter Heading"/>
-                <para PARENT="Chapter Heading"/>
-                <para PARENT="Chapter Heading"/>
-                <para PARENT="Chapter Heading"/>
-                <para PARENT="Chapter Heading"/>
-                <para PARENT="Chapter Heading"/>
-                <para PARENT="Chapter Heading"/>
-                <ITEXT CH="EPILOGUE"/>
-                <para PARENT="Chapter Heading"/>
-                <para PARENT="Chapter Heading"/>
-                <para PARENT="Interior Paragraph" ALIGN="1"/>
-                <para PARENT="Interior Paragraph"/>
-                <ITEXT FONTSIZE="16" CH="S"/>
-                <ITEXT CH="ed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur? Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur?"/>
-                <para PARENT="Interior Paragraph"/>
-                <ITEXT CH="Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur?"/>
-                <trail PARENT="Interior Paragraph"/>
-            </StoryText>
-        </PAGEOBJECT>
-        <PAGEOBJECT XPOS="136.0008" YPOS="4205.50319999996" OwnPage="11" ItemID="1935158992" PTYPE="4" WIDTH="338.4" HEIGHT="537.75" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0.1528" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L338.4 0 L338.4 537.75 L0 537.75 L0 0 Z" copath="M0 0 L338.4 0 L338.4 537.75 L0 537.75 L0 0 Z" gXpos="0" gYpos="-2064.0096" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="1933756672"/>
-        <PAGEOBJECT XPOS="590.0008" YPOS="4205.50319999996" OwnPage="12" ItemID="1935420368" PTYPE="4" WIDTH="338.4" HEIGHT="537.75" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0.1528" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L338.4 0 L338.4 537.75 L0 537.75 L0 0 Z" copath="M0 0 L338.4 0 L338.4 537.75 L0 537.75 L0 0 Z" gXpos="0" gYpos="-2064.0096" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+        <PAGEOBJECT XPOS="532.0008" YPOS="20.0016" OwnPage="0" ItemID="1952220912" PTYPE="2" WIDTH="432" HEIGHT="648" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="0.5" LOCALSCY="0.5" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" Pagenumber="0" PFILE="cover/css-preprocessor-cover.png" IRENDER="0" EMBEDDED="0" path="M0 0 L432 0 L432 648 L0 648 L0 0 Z" copath="M0 0 L432 0 L432 648 L0 648 L0 0 Z" gXpos="532.0008" gYpos="20.0016" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
+        <PAGEOBJECT XPOS="710.970297029703" YPOS="1212.0048" OwnPage="2" ItemID="1934283280" PTYPE="4" WIDTH="100.030502970297" HEIGHT="18.8862891089109" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" ANNOTATION="1" ANTYPE="11" ANACTION="" ANEACT="" ANXACT="" ANDACT="" ANFOACT="" ANBLACT="" ANKACT="" ANFACT="" ANVACT="" ANCACT="" ANEXTERN="https://epsi-rns.gitlab.io/" ANZIEL="2" ANACTYP="8" ANTOOLTIP="" ANBWID="1" ANBSTY="0" ANFEED="1" ANFLAG="0" ANFONT="4" ANFORMAT="0" ANROLL="" ANDOWN="" ANVIS="0" ANMC="-1" ANCHK="0" ANAA="0" ANCHKS="0" ANBCOL="Black" ANHTML="0" ANICON="0" ANPLACE="1" ANSCALE="0" ANITYP="0" ANOPEN="0" ANNAME="Link38" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L100.031 0 L100.031 18.8863 L0 18.8863 L0 0 Z" copath="M0 0 L100.031 0 L100.031 18.8863 L0 18.8863 L0 0 Z" gXpos="710.970297029703" gYpos="1212.0048" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
                 <trail/>
             </StoryText>
         </PAGEOBJECT>
-        <PAGEOBJECT XPOS="136.6008" YPOS="4872.02400000006" OwnPage="13" ItemID="1935149008" PTYPE="4" WIDTH="338.4" HEIGHT="576" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0.1528" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L338.4 0 L338.4 576 L0 576 L0 0 Z" copath="M0 0 L338.4 0 L338.4 576 L0 576 L0 0 Z" gXpos="0" gYpos="-2064.0096" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
-            <StoryText>
-                <DefaultStyle/>
-                <trail/>
-            </StoryText>
-        </PAGEOBJECT>
-        <PAGEOBJECT XPOS="590.0008" YPOS="4205.50319999996" OwnPage="12" ItemID="1932401888" PTYPE="4" WIDTH="338.4" HEIGHT="537.75" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0.1528" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L338.4 0 L338.4 537.75 L0 537.75 L0 0 Z" copath="M0 0 L338.4 0 L338.4 537.75 L0 537.75 L0 0 Z" gXpos="0" gYpos="-2064.0096" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
-            <StoryText>
-                <DefaultStyle/>
-                <para PARENT="Chapter Heading"/>
-                <para PARENT="Chapter Heading"/>
-                <para PARENT="Chapter Heading"/>
-                <para PARENT="Chapter Heading"/>
-                <para PARENT="Chapter Heading"/>
-                <para PARENT="Chapter Heading"/>
-                <para PARENT="Chapter Heading"/>
-                <para PARENT="Chapter Heading"/>
-                <para PARENT="Chapter Heading"/>
-                <para PARENT="Chapter Heading"/>
-                <para PARENT="Chapter Heading"/>
-                <para PARENT="Chapter Heading"/>
-                <para PARENT="Chapter Heading"/>
-                <para PARENT="Chapter Heading"/>
-                <para PARENT="Chapter Heading"/>
-                <para PARENT="Chapter Heading"/>
-                <para PARENT="Chapter Heading"/>
-                <para PARENT="Chapter Heading"/>
-                <ITEXT CH="THE END"/>
-                <para PARENT="Chapter Heading"/>
-                <para PARENT="Chapter Heading"/>
-                <para PARENT="Interior Paragraph" ALIGN="1"/>
-                <para PARENT="Interior Paragraph"/>
-            </StoryText>
-        </PAGEOBJECT>
-        <PAGEOBJECT XPOS="590.0008" YPOS="4890.50639999997" OwnPage="14" ItemID="1937250576" PTYPE="4" WIDTH="338.4" HEIGHT="537.75" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0.1528" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L338.4 0 L338.4 537.75 L0 537.75 L0 0 Z" copath="M0 0 L338.4 0 L338.4 537.75 L0 537.75 L0 0 Z" gXpos="0" gYpos="-2064.0096" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
-            <StoryText>
-                <DefaultStyle/>
-                <para PARENT="Chapter Heading"/>
-                <para PARENT="Chapter Heading"/>
-                <para PARENT="Chapter Heading"/>
-                <para PARENT="Chapter Heading"/>
-                <para PARENT="Chapter Heading"/>
-                <para PARENT="Chapter Heading"/>
-                <para PARENT="Chapter Heading"/>
-                <para PARENT="Chapter Heading"/>
-                <para PARENT="Chapter Heading"/>
-                <para PARENT="Chapter Heading"/>
-                <para PARENT="Chapter Heading"/>
-                <para PARENT="Chapter Heading"/>
-                <para PARENT="Chapter Heading"/>
-                <para PARENT="Chapter Heading"/>
-                <para PARENT="Chapter Heading"/>
-                <ITEXT CH="THE SEQUEL"/>
-                <para PARENT="Chapter Heading"/>
-                <para PARENT="Chapter Heading"/>
-                <ITEXT FONT="Liberation Serif Italic" FONTSIZE="14" CH="Coming Fifth of Never!"/>
-                <para PARENT="Chapter Heading"/>
-                <para PARENT="Chapter Heading"/>
-                <para PARENT="Interior Paragraph" ALIGN="1"/>
-                <para PARENT="Interior Paragraph"/>
-                <ITEXT FONTSIZE="16" CH="A"/>
-                <ITEXT CH="t vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga. Et harum quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere possimus, omnis voluptas assumenda est, omnis dolor repellendus. Temporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus saepe eveniet ut et voluptates repudiandae sint et molestiae non recusandae. Itaque earum rerum hic tenetur a sapiente delectus, ut aut reiciendis voluptatibus maiores alias consequatur aut perferendis doloribus asperiores repellatis."/>
-                <trail PARENT="Interior Paragraph"/>
-            </StoryText>
-        </PAGEOBJECT>
-        <PAGEOBJECT XPOS="136.22556391" YPOS="5560.02719999996" OwnPage="15" ItemID="1937343072" PTYPE="4" WIDTH="338.3458647" HEIGHT="575.510797" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L338.346 0 L338.346 575.511 L0 575.511 L0 0 Z" copath="M0 0 L338.346 0 L338.346 575.511 L0 575.511 L0 0 Z" gXpos="0" gYpos="-2064.0096" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
-            <StoryText>
-                <DefaultStyle/>
-                <para PARENT="Chapter Heading"/>
-                <para PARENT="Chapter Heading"/>
-                <para PARENT="Chapter Heading"/>
-                <para PARENT="Chapter Heading"/>
-                <para PARENT="Chapter Heading"/>
-                <para PARENT="Chapter Heading"/>
-                <para PARENT="Chapter Heading"/>
-                <para PARENT="Chapter Heading"/>
-                <para PARENT="Chapter Heading"/>
-                <para PARENT="Chapter Heading"/>
-                <para PARENT="Chapter Heading"/>
-                <para PARENT="Chapter Heading"/>
-                <ITEXT FONTSIZE="16" CH="About the Author"/>
-                <para PARENT="Chapter Heading"/>
-                <para PARENT="Interior Paragraph"/>
-                <para PARENT="Interior Paragraph"/>
-                <para PARENT="Interior Paragraph"/>
-                <ITEXT CH="Put something compelling, entertaining, and yet reasonably pedestrian here."/>
-                <para PARENT="Interior Paragraph"/>
-                <para PARENT="Interior Paragraph"/>
-                <ITEXT FONTSIZE="12" CH="Connect with me online:"/>
-                <para PARENT="Interior Paragraph" ALIGN="1"/>
-                <para PARENT="Interior Paragraph" ALIGN="1"/>
-                <ITEXT CH="Twitter: @IndieImprint"/>
-                <para PARENT="Interior Paragraph"/>
-                <ITEXT CH="Blog: http://indieimprint.com/"/>
-                <para PARENT="Interior Paragraph"/>
-                <ITEXT CH="Ello: https://ello.co/indieimprint"/>
-                <para PARENT="Interior Paragraph"/>
-            </StoryText>
-        </PAGEOBJECT>
-        <PAGEOBJECT XPOS="532.0008" YPOS="20.0016" OwnPage="0" ItemID="1936725824" PTYPE="2" WIDTH="432" HEIGHT="648" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="0.5" LOCALSCY="0.5" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" Pagenumber="0" PFILE="cover/css-preprocessor-cover.png" IRENDER="0" EMBEDDED="0" path="M0 0 L432 0 L432 648 L0 648 L0 0 Z" copath="M0 0 L432 0 L432 648 L0 648 L0 0 Z" gXpos="532.0008" gYpos="20.0016" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
-        <PAGEOBJECT XPOS="710.970297029703" YPOS="1212.0048" OwnPage="2" ItemID="1936749536" PTYPE="4" WIDTH="100.030502970297" HEIGHT="18.8862891089109" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" ANNOTATION="1" ANTYPE="11" ANACTION="" ANEACT="" ANXACT="" ANDACT="" ANFOACT="" ANBLACT="" ANKACT="" ANFACT="" ANVACT="" ANCACT="" ANEXTERN="https://epsi-rns.gitlab.io/" ANZIEL="2" ANACTYP="8" ANTOOLTIP="" ANBWID="1" ANBSTY="0" ANFEED="1" ANFLAG="0" ANFONT="4" ANFORMAT="0" ANROLL="" ANDOWN="" ANVIS="0" ANMC="-1" ANCHK="0" ANAA="0" ANCHKS="0" ANBCOL="Black" ANHTML="0" ANICON="0" ANPLACE="1" ANSCALE="0" ANITYP="0" ANOPEN="0" ANNAME="Link38" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L100.031 0 L100.031 18.8863 L0 18.8863 L0 0 Z" copath="M0 0 L100.031 0 L100.031 18.8863 L0 18.8863 L0 0 Z" gXpos="710.970297029703" gYpos="1212.0048" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
-            <StoryText>
-                <DefaultStyle/>
-                <trail/>
-            </StoryText>
-        </PAGEOBJECT>
-        <PAGEOBJECT XPOS="136.0008" YPOS="744.0048" OwnPage="1" ItemID="1936745424" PTYPE="4" WIDTH="338.4" HEIGHT="576" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0.1528" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L338.4 0 L338.4 576 L0 576 L0 0 Z" copath="M0 0 L338.4 0 L338.4 576 L0 576 L0 0 Z" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+        <PAGEOBJECT XPOS="136.0008" YPOS="744.0048" OwnPage="1" ItemID="1933628608" PTYPE="4" WIDTH="345.6" HEIGHT="576" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0.1528" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L345.6 0 L345.6 576 L0 576 L0 0 Z" copath="M0 0 L345.6 0 L345.6 576 L0 576 L0 0 Z" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
                 <para ALIGN="1"/>
@@ -519,14 +337,7 @@
                 <trail ALIGN="1"/>
             </StoryText>
         </PAGEOBJECT>
-        <PAGEOBJECT XPOS="-274.3992" YPOS="10376.0496" OwnPage="-1" ItemID="1937891552" PTYPE="4" WIDTH="338.4" HEIGHT="576" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0.1528" AUTOTEXT="1" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L338.4 0 L338.4 576 L0 576 L0 0 Z" copath="M0 0 L338.4 0 L338.4 576 L0 576 L0 0 Z" gXpos="-274.3992" gYpos="10376.0496" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="1937884656" BACKITEM="-1">
-            <StoryText>
-                <DefaultStyle/>
-                <trail/>
-            </StoryText>
-        </PAGEOBJECT>
-        <PAGEOBJECT XPOS="568.0008" YPOS="9688.0464" OwnPage="-1" ItemID="1937884656" PTYPE="4" WIDTH="338.4" HEIGHT="576" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0.1528" AUTOTEXT="1" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L338.4 0 L338.4 576 L0 576 L0 0 Z" copath="M0 0 L338.4 0 L338.4 576 L0 576 L0 0 Z" gXpos="568.0008" gYpos="9688.0464" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="1939062560" BACKITEM="1937891552"/>
-        <PAGEOBJECT XPOS="136.0008" YPOS="2141.4936" OwnPage="5" ItemID="1937981952" PTYPE="4" WIDTH="338.4" HEIGHT="537.75" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0.1528" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L338.4 0 L338.4 537.75 L0 537.75 L0 0 Z" copath="M0 0 L338.4 0 L338.4 537.75 L0 537.75 L0 0 Z" gXpos="0" gYpos="-2752.0128" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="1941137872" BACKITEM="-1">
+        <PAGEOBJECT XPOS="136.0008" YPOS="2138.7312" OwnPage="5" ItemID="1950886336" PTYPE="4" WIDTH="345.6" HEIGHT="540" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0.1528" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L345.6 0 L345.6 540 L0 540 L0 0 Z" copath="M0 0 L345.6 0 L345.6 540 L0 540 L0 0 Z" gXpos="0" gYpos="-2754.7752" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="1959755808" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
                 <para PARENT="Chapter Heading"/>
@@ -535,8 +346,8 @@
                 <ITEXT FONT="Source Serif Pro SemiBold" FCOLOR="Blue 900" CH="Pengenalan HTML dan CSS"/>
                 <para PARENT="Chapter Heading"/>
                 <ITEXT FONT="Marck Script Regular" FONTSIZE="10" CH="Panduan perjalanan bagi pemula untuk menjadi web developer."/>
-                <para ALIGN="1"/>
-                <para/>
+                <para PARENT="Quotes"/>
+                <para PARENT="Quotes"/>
                 <ITEXT FONT="Source Serif Pro Regular" FONTSIZE="16" CH="B"/>
                 <ITEXT FONT="Source Serif Pro Regular" CH="agaiman"/>
                 <ITEXT FONT="Source Serif Pro Regular" FONTSIZE="10" CH="a memulai belajar web development? Jadi sohib ingin membikin sesuatu yang berarti dalam hidup. Sohib ingin memutuskan menjadi pengembang web. Bagaimana seorang pemula harus memulai?"/>
@@ -557,38 +368,39 @@
                 <para PARENT="Interior Paragraph"/>
                 <ITEXT CH="Saya ingin seseorang membikinkan sesuatu untuk saya."/>
                 <para PARENT="Heading Two"/>
-                <ITEXT CH="Maka sohib harus memperkerjakan pegawai pegawai. Atau membeli aplikasi dari "/>
-                <ITEXT CPARENT="Kata Asing" CH="software house"/>
+                <ITEXT CH="Maka sohib harus memperkerjakan pegawai. Atau membeli aplikasi dari "/>
+                <ITEXT CPARENT="Terminology" CH="software house"/>
                 <ITEXT CH="."/>
                 <para PARENT="Interior Paragraph"/>
                 <ITEXT CH="Peta Jalan"/>
                 <para PARENT="Heading Two"/>
                 <ITEXT CH="Suatu website yaitu "/>
-                <ITEXT CPARENT="Kata Asing" CH="roadmap.sh"/>
+                <ITEXT CPARENT="Tautan Link" FEATURES="inherit underline" TXTULP="50" TXTULW="5" CH="roadmap.sh"/>
                 <ITEXT CH=", dengan lugas membagi peran para pengembang web sebagai berikut:"/>
                 <para PARENT="Interior Paragraph"/>
-                <ITEXT CPARENT="Kata Asing" CH="Frontend"/>
+                <ITEXT CPARENT="Terminology" CH="Frontend"/>
                 <para PARENT="Butir Pikiran"/>
-                <ITEXT CPARENT="Kata Asing" CH="Backend"/>
+                <ITEXT CPARENT="Terminology" CH="Backend"/>
                 <para PARENT="Butir Pikiran"/>
-                <ITEXT CPARENT="Kata Asing" CH="Devops"/>
+                <ITEXT CPARENT="Terminology" CH="Devops"/>
                 <para PARENT="Butir Pikiran"/>
                 <ITEXT CH="Bila ketiga hal tersebut digabungkan maka dikenal istilah lain yaitu "/>
-                <ITEXT CPARENT="Kata Asing" CH="full stack web developer"/>
+                <ITEXT CPARENT="Terminology" CH="full stack web developer"/>
                 <ITEXT CH=". Dari sudut pandang secara umum, perusahaan yang memberikan lowongan pekerjaan "/>
-                <ITEXT CPARENT="Kata Asing" CH="fullstack web developer"/>
+                <ITEXT CPARENT="Terminology" CH="fullstack web developer"/>
                 <ITEXT CH=", akan tampak memiliki anggaran kecil, walaupun ini bukan patokan."/>
                 <para PARENT="Interior Paragraph"/>
                 <ITEXT CH="Mobile"/>
                 <para PARENT="Heading Two"/>
                 <ITEXT CH="Perlu dipahami pula bahwa pengembangan aplikasi berupa "/>
-                <ITEXT CPARENT="Kata Asing" CH="mobile development"/>
+                <ITEXT CPARENT="Terminology" CH="mobile development"/>
                 <ITEXT CH=", berbeda dengan "/>
-                <ITEXT CPARENT="Kata Asing" CH="web development"/>
+                <ITEXT CPARENT="Terminology" CH="web development"/>
                 <ITEXT CH="."/>
                 <para PARENT="Interior Paragraph"/>
-                <para PARENT="Interior Paragraph"/>
-                <ITEXT CH="Di mana Belajar?"/>
+                <ITEXT CH="Belajar Mandiri"/>
+                <para PARENT="Heading One"/>
+                <ITEXT CH="Di Mana Belajar?"/>
                 <para PARENT="Heading One"/>
                 <ITEXT CH="Bila sohib adalah pemula, maka mulailah dari beberapa situs berikut:"/>
                 <para PARENT="Interior Paragraph"/>
@@ -597,7 +409,7 @@
                 <ITEXT CPARENT="Tautan Link" CH="roadmap.sh"/>
                 <para PARENT="Butir Pikiran"/>
                 <para PARENT="Interior Paragraph"/>
-                <ITEXT CH="Yang biasa saya lakukan adalah meminta pemula untuk membaca "/>
+                <ITEXT CH="Yang biasa penulis lakukan adalah meminta pemula untuk membaca "/>
                 <ITEXT CPARENT="Tautan Link" CH="w3schools.com"/>
                 <ITEXT CH=". Dan untuk yang bukan pemula saya meminta untuk menelusuri diagram-diagram yang teradapat di "/>
                 <ITEXT CPARENT="Tautan Link" CH="roadmap.sh"/>
@@ -606,10 +418,8 @@
                 <para PARENT="Interior Paragraph"/>
                 <ITEXT CH="Bilamana dibutuhkan masih ada beberapa lagi."/>
                 <para PARENT="Interior Paragraph"/>
-                <ITEXT Unicode="25"/>
                 <ITEXT CPARENT="Tautan Link" CH="css-tricks.com"/>
                 <para PARENT="Butir Pikiran"/>
-                <ITEXT Unicode="25"/>
                 <ITEXT CPARENT="Tautan Link" CH="https://google.github.io/styleguide/htmlcssguide.html"/>
                 <para PARENT="Butir Pikiran"/>
                 <para PARENT="Interior Paragraph"/>
@@ -620,12 +430,330 @@
                 <para PARENT="Interior Paragraph"/>
                 <ITEXT CH="Bilamana sohib membutuhkan panduan langkah demi langkah, maka "/>
                 <ITEXT CPARENT="Tautan Link" CH="youtube.com"/>
-                <ITEXT CH=" adalah rujukan yang cukup bagus. Banyak kanal yang bagus yang dapat ditonton, baik yang berbahasa Inggris, maupun yang berbahsa Indonesia."/>
+                <ITEXT CH=" adalah rujukan yang cukup bagus. Banyak kanal yang bagus yang dapat ditonton, baik yang berbahasa Inggris, maupun yang berbahasa Indonesia."/>
                 <para PARENT="Interior Paragraph"/>
+                <para/>
+                <ITEXT CH="Keahlian Dasar Wajib di Komunitas"/>
+                <para PARENT="Heading Two"/>
+                <ITEXT CH="Berdiskusilah di group, dan hindari jalur pribadi kalau tidak kenal."/>
+                <para PARENT="Butir Pikiran"/>
+                <ITEXT Unicode="25"/>
+                <ITEXT CH="Tips: Buatlah catatan harian."/>
+                <para PARENT="Butir Pikiran"/>
+                <para/>
+                <ITEXT CH="1. Bahasa Inggris wajib paham."/>
+                <para/>
+                <ITEXT CH="2. Mengetahui cara mencari di "/>
+                <ITEXT CPARENT="Tautan Link" CH="google.com"/>
+                <ITEXT CH=" atau "/>
+                <ITEXT CPARENT="Tautan Link" CH="stackoverflow.com"/>
+                <ITEXT CH="."/>
+                <para/>
+                <ITEXT CH="3. Mampu membaca dokumentasi resmi dan buku panduan "/>
+                <ITEXT CPARENT="Terminology" CH="manual"/>
+                <ITEXT CH="."/>
+                <para/>
+                <ITEXT CH="4. Mengetahui cara membikin tangkapan layar ("/>
+                <ITEXT CPARENT="Terminology" CH="screenshot"/>
+                <ITEXT CH=") untuk group."/>
+                <para/>
+                <ITEXT CH="5. Mengetahui cara berkomunikasi dengan baik di dalam group."/>
+                <para/>
+                <para/>
+                <ITEXT CH="Membaca, Menulis, Berbagi."/>
+                <para PARENT="Quotes"/>
+                <para/>
             </StoryText>
         </PAGEOBJECT>
-        <PAGEOBJECT XPOS="157.6008" YPOS="11064.0528" OwnPage="-1" ItemID="1939062560" PTYPE="4" WIDTH="338.4" HEIGHT="576" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0.1528" AUTOTEXT="1" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L338.4 0 L338.4 576 L0 576 L0 0 Z" copath="M0 0 L338.4 0 L338.4 576 L0 576 L0 0 Z" gXpos="157.6008" gYpos="11064.0528" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="1939053616" BACKITEM="1937884656"/>
-        <PAGEOBJECT XPOS="568.0008" YPOS="11064.0528" OwnPage="-1" ItemID="1939053616" PTYPE="4" WIDTH="338.4" HEIGHT="576" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0.1528" AUTOTEXT="1" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L338.4 0 L338.4 576 L0 576 L0 0 Z" copath="M0 0 L338.4 0 L338.4 576 L0 576 L0 0 Z" gXpos="568.0008" gYpos="11064.0528" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="1939062560"/>
-        <PAGEOBJECT XPOS="590.0008" YPOS="2141.4936" OwnPage="6" ItemID="1941137872" PTYPE="4" WIDTH="338.4" HEIGHT="537.75" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0.1528" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L338.4 0 L338.4 537.75 L0 537.75 L0 0 Z" copath="M0 0 L338.4 0 L338.4 537.75 L0 537.75 L0 0 Z" gXpos="0" gYpos="-2064.0096" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="1937981952"/>
+        <PAGEOBJECT XPOS="582.4008" YPOS="2138.7312" OwnPage="6" ItemID="1959755808" PTYPE="4" WIDTH="345.6" HEIGHT="540" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0.1528" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L345.6 0 L345.6 540 L0 540 L0 0 Z" copath="M0 0 L345.6 0 L345.6 540 L0 540 L0 0 Z" gXpos="-7.60000000000002" gYpos="-2066.772" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="1950886336"/>
+        <PAGEOBJECT XPOS="136.0008" YPOS="2826.7344" OwnPage="7" ItemID="1937884656" PTYPE="4" WIDTH="345.6" HEIGHT="540" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0.1528" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L345.6 0 L345.6 540 L0 540 L0 0 Z" copath="M0 0 L345.6 0 L345.6 540 L0 540 L0 0 Z" gXpos="0" gYpos="-2754.7752" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <para PARENT="Default Paragraph Style"/>
+                <ITEXT CH="Pendekatan"/>
+                <para PARENT="Heading One"/>
+                <ITEXT CPARENT="Terminology" CH="Stack"/>
+                <ITEXT CH=" secara umum: "/>
+                <ITEXT CPARENT="Code" CH="html+css+js"/>
+                <ITEXT CH="."/>
+                <para PARENT="Butir Pikiran"/>
+                <para ALIGN="0"/>
+                <ITEXT CH="Terdiri Dari Apakah Halaman Web?"/>
+                <para PARENT="Heading Two"/>
+                <ITEXT CH="Suatu halaman web sebetulnya hanya berisi ini"/>
+                <para PARENT="Interior Paragraph"/>
+                <ITEXT CH="1. "/>
+                <ITEXT CPARENT="Terminology" CH="Structure"/>
+                <ITEXT CH=" + "/>
+                <ITEXT CPARENT="Terminology" CH="Presentation"/>
+                <ITEXT CH=" + "/>
+                <ITEXT CPARENT="Terminology" CH="Behaviour"/>
+                <para PARENT="Interior Paragraph No Indent"/>
+                <ITEXT CH="2. "/>
+                <ITEXT CPARENT="Terminology" CH="Custom User Content"/>
+                <ITEXT CH=": Teks dan gambar (atau media lain)."/>
+                <para PARENT="Interior Paragraph No Indent"/>
+                <para PARENT="Interior Paragraph No Indent"/>
+                <ITEXT CH="Yang pertama adalah, "/>
+                <ITEXT CPARENT="Terminology" CH="stack"/>
+                <ITEXT CH=" yang kita kenal sebagai "/>
+                <ITEXT CPARENT="Code" CH="html+css+js"/>
+                <ITEXT CH=". Sedangkan yang kedua adalah, isi apa saja yang dapat dimasukkan ke dalam berkas halaman tersebut."/>
+                <para ALIGN="0"/>
+                <para ALIGN="0"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="136.0008" YPOS="2988.0144" OwnPage="7" ItemID="1969092560" PTYPE="2" WIDTH="345.6" HEIGHT="194.4" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" TEXTFLOWMODE="1" LOCALSCX="0.432" LOCALSCY="0.432" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="0" RATIO="1" Pagenumber="0" PFILE="illustration/preface-css-concept-page.png" IRENDER="0" EMBEDDED="0" path="M0 0 L345.6 0 L345.6 194.4 L0 194.4 L0 0 Z" copath="M0 0 L345.6 0 L345.6 194.4 L0 194.4 L0 0 Z" gXpos="136.0008" gYpos="2988.0144" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
+        <PAGEOBJECT XPOS="582.4008" YPOS="2826.7344" OwnPage="8" ItemID="1942050416" PTYPE="4" WIDTH="345.6" HEIGHT="540" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0.1528" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L345.6 0 L345.6 540 L0 540 L0 0 Z" copath="M0 0 L345.6 0 L345.6 540 L0 540 L0 0 Z" gXpos="-8.20000000000016" gYpos="-2754.2784" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <para PARENT="Interior Paragraph" ALIGN="1"/>
+                <ITEXT CH="Secara Teknis"/>
+                <para PARENT="Heading Two"/>
+                <ITEXT CH="Bagaimana cara menerangkan dari hal dasar ke era modern?"/>
+                <para PARENT="Butir Pikiran"/>
+                <para ALIGN="0"/>
+                <para ALIGN="0"/>
+                <para ALIGN="0"/>
+                <para ALIGN="0"/>
+                <para ALIGN="0"/>
+                <para ALIGN="0"/>
+                <para ALIGN="0"/>
+                <para ALIGN="0"/>
+                <para ALIGN="0"/>
+                <para ALIGN="0"/>
+                <para/>
+                <ITEXT CH="Ikatan Tersembunyi"/>
+                <para PARENT="Heading Two"/>
+                <ITEXT CH="Tidak adanya panduan lengkap mengenai "/>
+                <ITEXT CPARENT="Terminology" CH="template engine"/>
+                <ITEXT CH="."/>
+                <para PARENT="Butir Pikiran"/>
+                <para ALIGN="0"/>
+                <para ALIGN="0"/>
+                <para ALIGN="0"/>
+                <para ALIGN="0"/>
+                <para ALIGN="0"/>
+                <para ALIGN="0"/>
+                <para ALIGN="0"/>
+                <para ALIGN="0"/>
+                <para ALIGN="0"/>
+                <para ALIGN="0"/>
+                <para ALIGN="0"/>
+                <para ALIGN="0"/>
+                <ITEXT CH="Ya, ada celah kekurangan, di dalam "/>
+                <ITEXT CPARENT="Terminology" CH="tutorial"/>
+                <ITEXT CH=" untuk "/>
+                <ITEXT CPARENT="Terminology" CH="web development "/>
+                <ITEXT CH="pada umumnya."/>
+                <trail ALIGN="0"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="683.2008" YPOS="2887.2144" OwnPage="8" ItemID="1954303072" PTYPE="2" WIDTH="131.9976" HEIGHT="144" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="0.479991272727273" LOCALSCY="0.479991272727273" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="0" RATIO="1" Pagenumber="0" PFILE="illustration/html-css-js.png" IRENDER="0" EMBEDDED="0" path="M0 0 L131.998 0 L131.998 144 L0 144 L0 0 Z" copath="M0 0 L131.998 0 L131.998 144 L0 144 L0 0 Z" gXpos="683.2008" gYpos="2887.2144" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
+        <PAGEOBJECT XPOS="647.2008" YPOS="3103.2144" OwnPage="8" ItemID="1936514288" PTYPE="2" WIDTH="203.9976" HEIGHT="144" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="0.479994352941176" LOCALSCY="0.479994352941176" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="0" RATIO="1" Pagenumber="0" PFILE="illustration/preprocessor.png" IRENDER="0" EMBEDDED="0" path="M0 0 L203.998 0 L203.998 144 L0 144 L0 0 Z" copath="M0 0 L203.998 0 L203.998 144 L0 144 L0 0 Z" gXpos="647.2008" gYpos="3103.2144" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
+        <PAGEOBJECT XPOS="136.0008" YPOS="3514.7376" OwnPage="9" ItemID="1941136400" PTYPE="4" WIDTH="345.6" HEIGHT="540" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0.1528" AUTOTEXT="1" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L345.6 0 L345.6 540 L0 540 L0 0 Z" copath="M0 0 L345.6 0 L345.6 540 L0 540 L0 0 Z" gXpos="136.0008" gYpos="3514.7376" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="1946947232" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <para PARENT="Default Paragraph Style"/>
+                <ITEXT CH="HTML"/>
+                <para PARENT="Heading One"/>
+                <ITEXT CH="Lebih mudah untuk belajar HTML yang murni, dengan pendekatan template engine."/>
+                <para PARENT="Butir Pikiran"/>
+                <para/>
+                <ITEXT CPARENT="Code" CH="HTML5"/>
+                <ITEXT CH=" adalah topik yang luas. "/>
+                <ITEXT CPARENT="Code" CH="HTML5"/>
+                <ITEXT CH=" bukan hanya terkait "/>
+                <ITEXT CPARENT="Code" CH="HTML"/>
+                <ITEXT CH=" tag. Pertimbangkanlah untuk mempelajari dahulu hanya bagian dasarnya saja, kemudian langsung praktekkan untuk membuat berkas "/>
+                <ITEXT CPARENT="Code" CH="HTML"/>
+                <ITEXT CH=", di dalam suuatu proyek pribadi yang sederhana. "/>
+                <ITEXT CPARENT="Terminology" CH="Blog"/>
+                <ITEXT CH=" atau "/>
+                <ITEXT CPARENT="Terminology" CH="portfolio"/>
+                <ITEXT CH=", adalah pilihan bagus untuk proyek pirbadi yang sederhana. Ini disebabkan karena untuk membikin suatu "/>
+                <ITEXT CPARENT="Terminology" CH="blog"/>
+                <ITEXT CH=", tidak ada beban untuk membuat "/>
+                <ITEXT CPARENT="Terminology" CH="database"/>
+                <ITEXT CH=" yang rumit, dan juga tidada kebutuhan untuk melakukan otentikasi melalui "/>
+                <ITEXT CPARENT="Terminology" CH="login"/>
+                <ITEXT CH="."/>
+                <para PARENT="Interior Paragraph"/>
+                <para/>
+                <ITEXT CH="Langkah-langkah-nya adalah semudah berikut ini:"/>
+                <para PARENT="Interior Paragraph"/>
+                <ITEXT CH="1. Dasar "/>
+                <ITEXT CPARENT="Code" CH="HTML"/>
+                <ITEXT CH=": "/>
+                <ITEXT CPARENT="Tautan Link" CH="w3schools.com/html/"/>
+                <ITEXT CH="."/>
+                <para PARENT="Interior Paragraph No Indent"/>
+                <ITEXT CH="2. "/>
+                <ITEXT CPARENT="Terminology" CH="Template Engine"/>
+                <ITEXT CH=": Bersama dengan "/>
+                <ITEXT CPARENT="Terminology" CH="Task Runner"/>
+                <ITEXT CH="."/>
+                <para PARENT="Interior Paragraph No Indent"/>
+                <ITEXT CH="3. "/>
+                <ITEXT CPARENT="Terminology" CH="Static Site Generator"/>
+                <ITEXT CH=": Situs lengkap, tanpa "/>
+                <ITEXT CPARENT="Terminology" CH="backend"/>
+                <ITEXT CH=" yang rumit."/>
+                <para PARENT="Interior Paragraph No Indent"/>
+                <ITEXT CH="4. "/>
+                <ITEXT CPARENT="Terminology" CH="Backend Web Framework"/>
+                <ITEXT CH=": "/>
+                <ITEXT CPARENT="Code" CH="Laravel"/>
+                <ITEXT CH=", "/>
+                <ITEXT CPARENT="Code" CH="Flask"/>
+                <ITEXT CH=", "/>
+                <ITEXT CPARENT="Code" CH="RoR"/>
+                <ITEXT CH=", "/>
+                <ITEXT CPARENT="Code" CH="Koa"/>
+                <ITEXT CH=", "/>
+                <ITEXT CPARENT="Code" CH="Express"/>
+                <ITEXT CH="."/>
+                <para PARENT="Interior Paragraph No Indent"/>
+                <ITEXT CH="5. "/>
+                <ITEXT CPARENT="Terminology" CH="Modern Web Framework"/>
+                <ITEXT CH=": "/>
+                <ITEXT CPARENT="Code" CH="Svelte"/>
+                <ITEXT CH=", "/>
+                <ITEXT CPARENT="Code" CH="React"/>
+                <ITEXT CH=", "/>
+                <ITEXT CPARENT="Code" CH="Vue"/>
+                <ITEXT CH="."/>
+                <para PARENT="Interior Paragraph No Indent"/>
+                <para/>
+                <ITEXT CH="Template engine adalah bidang backend."/>
+                <para PARENT="Quotes"/>
+                <para/>
+                <ITEXT CH="Stylesheet"/>
+                <para PARENT="Heading One"/>
+                <ITEXT CH="Bagian yang tersembunyi adalah "/>
+                <ITEXT CPARENT="Code" CH="CSS Preprocessors"/>
+                <ITEXT CH="."/>
+                <para PARENT="Butir Pikiran"/>
+                <para/>
+                <ITEXT CH="Sohib dapat belajar menggunakan "/>
+                <ITEXT CPARENT="Code" CH="CSS Framework"/>
+                <ITEXT CH=", lalu belajar menggunakan "/>
+                <ITEXT CPARENT="Code" CH="CSS Preprocessor"/>
+                <ITEXT CH=", lalu kembali untuk melakukan kustomisasi di "/>
+                <ITEXT CPARENT="Code" CH="CSS Framework"/>
+                <ITEXT CH="."/>
+                <para PARENT="Interior Paragraph"/>
+                <ITEXT CH="Langkah-langkah-nya adalah semudah berikut ini:"/>
+                <para PARENT="Interior Paragraph"/>
+                <ITEXT CH="1. Dasar "/>
+                <ITEXT CPARENT="Code" CH="CSS"/>
+                <ITEXT CH=": "/>
+                <ITEXT CPARENT="Tautan Link" CH="w3schools.com/css/"/>
+                <para PARENT="Interior Paragraph No Indent"/>
+                <ITEXT CH="2. "/>
+                <ITEXT CPARENT="Terminology" CH="CSS Frameworks"/>
+                <ITEXT CH=": Misalnya "/>
+                <ITEXT CPARENT="Code" CH="Bulma"/>
+                <ITEXT CH=", "/>
+                <ITEXT CPARENT="Code" CH="Materialize CSS"/>
+                <ITEXT CH=", atau "/>
+                <ITEXT CPARENT="Code" CH="Semantic UI"/>
+                <ITEXT CH="."/>
+                <para PARENT="Interior Paragraph No Indent"/>
+                <ITEXT CH="3. "/>
+                <ITEXT CPARENT="Terminology" CH="CSS Preprocessors"/>
+                <ITEXT CH=": Untuk membikin tambahan kustomisasi "/>
+                <ITEXT CPARENT="Code" CH="CSS"/>
+                <para PARENT="Interior Paragraph No Indent"/>
+                <ITEXT CH="4. "/>
+                <ITEXT CPARENT="Terminology" CH="CSS Tools"/>
+                <ITEXT CH=": "/>
+                <ITEXT CPARENT="Terminology" CH="Task Runner"/>
+                <ITEXT CH=", ataupun "/>
+                <ITEXT CPARENT="Terminology" CH="Bundler"/>
+                <ITEXT CH="."/>
+                <para PARENT="Interior Paragraph No Indent"/>
+                <ITEXT CH="5. "/>
+                <ITEXT CPARENT="Terminology" CH="Custom CSS"/>
+                <ITEXT CH=": Tanpa "/>
+                <ITEXT CPARENT="Terminology" CH="Framework"/>
+                <ITEXT CH=", atau dengan "/>
+                <ITEXT CPARENT="Code" CH="Tailwind CSS"/>
+                <ITEXT CH="."/>
+                <para PARENT="Interior Paragraph No Indent"/>
+                <para/>
+                <ITEXT CH="Stylesheet adalah bidang frontend."/>
+                <para PARENT="Quotes"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="582.4008" YPOS="3514.7376" OwnPage="10" ItemID="1946947232" PTYPE="4" WIDTH="345.6" HEIGHT="540" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0.1528" AUTOTEXT="1" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L345.6 0 L345.6 540 L0 540 L0 0 Z" copath="M0 0 L345.6 0 L345.6 540 L0 540 L0 0 Z" gXpos="582.4008" gYpos="3514.7376" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="1941136400"/>
+        <PAGEOBJECT XPOS="136.0008" YPOS="3719.2176" OwnPage="9" ItemID="1955052912" PTYPE="2" WIDTH="345.6" HEIGHT="194.4" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" TEXTFLOWMODE="1" LOCALSCX="0.432" LOCALSCY="0.432" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="0" RATIO="1" Pagenumber="0" PFILE="illustration/preface-learning-html-step-by-step.png" IRENDER="0" EMBEDDED="0" path="M0 0 L345.6 0 L345.6 194.4 L0 194.4 L0 0 Z" copath="M0 0 L345.6 0 L345.6 194.4 L0 194.4 L0 0 Z" gXpos="136.0008" gYpos="3719.2176" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
+        <PAGEOBJECT XPOS="582.4008" YPOS="3640.0176" OwnPage="10" ItemID="1949023760" PTYPE="2" WIDTH="345.6" HEIGHT="194.4" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" TEXTFLOWMODE="1" LOCALSCX="0.432" LOCALSCY="0.432" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="0" RATIO="1" Pagenumber="0" PFILE="illustration/preface-learning-css-step-by-step.png" IRENDER="0" EMBEDDED="0" path="M0 0 L345.6 0 L345.6 194.4 L0 194.4 L0 0 Z" copath="M0 0 L345.6 0 L345.6 194.4 L0 194.4 L0 0 Z" gXpos="582.4008" gYpos="3640.0176" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
+        <PAGEOBJECT XPOS="136.0008" YPOS="4202.7408" OwnPage="11" ItemID="1973620576" PTYPE="4" WIDTH="345.6" HEIGHT="540" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0.1528" AUTOTEXT="1" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L345.6 0 L345.6 540 L0 540 L0 0 Z" copath="M0 0 L345.6 0 L345.6 540 L0 540 L0 0 Z" gXpos="136.0008" gYpos="4202.7408" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="1956417184" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <para/>
+                <ITEXT CH="Javascript"/>
+                <para PARENT="Heading One"/>
+                <ITEXT CH="tidak dibahas di sini."/>
+                <para PARENT="Butir Pikiran"/>
+                <ITEXT CH="Javascript adalah topik yang sangat luas, dan layak mendapatkan penjelasan yang khusus."/>
+                <para/>
+                <ITEXT CH="Content"/>
+                <para PARENT="Heading One"/>
+                <ITEXT CPARENT="Terminology" CH="Content"/>
+                <ITEXT CH=" ini dapat berisi macam-macam, misalnya untuk sistem informasi content dapat berupa "/>
+                <ITEXT CPARENT="Terminology" CH="database"/>
+                <ITEXT CH=". Sedangkan di media sosial, "/>
+                <ITEXT CPARENT="Terminology" CH="content"/>
+                <ITEXT CH=" dapat berupa "/>
+                <ITEXT CPARENT="Terminology" CH="chat"/>
+                <ITEXT CH="."/>
+                <para PARENT="Interior Paragraph"/>
+                <ITEXT CH="Untuk proyek sederhana, misalnya "/>
+                <ITEXT CPARENT="Terminology" CH="blogging"/>
+                <ITEXT CH=" ataupun pembikinan "/>
+                <ITEXT CPARENT="Terminology" CH="portfolio"/>
+                <ITEXT CH=", maka sohib harus membikin "/>
+                <ITEXT CPARENT="Terminology" CH="content"/>
+                <ITEXT CH=" sendiri. Karena itu perlu ada keahlian tambahan, yaitu untuk mendapat teks yang tepat dan mengolah gambar dengan baik."/>
+                <para PARENT="Interior Paragraph"/>
+                <para/>
+                <ITEXT CH="1. Teks"/>
+                <para PARENT="Interior Paragraph No Indent"/>
+                <ITEXT CH="Belajar menulis esai."/>
+                <para PARENT="Butir Pikiran"/>
+                <ITEXT CH="Bahasa Inggris, ataupun bahasa Indonesia, yang tepat."/>
+                <para PARENT="Butir Pikiran"/>
+                <ITEXT CH="2. Gambar"/>
+                <para PARENT="Interior Paragraph No Indent"/>
+                <ITEXT CH="Mengambil gambar dengan "/>
+                <ITEXT CPARENT="Terminology" CH="smartphone"/>
+                <ITEXT CH="."/>
+                <para PARENT="Butir Pikiran"/>
+                <ITEXT CH="Membikin ilustrasi "/>
+                <ITEXT CPARENT="Terminology" CH="raster"/>
+                <ITEXT CH=": belajar menggunakan "/>
+                <ITEXT CPARENT="Code" CH="GIMP"/>
+                <ITEXT CH="."/>
+                <para PARENT="Butir Pikiran"/>
+                <ITEXT Unicode="25"/>
+                <ITEXT CH="Membikin ilustrasi "/>
+                <ITEXT CPARENT="Terminology" CH="vektor"/>
+                <ITEXT CH=": belajar menggunakan "/>
+                <ITEXT CPARENT="Code" CH="Inkscape"/>
+                <ITEXT CH="."/>
+                <para PARENT="Butir Pikiran"/>
+                <ITEXT CH="Penutup"/>
+                <para PARENT="Heading One"/>
+                <ITEXT CH="Pahami konsepnya, alih-alih hanya sekedar belajar cara memakai sesuatu."/>
+                <para PARENT="Interior Paragraph"/>
+                <para/>
+                <ITEXT CH="Mari bersenang-senang dengan melakukan coding."/>
+                <trail PARENT="Quotes"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="582.4008" YPOS="4202.7408" OwnPage="12" ItemID="1956417184" PTYPE="4" WIDTH="345.6" HEIGHT="540" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0.1528" AUTOTEXT="1" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L345.6 0 L345.6 540 L0 540 L0 0 Z" copath="M0 0 L345.6 0 L345.6 540 L0 540 L0 0 Z" gXpos="582.4008" gYpos="4202.7408" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="1973620576"/>
+        <PAGEOBJECT XPOS="582.4008" YPOS="4184.0208" OwnPage="12" ItemID="1937879760" PTYPE="4" WIDTH="345.6" HEIGHT="576" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0.1528" AUTOTEXT="1" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L345.6 0 L345.6 576 L0 576 L0 0 Z" copath="M0 0 L345.6 0 L345.6 576 L0 576 L0 0 Z" gXpos="582.4008" gYpos="4184.0208" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="1973620576"/>
     </DOCUMENT>
 </SCRIBUSUTF8NEW>
