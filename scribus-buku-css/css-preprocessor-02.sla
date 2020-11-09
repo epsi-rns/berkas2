@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <SCRIBUSUTF8NEW Version="1.5.6.svn">
-    <DOCUMENT ANZPAGES="21" PAGEWIDTH="432" PAGEHEIGHT="648" BORDERLEFT="57.6" BORDERRIGHT="36" BORDERTOP="36" BORDERBOTTOM="36" PRESET="0" BleedTop="0" BleedLeft="0" BleedRight="0" BleedBottom="0" ORIENTATION="0" PAGESIZE="Custom" FIRSTNUM="1" BOOK="1" AUTOTEXT="1" AUTOSPALTEN="1" ABSTSPALTEN="0.1528" UNITS="2" DFONT="Liberation Serif Regular" DSIZE="12" DCOL="1" DGAP="0" TabFill="" TabWidth="72" TextDistLeft="0" TextDistRight="0" TextDistBottom="0" TextDistTop="0" AUTHOR="epsi" COMMENTS="This is a basic template to use for 6x9 books for Createspace and Lulu" KEYWORDS="Book, Template" PUBLISHER="IndieImprint" DOCDATE="" DOCTYPE="" DOCFORMAT="" DOCIDENT="" DOCSOURCE="" DOCLANGINFO="EN" DOCRELATION="" DOCCOVER="" DOCRIGHTS="Copyright 2016 IndieImprint under the Creative Commons Attribution 4.0 License" DOCCONTRIB="This work is licensed under the Creative Commons Attribution 4.0 International License. To view a copy of this license, visit http://creativecommons.org/licenses/by/4.0/ or send a letter to Creative Commons, PO Box 1866, Mountain View, CA 94042, USA." TITLE="Praktek Menggunakan CSS Preprocessor" SUBJECT="Basic Template" VHOCH="33" VHOCHSC="66" VTIEF="33" VTIEFSC="66" VKAPIT="75" BASEGRID="14.4" BASEO="0" AUTOL="100" UnderlinePos="-1" UnderlineWidth="-1" StrikeThruPos="-1" StrikeThruWidth="-1" GROUPC="1" HCMS="0" DPSo="0" DPSFo="0" DPuse="0" DPgam="0" DPbla="1" DPPr="Fogra27L CMYK Coated Press" DPIn="sRGB IEC61966-2.1" DPInCMYK="Fogra27L CMYK Coated Press" DPIn2="sRGB IEC61966-2.1" DPIn3="Fogra27L CMYK Coated Press" DISc="1" DIIm="0" ALAYER="0" LANGUAGE="aiw" AUTOMATIC="1" AUTOCHECK="0" GUIDELOCK="0" SnapToGuides="0" SnapToGrid="0" SnapToElement="0" MINGRID="20.0016" MAJGRID="100.0008" SHOWGRID="0" SHOWGUIDES="1" showcolborders="1" SHOWFRAME="1" SHOWControl="0" SHOWLAYERM="1" SHOWMARGIN="1" SHOWBASE="0" SHOWPICT="1" SHOWLINK="1" rulerMode="1" showrulers="1" showBleed="1" rulerXoffset="0" rulerYoffset="0" GuideRad="10" GRAB="4" POLYC="4" POLYF="0.707106781186548" POLYR="0" POLYIR="0" POLYCUR="0" POLYOCUR="0" POLYS="0" arcStartAngle="30" arcSweepAngle="300" spiralStartAngle="0" spiralEndAngle="1080" spiralFactor="1.2" AutoSave="1" AutoSaveTime="600000" AutoSaveCount="1" AutoSaveKeep="0" AUtoSaveInDocDir="1" AutoSaveDir="" ScratchBottom="20.0016" ScratchLeft="100.0008" ScratchRight="100.0008" ScratchTop="20.0016" GapHorizontal="0" GapVertical="40.0032" StartArrow="0" EndArrow="0" PEN="Black" BRUSH="None" PENLINE="None" PENTEXT="Black" StrokeText="Black" TextBackGround="None" TextLineColor="None" TextBackGroundShade="100" TextLineShade="100" TextPenShade="100" TextStrokeShade="100" STIL="1" STILLINE="1" WIDTH="1" WIDTHLINE="1" PENSHADE="100" LINESHADE="100" BRUSHSHADE="100" CPICT="None" PICTSHADE="100" CSPICT="None" PICTSSHADE="100" PICTSCX="1" PICTSCY="1" PSCALE="1" PASPECT="1" EmbeddedPath="0" HalfRes="1" dispX="0" dispY="0" constrain="15" MINORC="#00ff00" MAJORC="#00ff00" GuideC="#000080" BaseC="#c0c0c0" renderStack="0 1 2 3 4" GridType="0" PAGEC="#ffffff" MARGC="#0000ff" RANDF="0" currentProfile="PDF 1.4" calligraphicPenFillColor="Black" calligraphicPenLineColor="Black" calligraphicPenFillColorShade="100" calligraphicPenLineColorShade="100" calligraphicPenLineWidth="1" calligraphicPenAngle="0" calligraphicPenWidth="10" calligraphicPenStyle="1">
+    <DOCUMENT ANZPAGES="41" PAGEWIDTH="432" PAGEHEIGHT="648" BORDERLEFT="57.6" BORDERRIGHT="36" BORDERTOP="36" BORDERBOTTOM="36" PRESET="0" BleedTop="0" BleedLeft="0" BleedRight="0" BleedBottom="0" ORIENTATION="0" PAGESIZE="Custom" FIRSTNUM="1" BOOK="1" AUTOTEXT="1" AUTOSPALTEN="1" ABSTSPALTEN="0.1528" UNITS="2" DFONT="Liberation Serif Regular" DSIZE="12" DCOL="1" DGAP="0" TabFill="" TabWidth="72" TextDistLeft="0" TextDistRight="0" TextDistBottom="0" TextDistTop="0" AUTHOR="epsi" COMMENTS="This is a basic template to use for 6x9 books for Createspace and Lulu" KEYWORDS="Book, Template" PUBLISHER="IndieImprint" DOCDATE="" DOCTYPE="" DOCFORMAT="" DOCIDENT="" DOCSOURCE="" DOCLANGINFO="EN" DOCRELATION="" DOCCOVER="" DOCRIGHTS="Copyright 2016 IndieImprint under the Creative Commons Attribution 4.0 License" DOCCONTRIB="This work is licensed under the Creative Commons Attribution 4.0 International License. To view a copy of this license, visit http://creativecommons.org/licenses/by/4.0/ or send a letter to Creative Commons, PO Box 1866, Mountain View, CA 94042, USA." TITLE="Praktek Menggunakan CSS Preprocessor" SUBJECT="Basic Template" VHOCH="33" VHOCHSC="66" VTIEF="33" VTIEFSC="66" VKAPIT="75" BASEGRID="14.4" BASEO="0" AUTOL="100" UnderlinePos="-1" UnderlineWidth="-1" StrikeThruPos="-1" StrikeThruWidth="-1" GROUPC="1" HCMS="0" DPSo="0" DPSFo="0" DPuse="0" DPgam="0" DPbla="1" DPPr="Fogra27L CMYK Coated Press" DPIn="sRGB IEC61966-2.1" DPInCMYK="Fogra27L CMYK Coated Press" DPIn2="sRGB IEC61966-2.1" DPIn3="Fogra27L CMYK Coated Press" DISc="1" DIIm="0" ALAYER="0" LANGUAGE="aiw" AUTOMATIC="1" AUTOCHECK="0" GUIDELOCK="0" SnapToGuides="0" SnapToGrid="0" SnapToElement="0" MINGRID="20.0016" MAJGRID="100.0008" SHOWGRID="0" SHOWGUIDES="1" showcolborders="1" SHOWFRAME="1" SHOWControl="0" SHOWLAYERM="1" SHOWMARGIN="1" SHOWBASE="0" SHOWPICT="1" SHOWLINK="1" rulerMode="1" showrulers="1" showBleed="1" rulerXoffset="0" rulerYoffset="0" GuideRad="10" GRAB="4" POLYC="4" POLYF="0.707106781186548" POLYR="0" POLYIR="0" POLYCUR="0" POLYOCUR="0" POLYS="0" arcStartAngle="30" arcSweepAngle="300" spiralStartAngle="0" spiralEndAngle="1080" spiralFactor="1.2" AutoSave="1" AutoSaveTime="600000" AutoSaveCount="1" AutoSaveKeep="0" AUtoSaveInDocDir="1" AutoSaveDir="" ScratchBottom="20.0016" ScratchLeft="100.0008" ScratchRight="100.0008" ScratchTop="20.0016" GapHorizontal="0" GapVertical="40.0032" StartArrow="0" EndArrow="0" PEN="Black" BRUSH="None" PENLINE="None" PENTEXT="Black" StrokeText="Black" TextBackGround="None" TextLineColor="None" TextBackGroundShade="100" TextLineShade="100" TextPenShade="100" TextStrokeShade="100" STIL="1" STILLINE="1" WIDTH="1" WIDTHLINE="1" PENSHADE="100" LINESHADE="100" BRUSHSHADE="100" CPICT="None" PICTSHADE="100" CSPICT="None" PICTSSHADE="100" PICTSCX="1" PICTSCY="1" PSCALE="1" PASPECT="1" EmbeddedPath="0" HalfRes="1" dispX="0" dispY="0" constrain="15" MINORC="#00ff00" MAJORC="#00ff00" GuideC="#000080" BaseC="#c0c0c0" renderStack="0 1 2 3 4" GridType="0" PAGEC="#ffffff" MARGC="#0000ff" RANDF="0" currentProfile="PDF 1.4" calligraphicPenFillColor="Black" calligraphicPenLineColor="Black" calligraphicPenFillColorShade="100" calligraphicPenLineColorShade="100" calligraphicPenLineWidth="1" calligraphicPenAngle="0" calligraphicPenWidth="10" calligraphicPenStyle="1">
         <CheckProfile Name="PDF 1.3" ignoreErrors="0" autoCheck="1" checkGlyphs="1" checkOrphans="1" checkOverflow="1" checkPictures="1" checkPartFilledImageFrames="0" checkResolution="1" checkTransparency="1" minResolution="144" maxResolution="2400" checkAnnotations="0" checkRasterPDF="1" checkForGIF="1" ignoreOffLayers="0" checkNotCMYKOrSpot="0" checkDeviceColorsAndOutputIntent="0" checkFontNotEmbedded="0" checkFontIsOpenType="0" checkAppliedMasterDifferentSide="1" checkEmptyTextFrames="1"/>
         <CheckProfile Name="PDF 1.4" ignoreErrors="0" autoCheck="1" checkGlyphs="1" checkOrphans="1" checkOverflow="1" checkPictures="1" checkPartFilledImageFrames="0" checkResolution="1" checkTransparency="0" minResolution="144" maxResolution="2400" checkAnnotations="0" checkRasterPDF="1" checkForGIF="1" ignoreOffLayers="0" checkNotCMYKOrSpot="0" checkDeviceColorsAndOutputIntent="0" checkFontNotEmbedded="0" checkFontIsOpenType="0" checkAppliedMasterDifferentSide="1" checkEmptyTextFrames="1"/>
         <CheckProfile Name="PDF 1.5" ignoreErrors="0" autoCheck="1" checkGlyphs="1" checkOrphans="1" checkOverflow="1" checkPictures="1" checkPartFilledImageFrames="0" checkResolution="1" checkTransparency="0" minResolution="144" maxResolution="2400" checkAnnotations="0" checkRasterPDF="1" checkForGIF="1" ignoreOffLayers="0" checkNotCMYKOrSpot="0" checkDeviceColorsAndOutputIntent="0" checkFontNotEmbedded="0" checkFontIsOpenType="0" checkAppliedMasterDifferentSide="1" checkEmptyTextFrames="1"/>
@@ -38,8 +38,8 @@
         <STYLE NAME="Chapter Heading" PARENT="Default Paragraph Style" ALIGN="1" FIRST="0" VOR="5" NACH="5" BCOLOR="None" FONT="Source Serif Pro Bold" FONTSIZE="18" FONTFEATURES="-clig" FCOLOR="Blue 900"/>
         <STYLE NAME="Interior Paragraph italic" PARENT="Default Paragraph Style" FIRST="18" FONT="Liberation Serif Italic" FONTSIZE="10"/>
         <STYLE NAME="Interior Paragraph No Indent" PARENT="Default Paragraph Style" FIRST="0" FONT="Source Serif Pro Regular" FONTSIZE="10" FONTFEATURES="-clig"/>
-        <STYLE NAME="Heading One" VOR="10" NACH="5" FONT="Source Serif Pro SemiBold" FONTSIZE="14" FONTFEATURES="-clig" FCOLOR="Blue 700" LANGUAGE=""/>
-        <STYLE NAME="Heading Two" VOR="6" NACH="3" FONT="Source Serif Pro SemiBold" FONTSIZE="12" FONTFEATURES="-clig" FCOLOR="Blue 500" LANGUAGE=""/>
+        <STYLE NAME="Heading One" VOR="10" NACH="5" FONT="Source Serif Pro SemiBold" FONTSIZE="14" FONTFEATURES="-clig" FCOLOR="Blue 900" LANGUAGE=""/>
+        <STYLE NAME="Heading Two" VOR="6" NACH="3" FONT="Source Serif Pro SemiBold" FONTSIZE="12" FONTFEATURES="-clig" FCOLOR="Blue 700" LANGUAGE=""/>
         <STYLE NAME="Butir Pikiran" PARENT="Default Paragraph Style" INDENT="18" FIRST="-10.8" ParagraphEffectOffset="5.76" ParagraphEffectIndent="0" DROP="0" Bullet="1" BulletStr="▶" Numeration="0"/>
         <STYLE NAME="Quotes" PARENT="Default Paragraph Style" ALIGN="1" FONT="Marck Script Regular" FONTFEATURES="-clig,-liga"/>
         <STYLE NAME="Inline Code" PARENT="Default Paragraph Style" ALIGN="0" INDENT="18" FIRST="0" FONT="Inconsolata Regular" FONTSIZE="10" FONTFEATURES="-clig,-liga" FCOLOR="Blue 900"/>
@@ -116,7 +116,7 @@
             </Set>
         </PageSets>
         <Sections>
-            <Section Number="0" Name="0" From="0" To="20" Type="Type_1_2_3" Start="1" Reversed="0" Active="1" FillChar="0" FieldWidth="0"/>
+            <Section Number="0" Name="0" From="0" To="40" Type="Type_1_2_3" Start="1" Reversed="0" Active="1" FillChar="0" FieldWidth="0"/>
         </Sections>
         <MASTERPAGE PAGEXPOS="100.0008" PAGEYPOS="20.0016" PAGEWIDTH="432" PAGEHEIGHT="648" BORDERLEFT="50.4" BORDERRIGHT="36" BORDERTOP="36" BORDERBOTTOM="36" NUM="0" NAM="Normal Left" MNAM="" Size="Custom" Orientation="0" LEFT="1" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
         <MASTERPAGE PAGEXPOS="100.0008" PAGEYPOS="20.0016" PAGEWIDTH="432" PAGEHEIGHT="648" BORDERLEFT="50.4" BORDERRIGHT="36" BORDERTOP="36" BORDERBOTTOM="36" NUM="1" NAM="Normal Right" MNAM="" Size="Custom" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
@@ -143,47 +143,67 @@
         <PAGE PAGEXPOS="532.0008" PAGEYPOS="6212.0304" PAGEWIDTH="432" PAGEHEIGHT="648" BORDERLEFT="50.4" BORDERRIGHT="36" BORDERTOP="36" BORDERBOTTOM="36" NUM="18" NAM="" MNAM="Interior Right" Size="Custom" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
         <PAGE PAGEXPOS="100.0008" PAGEYPOS="6900.0336" PAGEWIDTH="432" PAGEHEIGHT="648" BORDERLEFT="50.4" BORDERRIGHT="36" BORDERTOP="36" BORDERBOTTOM="36" NUM="19" NAM="" MNAM="Interior Left" Size="Custom" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
         <PAGE PAGEXPOS="532.0008" PAGEYPOS="6900.0336" PAGEWIDTH="432" PAGEHEIGHT="648" BORDERLEFT="50.4" BORDERRIGHT="36" BORDERTOP="36" BORDERBOTTOM="36" NUM="20" NAM="" MNAM="Interior Right" Size="Custom" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
-        <MASTEROBJECT XPOS="150.4008" YPOS="617.6016" OwnPage="2" ItemID="757330839" PTYPE="4" WIDTH="345.6" HEIGHT="14.4" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L345.6 0 L345.6 14.4 L0 14.4 L0 0 Z" copath="M0 0 L345.6 0 L345.6 14.4 L0 14.4 L0 0 Z" OnMasterPage="Interior Right" gXpos="97000839.9" gYpos="741300056.240935" gWidth="0" gHeight="0" ALIGN="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+        <PAGE PAGEXPOS="100.0008" PAGEYPOS="7588.0368" PAGEWIDTH="432" PAGEHEIGHT="648" BORDERLEFT="50.4" BORDERRIGHT="36" BORDERTOP="36" BORDERBOTTOM="36" NUM="21" NAM="" MNAM="Interior Left" Size="Custom" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <PAGE PAGEXPOS="532.0008" PAGEYPOS="7588.0368" PAGEWIDTH="432" PAGEHEIGHT="648" BORDERLEFT="50.4" BORDERRIGHT="36" BORDERTOP="36" BORDERBOTTOM="36" NUM="22" NAM="" MNAM="Interior Right" Size="Custom" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <PAGE PAGEXPOS="100.0008" PAGEYPOS="8276.04" PAGEWIDTH="432" PAGEHEIGHT="648" BORDERLEFT="50.4" BORDERRIGHT="36" BORDERTOP="36" BORDERBOTTOM="36" NUM="23" NAM="" MNAM="Interior Left" Size="Custom" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <PAGE PAGEXPOS="532.0008" PAGEYPOS="8276.04" PAGEWIDTH="432" PAGEHEIGHT="648" BORDERLEFT="50.4" BORDERRIGHT="36" BORDERTOP="36" BORDERBOTTOM="36" NUM="24" NAM="" MNAM="Interior Right" Size="Custom" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <PAGE PAGEXPOS="100.0008" PAGEYPOS="8964.0432" PAGEWIDTH="432" PAGEHEIGHT="648" BORDERLEFT="50.4" BORDERRIGHT="36" BORDERTOP="36" BORDERBOTTOM="36" NUM="25" NAM="" MNAM="Interior Left" Size="Custom" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <PAGE PAGEXPOS="532.0008" PAGEYPOS="8964.0432" PAGEWIDTH="432" PAGEHEIGHT="648" BORDERLEFT="50.4" BORDERRIGHT="36" BORDERTOP="36" BORDERBOTTOM="36" NUM="26" NAM="" MNAM="Interior Right" Size="Custom" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <PAGE PAGEXPOS="100.0008" PAGEYPOS="9652.0464" PAGEWIDTH="432" PAGEHEIGHT="648" BORDERLEFT="50.4" BORDERRIGHT="36" BORDERTOP="36" BORDERBOTTOM="36" NUM="27" NAM="" MNAM="Interior Left" Size="Custom" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <PAGE PAGEXPOS="532.0008" PAGEYPOS="9652.0464" PAGEWIDTH="432" PAGEHEIGHT="648" BORDERLEFT="50.4" BORDERRIGHT="36" BORDERTOP="36" BORDERBOTTOM="36" NUM="28" NAM="" MNAM="Interior Right" Size="Custom" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <PAGE PAGEXPOS="100.0008" PAGEYPOS="10340.0496" PAGEWIDTH="432" PAGEHEIGHT="648" BORDERLEFT="50.4" BORDERRIGHT="36" BORDERTOP="36" BORDERBOTTOM="36" NUM="29" NAM="" MNAM="Interior Left" Size="Custom" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <PAGE PAGEXPOS="532.0008" PAGEYPOS="10340.0496" PAGEWIDTH="432" PAGEHEIGHT="648" BORDERLEFT="50.4" BORDERRIGHT="36" BORDERTOP="36" BORDERBOTTOM="36" NUM="30" NAM="" MNAM="Interior Right" Size="Custom" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <PAGE PAGEXPOS="100.0008" PAGEYPOS="11028.0528" PAGEWIDTH="432" PAGEHEIGHT="648" BORDERLEFT="50.4" BORDERRIGHT="36" BORDERTOP="36" BORDERBOTTOM="36" NUM="31" NAM="" MNAM="Interior Left" Size="Custom" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <PAGE PAGEXPOS="532.0008" PAGEYPOS="11028.0528" PAGEWIDTH="432" PAGEHEIGHT="648" BORDERLEFT="50.4" BORDERRIGHT="36" BORDERTOP="36" BORDERBOTTOM="36" NUM="32" NAM="" MNAM="Interior Right" Size="Custom" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <PAGE PAGEXPOS="100.0008" PAGEYPOS="11716.056" PAGEWIDTH="432" PAGEHEIGHT="648" BORDERLEFT="50.4" BORDERRIGHT="36" BORDERTOP="36" BORDERBOTTOM="36" NUM="33" NAM="" MNAM="Interior Left" Size="Custom" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <PAGE PAGEXPOS="532.0008" PAGEYPOS="11716.056" PAGEWIDTH="432" PAGEHEIGHT="648" BORDERLEFT="50.4" BORDERRIGHT="36" BORDERTOP="36" BORDERBOTTOM="36" NUM="34" NAM="" MNAM="Interior Right" Size="Custom" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <PAGE PAGEXPOS="100.0008" PAGEYPOS="12404.0592" PAGEWIDTH="432" PAGEHEIGHT="648" BORDERLEFT="50.4" BORDERRIGHT="36" BORDERTOP="36" BORDERBOTTOM="36" NUM="35" NAM="" MNAM="Interior Left" Size="Custom" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <PAGE PAGEXPOS="532.0008" PAGEYPOS="12404.0592" PAGEWIDTH="432" PAGEHEIGHT="648" BORDERLEFT="50.4" BORDERRIGHT="36" BORDERTOP="36" BORDERBOTTOM="36" NUM="36" NAM="" MNAM="Interior Right" Size="Custom" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <PAGE PAGEXPOS="100.0008" PAGEYPOS="13092.0624" PAGEWIDTH="432" PAGEHEIGHT="648" BORDERLEFT="50.4" BORDERRIGHT="36" BORDERTOP="36" BORDERBOTTOM="36" NUM="37" NAM="" MNAM="Interior Left" Size="Custom" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <PAGE PAGEXPOS="532.0008" PAGEYPOS="13092.0624" PAGEWIDTH="432" PAGEHEIGHT="648" BORDERLEFT="50.4" BORDERRIGHT="36" BORDERTOP="36" BORDERBOTTOM="36" NUM="38" NAM="" MNAM="Interior Right" Size="Custom" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <PAGE PAGEXPOS="100.0008" PAGEYPOS="13780.0656" PAGEWIDTH="432" PAGEHEIGHT="648" BORDERLEFT="50.4" BORDERRIGHT="36" BORDERTOP="36" BORDERBOTTOM="36" NUM="39" NAM="" MNAM="Interior Left" Size="Custom" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <PAGE PAGEXPOS="532.0008" PAGEYPOS="13780.0656" PAGEWIDTH="432" PAGEHEIGHT="648" BORDERLEFT="50.4" BORDERRIGHT="36" BORDERTOP="36" BORDERBOTTOM="36" NUM="40" NAM="" MNAM="Interior Right" Size="Custom" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <MASTEROBJECT XPOS="150.4008" YPOS="617.6016" OwnPage="2" ItemID="555494716" PTYPE="4" WIDTH="345.6" HEIGHT="14.4" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L345.6 0 L345.6 14.4 L0 14.4 L0 0 Z" copath="M0 0 L345.6 0 L345.6 14.4 L0 14.4 L0 0 Z" OnMasterPage="Interior Right" gXpos="237521367.9" gYpos="2787089267.49871" gWidth="0" gHeight="0" ALIGN="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle ALIGN="0" LINESPMode="0" LINESP="15" FONT="Liberation Serif Regular" FONTSIZE="12" FCOLOR="Black" FSHADE="100" SCOLOR="Black" SSHADE="100" TXTSHX="5" TXTSHY="-5" TXTOUT="1" TXTULP="-0.1" TXTULW="-0.1" TXTSTP="-0.1" TXTSTW="-0.1" SCALEH="100" SCALEV="100" BASEO="0"/>
                 <var name="pgno" FONT="Liberation Serif Regular" FONTSIZE="10"/>
                 <para ALIGN="1"/>
             </StoryText>
         </MASTEROBJECT>
-        <MASTEROBJECT XPOS="150.4008" YPOS="56.0016" OwnPage="2" ItemID="757319623" PTYPE="4" WIDTH="345.6" HEIGHT="14.4" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L345.6 0 L345.6 14.4 L0 14.4 L0 0 Z" copath="M0 0 L345.6 0 L345.6 14.4 L0 14.4 L0 0 Z" OnMasterPage="Interior Right" gXpos="97000839.9" gYpos="741300053.890935" gWidth="0" gHeight="0" ALIGN="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+        <MASTEROBJECT XPOS="150.4008" YPOS="56.0016" OwnPage="2" ItemID="568375804" PTYPE="4" WIDTH="345.6" HEIGHT="14.4" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L345.6 0 L345.6 14.4 L0 14.4 L0 0 Z" copath="M0 0 L345.6 0 L345.6 14.4 L0 14.4 L0 0 Z" OnMasterPage="Interior Right" gXpos="237521367.9" gYpos="2787089265.14871" gWidth="0" gHeight="0" ALIGN="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle ALIGN="0" LINESPMode="0" LINESP="15" FONT="Liberation Serif Regular" FONTSIZE="12" FCOLOR="Black" FSHADE="100" SCOLOR="Black" SSHADE="100" TXTSHX="5" TXTSHY="-5" TXTOUT="1" TXTULP="-0.1" TXTULW="-0.1" TXTSTP="-0.1" TXTSTW="-0.1" SCALEH="100" SCALEV="100" BASEO="0"/>
                 <ITEXT FONT="Source Serif Pro Regular" FONTSIZE="10" FONTFEATURES="-liga" FEATURES="inherit smallcaps" FCOLOR="Black" FSHADE="100" SCOLOR="Black" SSHADE="100" TXTSHX="5" TXTSHY="-5" TXTOUT="1" TXTULP="-0.1" TXTULW="-0.1" TXTSTP="-0.1" TXTSTW="-0.1" SCALEH="100" SCALEV="100" BASEO="0" CH="Praktek Menggunakan CSS Preprocessor"/>
                 <trail ALIGN="1"/>
             </StoryText>
         </MASTEROBJECT>
-        <MASTEROBJECT XPOS="136.0008" YPOS="617.6016" OwnPage="3" ItemID="757312135" PTYPE="4" WIDTH="345.6" HEIGHT="14.4" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L345.6 0 L345.6 14.4 L0 14.4 L0 0 Z" copath="M0 0 L345.6 0 L345.6 14.4 L0 14.4 L0 0 Z" OnMasterPage="Interior Left" gXpos="506735.5" gYpos="676903644.724549" gWidth="0" gHeight="0" ALIGN="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+        <MASTEROBJECT XPOS="136.0008" YPOS="617.6016" OwnPage="3" ItemID="585145292" PTYPE="4" WIDTH="345.6" HEIGHT="14.4" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L345.6 0 L345.6 14.4 L0 14.4 L0 0 Z" copath="M0 0 L345.6 0 L345.6 14.4 L0 14.4 L0 0 Z" OnMasterPage="Interior Left" gXpos="506735.5" gYpos="2692444107.2894" gWidth="0" gHeight="0" ALIGN="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle ALIGN="0" LINESPMode="0" LINESP="15" FONT="Liberation Serif Regular" FONTSIZE="12" FCOLOR="Black" FSHADE="100" SCOLOR="Black" SSHADE="100" TXTSHX="5" TXTSHY="-5" TXTOUT="1" TXTULP="-0.1" TXTULW="-0.1" TXTSTP="-0.1" TXTSTW="-0.1" SCALEH="100" SCALEV="100" BASEO="0"/>
                 <var name="pgno" FONT="Liberation Serif Regular" FONTSIZE="10"/>
                 <para ALIGN="1"/>
             </StoryText>
         </MASTEROBJECT>
-        <MASTEROBJECT XPOS="136.0008" YPOS="56.0016" OwnPage="3" ItemID="757302167" PTYPE="4" WIDTH="345.6" HEIGHT="14.4" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L345.6 0 L345.6 14.4 L0 14.4 L0 0 Z" copath="M0 0 L345.6 0 L345.6 14.4 L0 14.4 L0 0 Z" OnMasterPage="Interior Left" gXpos="506735.5" gYpos="676903642.374549" gWidth="0" gHeight="0" ALIGN="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+        <MASTEROBJECT XPOS="136.0008" YPOS="56.0016" OwnPage="3" ItemID="550092044" PTYPE="4" WIDTH="345.6" HEIGHT="14.4" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L345.6 0 L345.6 14.4 L0 14.4 L0 0 Z" copath="M0 0 L345.6 0 L345.6 14.4 L0 14.4 L0 0 Z" OnMasterPage="Interior Left" gXpos="506735.5" gYpos="2692444104.93939" gWidth="0" gHeight="0" ALIGN="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle ALIGN="0" LINESPMode="0" LINESP="15" FONT="Liberation Serif Regular" FONTSIZE="12" FCOLOR="Black" FSHADE="100" SCOLOR="Black" SSHADE="100" TXTSHX="5" TXTSHY="-5" TXTOUT="1" TXTULP="-0.1" TXTULW="-0.1" TXTSTP="-0.1" TXTSTW="-0.1" SCALEH="100" SCALEV="100" BASEO="0"/>
                 <ITEXT FONT="Source Serif Pro Regular" FONTSIZE="10" FEATURES="inherit smallcaps" FCOLOR="Black" FSHADE="100" SCOLOR="Black" SSHADE="100" TXTSHX="5" TXTSHY="-5" TXTOUT="1" TXTULP="-0.1" TXTULW="-0.1" TXTSTP="-0.1" TXTSTW="-0.1" SCALEH="100" SCALEV="100" BASEO="0" CH="E.R. Nurwijayadi"/>
                 <trail ALIGN="1"/>
             </StoryText>
         </MASTEROBJECT>
-        <MASTEROBJECT XPOS="136.0008" YPOS="74.7216" OwnPage="3" ItemID="757339255" PTYPE="4" WIDTH="345.6" HEIGHT="540" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" LOCKR="1" path="M0 0 L345.6 0 L345.6 540 L0 540 L0 0 Z" copath="M0 0 L345.6 0 L345.6 540 L0 540 L0 0 Z" OnMasterPage="Interior Left" gXpos="506736" gYpos="676903641.65254" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+        <MASTEROBJECT XPOS="136.0008" YPOS="74.7216" OwnPage="3" ItemID="588861996" PTYPE="4" WIDTH="345.6" HEIGHT="540" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" LOCKR="1" path="M0 0 L345.6 0 L345.6 540 L0 540 L0 0 Z" copath="M0 0 L345.6 0 L345.6 540 L0 540 L0 0 Z" OnMasterPage="Interior Left" gXpos="506736" gYpos="2692444104.21739" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
                 <trail/>
             </StoryText>
         </MASTEROBJECT>
-        <MASTEROBJECT XPOS="150.4008" YPOS="74.7216" OwnPage="2" ItemID="757363719" PTYPE="4" WIDTH="345.6" HEIGHT="540" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L345.6 0 L345.6 540 L0 540 L0 0 Z" copath="M0 0 L345.6 0 L345.6 540 L0 540 L0 0 Z" OnMasterPage="Interior Right" gXpos="97000840.4" gYpos="741300053.168927" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+        <MASTEROBJECT XPOS="150.4008" YPOS="74.7216" OwnPage="2" ItemID="539170012" PTYPE="4" WIDTH="345.6" HEIGHT="540" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L345.6 0 L345.6 540 L0 540 L0 0 Z" copath="M0 0 L345.6 0 L345.6 540 L0 540 L0 0 Z" OnMasterPage="Interior Right" gXpos="237521368.4" gYpos="2787089264.42671" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
                 <trail/>
             </StoryText>
         </MASTEROBJECT>
-        <PAGEOBJECT XPOS="136.0008" YPOS="1432.008" OwnPage="3" ItemID="757298823" PTYPE="4" WIDTH="345.6" HEIGHT="576" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0.1528" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L345.6 0 L345.6 576 L0 576 L0 0 Z" copath="M0 0 L345.6 0 L345.6 576 L0 576 L0 0 Z" gXpos="1.4210854715202e-14" gYpos="0" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+        <PAGEOBJECT XPOS="136.0008" YPOS="1432.008" OwnPage="3" ItemID="539179532" PTYPE="4" WIDTH="345.6" HEIGHT="576" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0.1528" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L345.6 0 L345.6 576 L0 576 L0 0 Z" copath="M0 0 L345.6 0 L345.6 576 L0 576 L0 0 Z" gXpos="1.4210854715202e-14" gYpos="0" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
                 <para ALIGN="1"/>
@@ -233,7 +253,7 @@
                 <trail ALIGN="1"/>
             </StoryText>
         </PAGEOBJECT>
-        <PAGEOBJECT XPOS="582.4008" YPOS="744.0048" OwnPage="2" ItemID="757443639" PTYPE="4" WIDTH="345.6" HEIGHT="576" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L345.6 0 L345.6 576 L0 576 L0 0 Z" copath="M0 0 L345.6 0 L345.6 576 L0 576 L0 0 Z" gXpos="-7.10000000000002" gYpos="0" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+        <PAGEOBJECT XPOS="582.4008" YPOS="744.0048" OwnPage="2" ItemID="541943420" PTYPE="4" WIDTH="345.6" HEIGHT="576" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L345.6 0 L345.6 576 L0 576 L0 0 Z" copath="M0 0 L345.6 0 L345.6 576 L0 576 L0 0 Z" gXpos="-7.10000000000002" gYpos="0" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
                 <para ALIGN="1"/>
@@ -278,7 +298,7 @@
                 <para ALIGN="1"/>
             </StoryText>
         </PAGEOBJECT>
-        <PAGEOBJECT XPOS="582.4008" YPOS="1450.728" OwnPage="4" ItemID="757410935" PTYPE="4" WIDTH="345.6" HEIGHT="540" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0.1528" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L345.6 0 L345.6 540 L0 540 L0 0 Z" copath="M0 0 L345.6 0 L345.6 540 L0 540 L0 0 Z" gXpos="-8.20000000000005" gYpos="-2754.2784" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+        <PAGEOBJECT XPOS="582.4008" YPOS="1450.728" OwnPage="4" ItemID="529634652" PTYPE="4" WIDTH="345.6" HEIGHT="540" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0.1528" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L345.6 0 L345.6 540 L0 540 L0 0 Z" copath="M0 0 L345.6 0 L345.6 540 L0 540 L0 0 Z" gXpos="-8.20000000000005" gYpos="-2754.2784" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
                 <para PARENT="Interior Paragraph" ALIGN="1"/>
@@ -286,7 +306,13 @@
                 <para PARENT="Chapter Heading"/>
                 <para PARENT="Interior Paragraph"/>
                 <ITEXT FONT="Source Serif Pro Regular" FONTSIZE="16" CH="B"/>
-                <ITEXT FONT="Source Serif Pro Regular" CH="uku digital ini ditulis untuk pembaca yang telah memiliki dasar HTML maupun CSS, namun ingin mendalami ilmu stylesheet dengan melakukan kustomisasi lebih lanjut. Pendekatan buku ini adalah langsung ke penerapan sehari-hari, supaya pembaca ada bayangan, mengenai manfaat CSS Preprocessor."/>
+                <ITEXT FONT="Source Serif Pro Regular" CH="uku digital ini ditulis untuk pembaca yang telah memiliki dasar "/>
+                <ITEXT CPARENT="Code" CH="HTML"/>
+                <ITEXT FONT="Source Serif Pro Regular" CH=" maupun "/>
+                <ITEXT CPARENT="Code" CH="CSS"/>
+                <ITEXT FONT="Source Serif Pro Regular" CH=", namun ingin mendalami ilmu stylesheet dengan melakukan kustomisasi lebih lanjut. Pendekatan buku ini adalah langsung ke penerapan sehari-hari, supaya sohib pembaca memiliki bayangan, mengenai manfaat "/>
+                <ITEXT CPARENT="Code" CH="CSS Preprocessor"/>
+                <ITEXT FONT="Source Serif Pro Regular" CH="."/>
                 <para PARENT="Interior Paragraph"/>
                 <para PARENT="Interior Paragraph"/>
                 <ITEXT FONT="Source Serif Pro Regular" CH="Buku ini dibagi menjadi beberapa bab."/>
@@ -309,7 +335,7 @@
                 <ITEXT FONT="Source Serif Pro Regular" CH="Bagian pertama berisi motivasi untuk belajar CSS Preprocessor, dan gambaran besar secara sistematis mengenai bagaimana pembelajaran ini harus ditempuh tahap demi tahap."/>
                 <para PARENT="Interior Paragraph"/>
                 <para PARENT="Interior Paragraph"/>
-                <ITEXT FONT="Source Serif Pro Regular" CH="Bagian kedua dibagi antara bab kedua sampai keempat, berisi mengenai looping SASS, di dalam CSS Preprocessor. Penulis sengaja memilih looping sebagai contoh kasus, karena sudah mencakup beberapa hal mulai dari penetapan variabel, pairs dan hal lain yang terkait dasar pemrograman."/>
+                <ITEXT FONT="Source Serif Pro Regular" CH="Bagian kedua dibagi antara bab kedua sampai keempat, berisi mengenai looping di dalam CSS Preprocessor. Penulis sengaja memilih looping sebagai contoh kasus, karena sudah mencakup beberapa hal mulai dari penetapan variabel, pairs dan hal lain yang terkait dasar pemrograman."/>
                 <para PARENT="Interior Paragraph"/>
                 <para PARENT="Interior Paragraph"/>
                 <ITEXT FONT="Source Serif Pro Regular" CH="Bagian ketiga berisi penerapan CSS Preprocessor dalam kehidupan nyata. Mulai dari Bootstrap yang popular di masa lalu. Bulma yang ringan, supaya pemula tahu hal lain selain Bootstrap. Dan tentunya Tailwind CSS untuk tingkat yang lebih lanjut."/>
@@ -319,14 +345,14 @@
                 <para PARENT="Interior Paragraph italic"/>
             </StoryText>
         </PAGEOBJECT>
-        <PAGEOBJECT XPOS="532.0008" YPOS="20.0016" OwnPage="0" ItemID="757819719" PTYPE="2" WIDTH="432" HEIGHT="648" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="0.5" LOCALSCY="0.5" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" Pagenumber="0" PFILE="cover/css-preprocessor-cover.png" IRENDER="0" EMBEDDED="0" path="M0 0 L432 0 L432 648 L0 648 L0 0 Z" copath="M0 0 L432 0 L432 648 L0 648 L0 0 Z" gXpos="532.0008" gYpos="20.0016" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
-        <PAGEOBJECT XPOS="710.970297029703" YPOS="1212.0048" OwnPage="2" ItemID="757812711" PTYPE="4" WIDTH="100.030502970297" HEIGHT="18.8862891089109" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" ANNOTATION="1" ANTYPE="11" ANACTION="" ANEACT="" ANXACT="" ANDACT="" ANFOACT="" ANBLACT="" ANKACT="" ANFACT="" ANVACT="" ANCACT="" ANEXTERN="https://epsi-rns.gitlab.io/" ANZIEL="2" ANACTYP="8" ANTOOLTIP="" ANBWID="1" ANBSTY="0" ANFEED="1" ANFLAG="0" ANFONT="4" ANFORMAT="0" ANROLL="" ANDOWN="" ANVIS="0" ANMC="-1" ANCHK="0" ANAA="0" ANCHKS="0" ANBCOL="Black" ANHTML="0" ANICON="0" ANPLACE="1" ANSCALE="0" ANITYP="0" ANOPEN="0" ANNAME="Link38" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L100.031 0 L100.031 18.8863 L0 18.8863 L0 0 Z" copath="M0 0 L100.031 0 L100.031 18.8863 L0 18.8863 L0 0 Z" gXpos="710.970297029703" gYpos="1212.0048" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+        <PAGEOBJECT XPOS="532.0008" YPOS="20.0016" OwnPage="0" ItemID="561344396" PTYPE="2" WIDTH="432" HEIGHT="648" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="0.5" LOCALSCY="0.5" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" Pagenumber="0" PFILE="cover/css-preprocessor-cover.png" IRENDER="0" EMBEDDED="0" path="M0 0 L432 0 L432 648 L0 648 L0 0 Z" copath="M0 0 L432 0 L432 648 L0 648 L0 0 Z" gXpos="532.0008" gYpos="20.0016" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
+        <PAGEOBJECT XPOS="710.970297029703" YPOS="1212.0048" OwnPage="2" ItemID="584123196" PTYPE="4" WIDTH="100.030502970297" HEIGHT="18.8862891089109" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" ANNOTATION="1" ANTYPE="11" ANACTION="" ANEACT="" ANXACT="" ANDACT="" ANFOACT="" ANBLACT="" ANKACT="" ANFACT="" ANVACT="" ANCACT="" ANEXTERN="https://epsi-rns.gitlab.io/" ANZIEL="2" ANACTYP="8" ANTOOLTIP="" ANBWID="1" ANBSTY="0" ANFEED="1" ANFLAG="0" ANFONT="4" ANFORMAT="0" ANROLL="" ANDOWN="" ANVIS="0" ANMC="-1" ANCHK="0" ANAA="0" ANCHKS="0" ANBCOL="Black" ANHTML="0" ANICON="0" ANPLACE="1" ANSCALE="0" ANITYP="0" ANOPEN="0" ANNAME="Link38" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L100.031 0 L100.031 18.8863 L0 18.8863 L0 0 Z" copath="M0 0 L100.031 0 L100.031 18.8863 L0 18.8863 L0 0 Z" gXpos="710.970297029703" gYpos="1212.0048" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
                 <trail/>
             </StoryText>
         </PAGEOBJECT>
-        <PAGEOBJECT XPOS="136.0008" YPOS="744.0048" OwnPage="1" ItemID="757824983" PTYPE="4" WIDTH="345.6" HEIGHT="576" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0.1528" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L345.6 0 L345.6 576 L0 576 L0 0 Z" copath="M0 0 L345.6 0 L345.6 576 L0 576 L0 0 Z" gXpos="1.4210854715202e-14" gYpos="0" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+        <PAGEOBJECT XPOS="136.0008" YPOS="744.0048" OwnPage="1" ItemID="530778076" PTYPE="4" WIDTH="345.6" HEIGHT="576" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0.1528" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L345.6 0 L345.6 576 L0 576 L0 0 Z" copath="M0 0 L345.6 0 L345.6 576 L0 576 L0 0 Z" gXpos="1.4210854715202e-14" gYpos="0" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
                 <para ALIGN="1"/>
@@ -349,7 +375,7 @@
                 <trail ALIGN="1"/>
             </StoryText>
         </PAGEOBJECT>
-        <PAGEOBJECT XPOS="136.0008" YPOS="2138.7312" OwnPage="5" ItemID="758089591" PTYPE="4" WIDTH="345.6" HEIGHT="540" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0.1528" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L345.6 0 L345.6 540 L0 540 L0 0 Z" copath="M0 0 L345.6 0 L345.6 540 L0 540 L0 0 Z" gXpos="1.4210854715202e-14" gYpos="-2754.7752" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="761801879" BACKITEM="-1">
+        <PAGEOBJECT XPOS="136.0008" YPOS="2138.7312" OwnPage="5" ItemID="563481836" PTYPE="4" WIDTH="345.6" HEIGHT="540" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0.1528" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L345.6 0 L345.6 540 L0 540 L0 0 Z" copath="M0 0 L345.6 0 L345.6 540 L0 540 L0 0 Z" gXpos="1.4210854715202e-14" gYpos="-2754.7752" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="581296572" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
                 <ITEXT FONT="Source Serif Pro Bold" FCOLOR="Blue 900" CH="Bab Pertama"/>
@@ -440,7 +466,7 @@
                 <ITEXT CPARENT="Tautan Link" CH="https://epsi-rns.gitlab.io/frontend/2020/10/11/slides-concept-css/"/>
                 <para PARENT="Butir Pikiran"/>
                 <para PARENT="Interior Paragraph"/>
-                <ITEXT CH="Bilamana sohib membutuhkan panduan langkah demi langkah, maka "/>
+                <ITEXT CH="Bilamana sohib pembaca membutuhkan panduan langkah demi langkah, maka "/>
                 <ITEXT CPARENT="Tautan Link" CH="youtube.com"/>
                 <ITEXT CH=" adalah rujukan yang cukup bagus. Banyak kanal yang bagus yang dapat ditonton, baik yang berbahasa Inggris, maupun yang berbahasa Indonesia."/>
                 <para PARENT="Interior Paragraph"/>
@@ -476,8 +502,8 @@
                 <para/>
             </StoryText>
         </PAGEOBJECT>
-        <PAGEOBJECT XPOS="582.4008" YPOS="2138.7312" OwnPage="6" ItemID="761801879" PTYPE="4" WIDTH="345.6" HEIGHT="540" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0.1528" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L345.6 0 L345.6 540 L0 540 L0 0 Z" copath="M0 0 L345.6 0 L345.6 540 L0 540 L0 0 Z" gXpos="-7.60000000000002" gYpos="-2066.772" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="758089591"/>
-        <PAGEOBJECT XPOS="136.0008" YPOS="2826.7344" OwnPage="7" ItemID="761794471" PTYPE="4" WIDTH="345.6" HEIGHT="540" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0.1528" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L345.6 0 L345.6 540 L0 540 L0 0 Z" copath="M0 0 L345.6 0 L345.6 540 L0 540 L0 0 Z" gXpos="1.4210854715202e-14" gYpos="-2754.7752" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+        <PAGEOBJECT XPOS="582.4008" YPOS="2138.7312" OwnPage="6" ItemID="581296572" PTYPE="4" WIDTH="345.6" HEIGHT="540" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0.1528" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L345.6 0 L345.6 540 L0 540 L0 0 Z" copath="M0 0 L345.6 0 L345.6 540 L0 540 L0 0 Z" gXpos="-7.60000000000002" gYpos="-2066.772" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="563481836"/>
+        <PAGEOBJECT XPOS="136.0008" YPOS="2826.7344" OwnPage="7" ItemID="550720876" PTYPE="4" WIDTH="345.6" HEIGHT="540" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0.1528" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L345.6 0 L345.6 540 L0 540 L0 0 Z" copath="M0 0 L345.6 0 L345.6 540 L0 540 L0 0 Z" gXpos="1.4210854715202e-14" gYpos="-2754.7752" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
                 <ITEXT CH="Pendekatan"/>
@@ -513,8 +539,8 @@
                 <para ALIGN="0"/>
             </StoryText>
         </PAGEOBJECT>
-        <PAGEOBJECT XPOS="136.0008" YPOS="2988.0144" OwnPage="7" ItemID="762221959" PTYPE="2" WIDTH="345.6" HEIGHT="194.4" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" TEXTFLOWMODE="1" LOCALSCX="0.432" LOCALSCY="0.432" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="0" RATIO="1" Pagenumber="0" PFILE="illustration/preface-css-concept-page.png" IRENDER="0" EMBEDDED="0" path="M0 0 L345.6 0 L345.6 194.4 L0 194.4 L0 0 Z" copath="M0 0 L345.6 0 L345.6 194.4 L0 194.4 L0 0 Z" gXpos="136.0008" gYpos="2988.0144" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
-        <PAGEOBJECT XPOS="582.4008" YPOS="2826.7344" OwnPage="8" ItemID="762245159" PTYPE="4" WIDTH="345.6" HEIGHT="540" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0.1528" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L345.6 0 L345.6 540 L0 540 L0 0 Z" copath="M0 0 L345.6 0 L345.6 540 L0 540 L0 0 Z" gXpos="-8.20000000000016" gYpos="-2754.2784" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+        <PAGEOBJECT XPOS="136.0008" YPOS="2988.0144" OwnPage="7" ItemID="548721500" PTYPE="2" WIDTH="345.6" HEIGHT="194.4" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" TEXTFLOWMODE="1" LOCALSCX="0.432" LOCALSCY="0.432" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="0" RATIO="1" Pagenumber="0" PFILE="illustration/preface-css-concept-page.png" IRENDER="0" EMBEDDED="0" path="M0 0 L345.6 0 L345.6 194.4 L0 194.4 L0 0 Z" copath="M0 0 L345.6 0 L345.6 194.4 L0 194.4 L0 0 Z" gXpos="136.0008" gYpos="2988.0144" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
+        <PAGEOBJECT XPOS="582.4008" YPOS="2826.7344" OwnPage="8" ItemID="529282044" PTYPE="4" WIDTH="345.6" HEIGHT="540" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0.1528" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L345.6 0 L345.6 540 L0 540 L0 0 Z" copath="M0 0 L345.6 0 L345.6 540 L0 540 L0 0 Z" gXpos="-8.20000000000016" gYpos="-2754.2784" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
                 <ITEXT CH="Secara Teknis"/>
@@ -559,9 +585,9 @@
                 <trail ALIGN="0"/>
             </StoryText>
         </PAGEOBJECT>
-        <PAGEOBJECT XPOS="683.2008" YPOS="2887.2144" OwnPage="8" ItemID="762026407" PTYPE="2" WIDTH="131.9976" HEIGHT="144" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="0.479991272727273" LOCALSCY="0.479991272727273" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="0" RATIO="1" Pagenumber="0" PFILE="illustration/html-css-js.png" IRENDER="0" EMBEDDED="0" path="M0 0 L131.998 0 L131.998 144 L0 144 L0 0 Z" copath="M0 0 L131.998 0 L131.998 144 L0 144 L0 0 Z" gXpos="683.2008" gYpos="2887.2144" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
-        <PAGEOBJECT XPOS="647.2008" YPOS="3103.2144" OwnPage="8" ItemID="762045639" PTYPE="2" WIDTH="203.9976" HEIGHT="144" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="0.479994352941176" LOCALSCY="0.479994352941176" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="0" RATIO="1" Pagenumber="0" PFILE="illustration/preprocessor.png" IRENDER="0" EMBEDDED="0" path="M0 0 L203.998 0 L203.998 144 L0 144 L0 0 Z" copath="M0 0 L203.998 0 L203.998 144 L0 144 L0 0 Z" gXpos="647.2008" gYpos="3103.2144" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
-        <PAGEOBJECT XPOS="136.0008" YPOS="3514.7376" OwnPage="9" ItemID="759074151" PTYPE="4" WIDTH="345.6" HEIGHT="540" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0.1528" AUTOTEXT="1" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L345.6 0 L345.6 540 L0 540 L0 0 Z" copath="M0 0 L345.6 0 L345.6 540 L0 540 L0 0 Z" gXpos="136.0008" gYpos="3514.7376" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="763892151" BACKITEM="-1">
+        <PAGEOBJECT XPOS="683.2008" YPOS="2887.2144" OwnPage="8" ItemID="564048940" PTYPE="2" WIDTH="131.9976" HEIGHT="144" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="0.479991272727273" LOCALSCY="0.479991272727273" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="0" RATIO="1" Pagenumber="0" PFILE="illustration/html-css-js.png" IRENDER="0" EMBEDDED="0" path="M0 0 L131.998 0 L131.998 144 L0 144 L0 0 Z" copath="M0 0 L131.998 0 L131.998 144 L0 144 L0 0 Z" gXpos="683.2008" gYpos="2887.2144" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
+        <PAGEOBJECT XPOS="647.2008" YPOS="3103.2144" OwnPage="8" ItemID="530036332" PTYPE="2" WIDTH="203.9976" HEIGHT="144" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="0.479994352941176" LOCALSCY="0.479994352941176" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="0" RATIO="1" Pagenumber="0" PFILE="illustration/preprocessor.png" IRENDER="0" EMBEDDED="0" path="M0 0 L203.998 0 L203.998 144 L0 144 L0 0 Z" copath="M0 0 L203.998 0 L203.998 144 L0 144 L0 0 Z" gXpos="647.2008" gYpos="3103.2144" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
+        <PAGEOBJECT XPOS="136.0008" YPOS="3514.7376" OwnPage="9" ItemID="540995964" PTYPE="4" WIDTH="345.6" HEIGHT="540" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0.1528" AUTOTEXT="1" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L345.6 0 L345.6 540 L0 540 L0 0 Z" copath="M0 0 L345.6 0 L345.6 540 L0 540 L0 0 Z" gXpos="136.0008" gYpos="3514.7376" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="562091500" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
                 <ITEXT CH="HTML"/>
@@ -697,10 +723,10 @@
                 <para PARENT="Quotes"/>
             </StoryText>
         </PAGEOBJECT>
-        <PAGEOBJECT XPOS="582.4008" YPOS="3514.7376" OwnPage="10" ItemID="763892151" PTYPE="4" WIDTH="345.6" HEIGHT="540" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0.1528" AUTOTEXT="1" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L345.6 0 L345.6 540 L0 540 L0 0 Z" copath="M0 0 L345.6 0 L345.6 540 L0 540 L0 0 Z" gXpos="582.4008" gYpos="3514.7376" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="759074151"/>
-        <PAGEOBJECT XPOS="136.0008" YPOS="3719.2176" OwnPage="9" ItemID="763917127" PTYPE="2" WIDTH="345.6" HEIGHT="194.4" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" TEXTFLOWMODE="1" LOCALSCX="0.432" LOCALSCY="0.432" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="0" RATIO="1" Pagenumber="0" PFILE="illustration/preface-learning-html-step-by-step.png" IRENDER="0" EMBEDDED="0" path="M0 0 L345.6 0 L345.6 194.4 L0 194.4 L0 0 Z" copath="M0 0 L345.6 0 L345.6 194.4 L0 194.4 L0 0 Z" gXpos="136.0008" gYpos="3719.2176" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
-        <PAGEOBJECT XPOS="582.4008" YPOS="3632.8176" OwnPage="10" ItemID="765765479" PTYPE="2" WIDTH="345.6" HEIGHT="194.4" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" TEXTFLOWMODE="1" LOCALSCX="0.432" LOCALSCY="0.432" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="0" RATIO="1" Pagenumber="0" PFILE="illustration/preface-learning-css-step-by-step.png" IRENDER="0" EMBEDDED="0" path="M0 0 L345.6 0 L345.6 194.4 L0 194.4 L0 0 Z" copath="M0 0 L345.6 0 L345.6 194.4 L0 194.4 L0 0 Z" gXpos="582.4008" gYpos="3632.8176" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
-        <PAGEOBJECT XPOS="136.0008" YPOS="4202.7408" OwnPage="11" ItemID="765756295" PTYPE="4" WIDTH="345.6" HEIGHT="540" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0.1528" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L345.6 0 L345.6 540 L0 540 L0 0 Z" copath="M0 0 L345.6 0 L345.6 540 L0 540 L0 0 Z" gXpos="136.0008" gYpos="4202.7408" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+        <PAGEOBJECT XPOS="582.4008" YPOS="3514.7376" OwnPage="10" ItemID="562091500" PTYPE="4" WIDTH="345.6" HEIGHT="540" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0.1528" AUTOTEXT="1" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L345.6 0 L345.6 540 L0 540 L0 0 Z" copath="M0 0 L345.6 0 L345.6 540 L0 540 L0 0 Z" gXpos="582.4008" gYpos="3514.7376" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="540995964"/>
+        <PAGEOBJECT XPOS="136.0008" YPOS="3719.2176" OwnPage="9" ItemID="549166780" PTYPE="2" WIDTH="345.6" HEIGHT="194.4" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" TEXTFLOWMODE="1" LOCALSCX="0.432" LOCALSCY="0.432" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="0" RATIO="1" Pagenumber="0" PFILE="illustration/preface-learning-html-step-by-step.png" IRENDER="0" EMBEDDED="0" path="M0 0 L345.6 0 L345.6 194.4 L0 194.4 L0 0 Z" copath="M0 0 L345.6 0 L345.6 194.4 L0 194.4 L0 0 Z" gXpos="136.0008" gYpos="3719.2176" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
+        <PAGEOBJECT XPOS="582.4008" YPOS="3632.8176" OwnPage="10" ItemID="584911420" PTYPE="2" WIDTH="345.6" HEIGHT="194.4" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" TEXTFLOWMODE="1" LOCALSCX="0.432" LOCALSCY="0.432" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="0" RATIO="1" Pagenumber="0" PFILE="illustration/preface-learning-css-step-by-step.png" IRENDER="0" EMBEDDED="0" path="M0 0 L345.6 0 L345.6 194.4 L0 194.4 L0 0 Z" copath="M0 0 L345.6 0 L345.6 194.4 L0 194.4 L0 0 Z" gXpos="582.4008" gYpos="3632.8176" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
+        <PAGEOBJECT XPOS="136.0008" YPOS="4202.7408" OwnPage="11" ItemID="567720332" PTYPE="4" WIDTH="345.6" HEIGHT="540" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0.1528" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L345.6 0 L345.6 540 L0 540 L0 0 Z" copath="M0 0 L345.6 0 L345.6 540 L0 540 L0 0 Z" gXpos="136.0008" gYpos="4202.7408" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
                 <ITEXT CH="Javascript"/>
@@ -762,7 +788,7 @@
                 <trail PARENT="Quotes"/>
             </StoryText>
         </PAGEOBJECT>
-        <PAGEOBJECT XPOS="582.4008" YPOS="4202.7408" OwnPage="12" ItemID="765659767" PTYPE="4" WIDTH="345.6" HEIGHT="540" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0.1528" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L345.6 0 L345.6 540 L0 540 L0 0 Z" copath="M0 0 L345.6 0 L345.6 540 L0 540 L0 0 Z" gXpos="14.4" gYpos="18.7200000000003" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+        <PAGEOBJECT XPOS="582.4008" YPOS="4202.7408" OwnPage="12" ItemID="546325484" PTYPE="4" WIDTH="345.6" HEIGHT="540" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0.1528" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L345.6 0 L345.6 540 L0 540 L0 0 Z" copath="M0 0 L345.6 0 L345.6 540 L0 540 L0 0 Z" gXpos="14.4" gYpos="18.7200000000003" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
                 <para ALIGN="1"/>
@@ -785,7 +811,7 @@
                 <trail ALIGN="1"/>
             </StoryText>
         </PAGEOBJECT>
-        <PAGEOBJECT XPOS="136.0008" YPOS="4890.744" OwnPage="13" ItemID="763935415" PTYPE="4" WIDTH="345.6" HEIGHT="540" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0.1528" AUTOTEXT="1" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L345.6 0 L345.6 540 L0 540 L0 0 Z" copath="M0 0 L345.6 0 L345.6 540 L0 540 L0 0 Z" gXpos="136.0008" gYpos="4890.744" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="769229655" BACKITEM="-1">
+        <PAGEOBJECT XPOS="136.0008" YPOS="4890.744" OwnPage="13" ItemID="546332924" PTYPE="4" WIDTH="345.6" HEIGHT="540" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0.1528" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L345.6 0 L345.6 540 L0 540 L0 0 Z" copath="M0 0 L345.6 0 L345.6 540 L0 540 L0 0 Z" gXpos="136.0008" gYpos="4890.744" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="530048028" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
                 <ITEXT FONT="Source Serif Pro Bold" FCOLOR="Blue 900" CH="Bab "/>
@@ -1343,9 +1369,17 @@
                 <para PARENT="Interior Paragraph"/>
                 <ITEXT CH="  &quot;scripts&quot;: {"/>
                 <para PARENT="Inline Code"/>
-                <ITEXT CH="    &quot;css-build&quot;: &quot;node-sass --include-path sass sass/themes/oriclone --output static/assets/css&quot;,"/>
+                <ITEXT CH="    &quot;css-build&quot;: &quot;node-sass"/>
                 <para PARENT="Inline Code"/>
-                <ITEXT CH="    &quot;css-watch&quot;: &quot;npm run css-build -- --watch --output-style compressed --omit-source-map-url&quot;,"/>
+                <ITEXT CH="                  --include-path sass sass/themes/oriclone"/>
+                <para PARENT="Inline Code"/>
+                <ITEXT CH="                  --output static/assets/css&quot;,"/>
+                <para PARENT="Inline Code"/>
+                <ITEXT CH="    &quot;css-watch&quot;: &quot;npm run css-build -- "/>
+                <para PARENT="Inline Code"/>
+                <ITEXT CH="                  --watch --output-style compressed "/>
+                <para PARENT="Inline Code"/>
+                <ITEXT CH="                  --omit-source-map-url&quot;,"/>
                 <para PARENT="Inline Code"/>
                 <ITEXT CH="    &quot;start&quot;: &quot;npm run css-watch&quot;"/>
                 <para PARENT="Inline Code"/>
@@ -1365,20 +1399,1330 @@
                 <para/>
             </StoryText>
         </PAGEOBJECT>
-        <PAGEOBJECT XPOS="582.4008" YPOS="4890.744" OwnPage="14" ItemID="769229655" PTYPE="4" WIDTH="345.6" HEIGHT="540" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0.1528" AUTOTEXT="1" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L345.6 0 L345.6 540 L0 540 L0 0 Z" copath="M0 0 L345.6 0 L345.6 540 L0 540 L0 0 Z" gXpos="582.4008" gYpos="4890.744" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="769219175" BACKITEM="763935415"/>
-        <PAGEOBJECT XPOS="582.4008" YPOS="5246.424" OwnPage="14" ItemID="769257063" PTYPE="2" WIDTH="345.6" HEIGHT="159.991841584158" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" TEXTFLOWMODE="1" LOCALSCX="0.68081634716663" LOCALSCY="0.68081634716663" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="0" RATIO="1" Pagenumber="0" PFILE="illustration/sass/windows-01-cmd-choco-setup.png" IRENDER="0" EMBEDDED="0" path="M0 0 L345.6 0 L345.6 159.992 L0 159.992 L0 0 Z" copath="M0 0 L345.6 0 L345.6 159.992 L0 159.992 L0 0 Z" gXpos="582.4008" gYpos="5246.424" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
-        <PAGEOBJECT XPOS="136.0008" YPOS="5578.7472" OwnPage="15" ItemID="769219175" PTYPE="4" WIDTH="345.6" HEIGHT="540" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0.1528" AUTOTEXT="1" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L345.6 0 L345.6 540 L0 540 L0 0 Z" copath="M0 0 L345.6 0 L345.6 540 L0 540 L0 0 Z" gXpos="136.0008" gYpos="5578.7472" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="769303927" BACKITEM="769229655"/>
-        <PAGEOBJECT XPOS="582.4008" YPOS="5578.7472" OwnPage="16" ItemID="769303927" PTYPE="4" WIDTH="345.6" HEIGHT="540" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0.1528" AUTOTEXT="1" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L345.6 0 L345.6 540 L0 540 L0 0 Z" copath="M0 0 L345.6 0 L345.6 540 L0 540 L0 0 Z" gXpos="582.4008" gYpos="5578.7472" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="774797047" BACKITEM="769219175"/>
-        <PAGEOBJECT XPOS="200.8008" YPOS="5646.4272" OwnPage="15" ItemID="774829879" PTYPE="2" WIDTH="216" HEIGHT="165.6" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" TEXTFLOWMODE="1" LOCALSCX="0.45" LOCALSCY="0.45" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="0" RATIO="1" Pagenumber="0" PFILE="illustration/sass/windows-01-cmder-download.png" IRENDER="0" EMBEDDED="0" path="M0 0 L216 0 L216 165.6 L0 165.6 L0 0 Z" copath="M0 0 L216 0 L216 165.6 L0 165.6 L0 0 Z" gXpos="200.8008" gYpos="5646.4272" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
-        <PAGEOBJECT XPOS="186.4008" YPOS="5970.4272" OwnPage="15" ItemID="774579463" PTYPE="2" WIDTH="244.8" HEIGHT="144" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="0.51" LOCALSCY="0.51" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="0" RATIO="1" Pagenumber="0" PFILE="illustration/sass/windows-03-choco-install-sass.png" IRENDER="0" EMBEDDED="0" path="M0 0 L244.8 0 L244.8 144 L0 144 L0 0 Z" copath="M0 0 L244.8 0 L244.8 144 L0 144 L0 0 Z" gXpos="186.4008" gYpos="5970.4272" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
-        <PAGEOBJECT XPOS="618.4008" YPOS="5761.6272" OwnPage="16" ItemID="774578023" PTYPE="2" WIDTH="273.6" HEIGHT="100.8" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="0.57" LOCALSCY="0.57" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="0" RATIO="1" Pagenumber="0" PFILE="illustration/sass/windows-03-cmder-sass-dart-issue.png" IRENDER="0" EMBEDDED="0" path="M0 0 L273.6 0 L273.6 100.8 L0 100.8 L0 0 Z" copath="M0 0 L273.6 0 L273.6 100.8 L0 100.8 L0 0 Z" gXpos="618.4008" gYpos="5761.6272" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
-        <PAGEOBJECT XPOS="618.4008" YPOS="5927.2272" OwnPage="16" ItemID="774793815" PTYPE="2" WIDTH="273.6" HEIGHT="100.8" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="0.6" LOCALSCY="0.6" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" Pagenumber="0" PFILE="illustration/sass/windows-03-cmder-sass-options.png" IRENDER="0" EMBEDDED="0" path="M0 0 L273.6 0 L273.6 100.8 L0 100.8 L0 0 Z" copath="M0 0 L273.6 0 L273.6 100.8 L0 100.8 L0 0 Z" gXpos="618.4008" gYpos="5927.2272" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
-        <PAGEOBJECT XPOS="136.0008" YPOS="6266.7504" OwnPage="17" ItemID="774797047" PTYPE="4" WIDTH="345.6" HEIGHT="540" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0.1528" AUTOTEXT="1" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L345.6 0 L345.6 540 L0 540 L0 0 Z" copath="M0 0 L345.6 0 L345.6 540 L0 540 L0 0 Z" gXpos="136.0008" gYpos="6266.7504" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="775095703" BACKITEM="769303927"/>
-        <PAGEOBJECT XPOS="582.4008" YPOS="6266.7504" OwnPage="18" ItemID="775095703" PTYPE="4" WIDTH="345.6" HEIGHT="540" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0.1528" AUTOTEXT="1" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L345.6 0 L345.6 540 L0 540 L0 0 Z" copath="M0 0 L345.6 0 L345.6 540 L0 540 L0 0 Z" gXpos="582.4008" gYpos="6266.7504" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="775227623" BACKITEM="774797047"/>
-        <PAGEOBJECT XPOS="618.4008" YPOS="6464.0304" OwnPage="18" ItemID="775119015" PTYPE="2" WIDTH="273.6" HEIGHT="104.4" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" TEXTFLOWMODE="1" LOCALSCX="0.577215189873418" LOCALSCY="0.577215189873418" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="0" RATIO="1" Pagenumber="0" PFILE="illustration/sass/fedora-dart-sass.png" IRENDER="0" EMBEDDED="0" path="M0 0 L273.6 0 L273.6 104.4 L0 104.4 L0 0 Z" copath="M0 0 L273.6 0 L273.6 104.4 L0 104.4 L0 0 Z" gXpos="618.4008" gYpos="6464.0304" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
-        <PAGEOBJECT XPOS="136.0008" YPOS="6954.7536" OwnPage="19" ItemID="775227623" PTYPE="4" WIDTH="345.6" HEIGHT="540" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0.1528" AUTOTEXT="1" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L345.6 0 L345.6 540 L0 540 L0 0 Z" copath="M0 0 L345.6 0 L345.6 540 L0 540 L0 0 Z" gXpos="136.0008" gYpos="6954.7536" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="774823495" BACKITEM="775095703"/>
-        <PAGEOBJECT XPOS="582.4008" YPOS="6954.7536" OwnPage="20" ItemID="774823495" PTYPE="4" WIDTH="345.6" HEIGHT="540" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0.1528" AUTOTEXT="1" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L345.6 0 L345.6 540 L0 540 L0 0 Z" copath="M0 0 L345.6 0 L345.6 540 L0 540 L0 0 Z" gXpos="582.4008" gYpos="6954.7536" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="775227623"/>
-        <PAGEOBJECT XPOS="172.0008" YPOS="7188.0336" OwnPage="19" ItemID="785412743" PTYPE="2" WIDTH="273.6" HEIGHT="79.2" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="0.577215189873418" LOCALSCY="0.577215189873418" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="0" RATIO="1" Pagenumber="0" PFILE="illustration/sass/fedora-npm-global-setup-path.png" IRENDER="0" EMBEDDED="0" path="M0 0 L273.6 0 L273.6 79.2 L0 79.2 L0 0 Z" copath="M0 0 L273.6 0 L273.6 79.2 L0 79.2 L0 0 Z" gXpos="172.0008" gYpos="7188.0336" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
-        <PAGEOBJECT XPOS="618.4008" YPOS="6957.6336" OwnPage="20" ItemID="802626327" PTYPE="2" WIDTH="273.6" HEIGHT="115.2" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="0.577215189873418" LOCALSCY="0.577215189873418" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="0" RATIO="1" Pagenumber="0" PFILE="illustration/sass/fedora-node-sass-watch.png" IRENDER="0" EMBEDDED="0" path="M0 0 L273.6 0 L273.6 115.2 L0 115.2 L0 0 Z" copath="M0 0 L273.6 0 L273.6 115.2 L0 115.2 L0 0 Z" gXpos="618.4008" gYpos="6957.6336" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
+        <PAGEOBJECT XPOS="582.4008" YPOS="4890.744" OwnPage="14" ItemID="530048028" PTYPE="4" WIDTH="345.6" HEIGHT="540" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0.1528" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L345.6 0 L345.6 540 L0 540 L0 0 Z" copath="M0 0 L345.6 0 L345.6 540 L0 540 L0 0 Z" gXpos="582.4008" gYpos="4890.744" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="567828444" BACKITEM="546332924"/>
+        <PAGEOBJECT XPOS="582.4008" YPOS="5246.424" OwnPage="14" ItemID="547395260" PTYPE="2" WIDTH="345.6" HEIGHT="159.991841584158" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" TEXTFLOWMODE="1" LOCALSCX="0.68081634716663" LOCALSCY="0.68081634716663" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="0" RATIO="1" Pagenumber="0" PFILE="illustration/sass/windows-01-cmd-choco-setup.png" IRENDER="0" EMBEDDED="0" path="M0 0 L345.6 0 L345.6 159.992 L0 159.992 L0 0 Z" copath="M0 0 L345.6 0 L345.6 159.992 L0 159.992 L0 0 Z" gXpos="582.4008" gYpos="5246.424" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
+        <PAGEOBJECT XPOS="136.0008" YPOS="5578.7472" OwnPage="15" ItemID="567828444" PTYPE="4" WIDTH="345.6" HEIGHT="540" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0.1528" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L345.6 0 L345.6 540 L0 540 L0 0 Z" copath="M0 0 L345.6 0 L345.6 540 L0 540 L0 0 Z" gXpos="136.0008" gYpos="5578.7472" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="576038428" BACKITEM="530048028"/>
+        <PAGEOBJECT XPOS="582.4008" YPOS="5578.7472" OwnPage="16" ItemID="576038428" PTYPE="4" WIDTH="345.6" HEIGHT="540" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0.1528" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L345.6 0 L345.6 540 L0 540 L0 0 Z" copath="M0 0 L345.6 0 L345.6 540 L0 540 L0 0 Z" gXpos="582.4008" gYpos="5578.7472" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="579047436" BACKITEM="567828444"/>
+        <PAGEOBJECT XPOS="200.8008" YPOS="5646.4272" OwnPage="15" ItemID="578108892" PTYPE="2" WIDTH="216" HEIGHT="165.6" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" TEXTFLOWMODE="1" LOCALSCX="0.45" LOCALSCY="0.45" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="0" RATIO="1" Pagenumber="0" PFILE="illustration/sass/windows-01-cmder-download.png" IRENDER="0" EMBEDDED="0" path="M0 0 L216 0 L216 165.6 L0 165.6 L0 0 Z" copath="M0 0 L216 0 L216 165.6 L0 165.6 L0 0 Z" gXpos="200.8008" gYpos="5646.4272" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
+        <PAGEOBJECT XPOS="186.4008" YPOS="5970.4272" OwnPage="15" ItemID="544028252" PTYPE="2" WIDTH="244.8" HEIGHT="144" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="0.51" LOCALSCY="0.51" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="0" RATIO="1" Pagenumber="0" PFILE="illustration/sass/windows-03-choco-install-sass.png" IRENDER="0" EMBEDDED="0" path="M0 0 L244.8 0 L244.8 144 L0 144 L0 0 Z" copath="M0 0 L244.8 0 L244.8 144 L0 144 L0 0 Z" gXpos="186.4008" gYpos="5970.4272" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
+        <PAGEOBJECT XPOS="618.4008" YPOS="5761.6272" OwnPage="16" ItemID="565239020" PTYPE="2" WIDTH="273.6" HEIGHT="100.8" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="0.57" LOCALSCY="0.57" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="0" RATIO="1" Pagenumber="0" PFILE="illustration/sass/windows-03-cmder-sass-dart-issue.png" IRENDER="0" EMBEDDED="0" path="M0 0 L273.6 0 L273.6 100.8 L0 100.8 L0 0 Z" copath="M0 0 L273.6 0 L273.6 100.8 L0 100.8 L0 0 Z" gXpos="618.4008" gYpos="5761.6272" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
+        <PAGEOBJECT XPOS="618.4008" YPOS="5927.2272" OwnPage="16" ItemID="583703068" PTYPE="2" WIDTH="273.6" HEIGHT="100.8" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="0.6" LOCALSCY="0.6" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" Pagenumber="0" PFILE="illustration/sass/windows-03-cmder-sass-options.png" IRENDER="0" EMBEDDED="0" path="M0 0 L273.6 0 L273.6 100.8 L0 100.8 L0 0 Z" copath="M0 0 L273.6 0 L273.6 100.8 L0 100.8 L0 0 Z" gXpos="618.4008" gYpos="5927.2272" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
+        <PAGEOBJECT XPOS="136.0008" YPOS="6266.7504" OwnPage="17" ItemID="579047436" PTYPE="4" WIDTH="345.6" HEIGHT="540" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0.1528" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L345.6 0 L345.6 540 L0 540 L0 0 Z" copath="M0 0 L345.6 0 L345.6 540 L0 540 L0 0 Z" gXpos="136.0008" gYpos="6266.7504" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="534402860" BACKITEM="576038428"/>
+        <PAGEOBJECT XPOS="582.4008" YPOS="6266.7504" OwnPage="18" ItemID="534402860" PTYPE="4" WIDTH="345.6" HEIGHT="540" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0.1528" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L345.6 0 L345.6 540 L0 540 L0 0 Z" copath="M0 0 L345.6 0 L345.6 540 L0 540 L0 0 Z" gXpos="582.4008" gYpos="6266.7504" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="566924492" BACKITEM="579047436"/>
+        <PAGEOBJECT XPOS="618.4008" YPOS="6464.0304" OwnPage="18" ItemID="579500892" PTYPE="2" WIDTH="273.6" HEIGHT="104.4" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" TEXTFLOWMODE="1" LOCALSCX="0.577215189873418" LOCALSCY="0.577215189873418" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="0" RATIO="1" Pagenumber="0" PFILE="illustration/sass/fedora-dart-sass.png" IRENDER="0" EMBEDDED="0" path="M0 0 L273.6 0 L273.6 104.4 L0 104.4 L0 0 Z" copath="M0 0 L273.6 0 L273.6 104.4 L0 104.4 L0 0 Z" gXpos="618.4008" gYpos="6464.0304" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
+        <PAGEOBJECT XPOS="136.0008" YPOS="6954.7536" OwnPage="19" ItemID="566924492" PTYPE="4" WIDTH="345.6" HEIGHT="540" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0.1528" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L345.6 0 L345.6 540 L0 540 L0 0 Z" copath="M0 0 L345.6 0 L345.6 540 L0 540 L0 0 Z" gXpos="136.0008" gYpos="6954.7536" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="531315740" BACKITEM="534402860"/>
+        <PAGEOBJECT XPOS="582.4008" YPOS="6954.7536" OwnPage="20" ItemID="531315740" PTYPE="4" WIDTH="345.6" HEIGHT="540" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0.1528" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L345.6 0 L345.6 540 L0 540 L0 0 Z" copath="M0 0 L345.6 0 L345.6 540 L0 540 L0 0 Z" gXpos="582.4008" gYpos="6954.7536" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="566924492"/>
+        <PAGEOBJECT XPOS="172.0008" YPOS="7188.0336" OwnPage="19" ItemID="562999660" PTYPE="2" WIDTH="273.6" HEIGHT="79.2" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="0.577215189873418" LOCALSCY="0.577215189873418" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="0" RATIO="1" Pagenumber="0" PFILE="illustration/sass/fedora-npm-global-setup-path.png" IRENDER="0" EMBEDDED="0" path="M0 0 L273.6 0 L273.6 79.2 L0 79.2 L0 0 Z" copath="M0 0 L273.6 0 L273.6 79.2 L0 79.2 L0 0 Z" gXpos="172.0008" gYpos="7188.0336" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
+        <PAGEOBJECT XPOS="618.4008" YPOS="6957.6336" OwnPage="20" ItemID="563423116" PTYPE="2" WIDTH="273.6" HEIGHT="115.2" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="0.577215189873418" LOCALSCY="0.577215189873418" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="0" RATIO="1" Pagenumber="0" PFILE="illustration/sass/fedora-node-sass-watch.png" IRENDER="0" EMBEDDED="0" path="M0 0 L273.6 0 L273.6 115.2 L0 115.2 L0 0 Z" copath="M0 0 L273.6 0 L273.6 115.2 L0 115.2 L0 0 Z" gXpos="618.4008" gYpos="6957.6336" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
+        <PAGEOBJECT XPOS="136.0008" YPOS="7642.7568" OwnPage="21" ItemID="543847964" PTYPE="4" WIDTH="345.6" HEIGHT="540" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0.1528" AUTOTEXT="1" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L345.6 0 L345.6 540 L0 540 L0 0 Z" copath="M0 0 L345.6 0 L345.6 540 L0 540 L0 0 Z" gXpos="136.0008" gYpos="7642.7568" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="543283244" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT CH="angkah demi langkah, unjuk kemampuan dari SASS,"/>
+                <para PARENT="Quotes"/>
+                <ITEXT CH="untuk menghasilkan margin class maupun padding class."/>
+                <para PARENT="Quotes"/>
+                <ITEXT CH="Spacing Class dengan SCSS"/>
+                <para PARENT="Heading One"/>
+                <ITEXT FONT="Source Serif Pro SemiBold" CH="Tujuan"/>
+                <ITEXT CH=": Menghasilkan spacing class dengan loop di SASS."/>
+                <para PARENT="Butir Pikiran"/>
+                <ITEXT CH="Pendahuluan"/>
+                <para PARENT="Heading Two"/>
+                <ITEXT CH="Pembikinan theme, membutuhkan "/>
+                <ITEXT CPARENT="Terminology" CH="custom CSS"/>
+                <ITEXT CH=". Ini juga berlaku, bahkan saat menggunakan "/>
+                <ITEXT CPARENT="Terminology" CH="CSS Framework"/>
+                <ITEXT CH=". Salah satu yang penulis butuhkan di masa lalu adalah membuat "/>
+                <ITEXT CPARENT="Terminology" CH="spacing class"/>
+                <ITEXT CH=" di "/>
+                <ITEXT CPARENT="Code" CH="Bulma"/>
+                <ITEXT CH=" maupun "/>
+                <ITEXT CPARENT="Code" CH="Materialize CSS"/>
+                <ITEXT CH=". Walaupun akhirnya di tahun 2019, "/>
+                <ITEXT CPARENT="Code" CH="Bulma 0.8"/>
+                <ITEXT CH=" telah memiliki "/>
+                <ITEXT CPARENT="Terminology" CH="spacing class"/>
+                <ITEXT CH=" sendiri, namun penulis tetap membutuhkan untuk proyek lainnya. "/>
+                <ITEXT CPARENT="Terminology" CH="Spacing class"/>
+                <ITEXT CH=" ini dapat dibikin dengan menggunakan "/>
+                <ITEXT CPARENT="Code" CH="SASS"/>
+                <ITEXT CH="."/>
+                <para PARENT="Interior Paragraph"/>
+                <para PARENT="Interior Paragraph"/>
+                <para PARENT="Interior Paragraph"/>
+                <para/>
+                <para/>
+                <para/>
+                <para/>
+                <para/>
+                <para/>
+                <para/>
+                <para/>
+                <para/>
+                <para/>
+                <para/>
+                <para/>
+                <para/>
+                <para/>
+                <para/>
+                <para/>
+                <para/>
+                <para PARENT="Interior Paragraph"/>
+                <ITEXT CH="Panduan ini akan menghemat banyak waktu "/>
+                <ITEXT CPARENT="Terminology" CH="coding"/>
+                <ITEXT CH=", karena sudah diberikan contoh. Dan tentunya juga menghemat banyaknya ketikan, karena dengan otomasi maka tidak perlu mengetik "/>
+                <ITEXT CPARENT="Tautan Link" CH="CSS"/>
+                <ITEXT CH=" secara "/>
+                <ITEXT CPARENT="Terminology" CH="manual"/>
+                <ITEXT CH="."/>
+                <para PARENT="Interior Paragraph"/>
+                <ITEXT CH="Bacaan Rujukan"/>
+                <para PARENT="Heading Two"/>
+                <para/>
+                <ITEXT CH="Dasar Perulangan ("/>
+                <ITEXT CPARENT="Terminology" CH="looping"/>
+                <ITEXT CH=")"/>
+                <para/>
+                <ITEXT CPARENT="Tautan Link" CH="http://thesassway.com/intermediate/if-for-each-while"/>
+                <para PARENT="Butir Pikiran"/>
+                <para/>
+                <ITEXT CH="Sebagian besar "/>
+                <ITEXT CPARENT="Code" CH="coding"/>
+                <ITEXT CH=" di bab ini terilhami oleh:"/>
+                <para PARENT="Interior Paragraph No Indent"/>
+                <ITEXT CPARENT="Tautan Link" CH="github.com/jmaczan/.../margin-padding.sass"/>
+                <para PARENT="Butir Pikiran"/>
+                <para/>
+                <ITEXT CH="Bacaan lain:"/>
+                <para/>
+                <ITEXT CPARENT="Tautan Link" CH="https://alexwenzel.de/2017/707/sass-spacing-helper-classes"/>
+                <para PARENT="Butir Pikiran"/>
+                <para/>
+                <ITEXT CH="Keluarga CSS Preprocessor"/>
+                <para PARENT="Heading Two"/>
+                <ITEXT CPARENT="Code" CH="SASS"/>
+                <ITEXT CH=" memiliki dua format, yang pertama adalah "/>
+                <ITEXT CPARENT="Code" CH=".scss"/>
+                <ITEXT CH=" yang menggunakan kurung kurawal dan memisahkan dengantitik koma ("/>
+                <ITEXT CPARENT="Terminology" CH="semicolon"/>
+                <ITEXT CH="), lalu yang kedua adalah "/>
+                <ITEXT CPARENT="Code" CH=".sass"/>
+                <ITEXT CH=". yang mengandalkan indentasi. Untuk pembelajaran kita pakai jenis yang pertama, yang secara "/>
+                <ITEXT CPARENT="Terminology" CH="syntax"/>
+                <ITEXT CH=" mirip dengan "/>
+                <ITEXT CPARENT="Code" CH="CSS"/>
+                <ITEXT CH="."/>
+                <para PARENT="Interior Paragraph"/>
+                <ITEXT CPARENT="Code" CH="SASS/SCSS"/>
+                <ITEXT CH=" adalah salah satu alternatif diantara beberapa keluarga "/>
+                <ITEXT CPARENT="Code" CH="CSS preprocessor"/>
+                <ITEXT CH=".  Kebetulan "/>
+                <ITEXT CPARENT="Code" CH="SASS/SCSS"/>
+                <ITEXT CH=" ini adalah juga yang paling digemari karena dipakai di "/>
+                <ITEXT CPARENT="Code" CH="Bootsrap"/>
+                <ITEXT CH=", "/>
+                <ITEXT CPARENT="Code" CH="Bulma"/>
+                <ITEXT CH=", maupun "/>
+                <ITEXT CPARENT="Code" CH="Materialize CSS"/>
+                <ITEXT CH=". Selanjutnya, mari langsung kita mulai saja. Praktek dengan contoh nyata."/>
+                <para PARENT="Interior Paragraph"/>
+                <para PARENT="Interior Paragraph"/>
+                <para/>
+                <para/>
+                <para/>
+                <para/>
+                <para/>
+                <para/>
+                <para/>
+                <para/>
+                <para/>
+                <para/>
+                <para/>
+                <para/>
+                <para/>
+                <para/>
+                <ITEXT CH="1: @for"/>
+                <para PARENT="Heading Two"/>
+                <ITEXT CH="Bayangkan sohib membutuhkan beberapa kelas ("/>
+                <ITEXT CPARENT="Terminology" CH="class"/>
+                <ITEXT CH=") yang berurut untuk menangani "/>
+                <ITEXT CPARENT="Code" CH="margin"/>
+                <ITEXT CH=", sebagaimana CSS berikut:"/>
+                <para PARENT="Interior Paragraph"/>
+                <ITEXT CH=".m-1 {"/>
+                <para PARENT="Inline Code"/>
+                <ITEXT CH="  margin: 1px;"/>
+                <para PARENT="Inline Code"/>
+                <ITEXT CH="}"/>
+                <para PARENT="Inline Code"/>
+                <para/>
+                <ITEXT CH="Hasil jadi dari naskah di atas dapat dicapai dengan perulangan, tepatnya adalah dengan "/>
+                <ITEXT CPARENT="Code" CH="loop constructor"/>
+                <ITEXT CH=" sebagaimana berikut di bawah:"/>
+                <para/>
+                <ITEXT CH="@for ... from ... through ... {"/>
+                <para PARENT="Inline Code"/>
+                <ITEXT CH="  ..."/>
+                <para PARENT="Inline Code"/>
+                <ITEXT CH="}"/>
+                <para PARENT="Inline Code"/>
+                <para/>
+                <ITEXT CH="Penamaan "/>
+                <ITEXT CPARENT="Terminology" CH="CSS Class"/>
+                <ITEXT CH=" yang ingin dicapai adalah sebagai berikut:"/>
+                <para/>
+                <ITEXT CH=".m-#{$number}"/>
+                <para PARENT="Inline Code"/>
+                <para/>
+                <ITEXT CH="Supaya nyaman maka perlu jelas, kita perlu menentukan nilai awal dari perulangan."/>
+                <para/>
+                <ITEXT CH="// variable initialization"/>
+                <para PARENT="Inline Code"/>
+                <para PARENT="Inline Code"/>
+                <ITEXT CH="$loop-begin: 1 !default;"/>
+                <para PARENT="Inline Code"/>
+                <ITEXT CH="$loop-stop:  3 !default;"/>
+                <para PARENT="Inline Code"/>
+                <para PARENT="Inline Code"/>
+                <ITEXT CH="// loop"/>
+                <para PARENT="Inline Code"/>
+                <para PARENT="Inline Code"/>
+                <ITEXT CH="@for $cursor from $loop-begin through $loop-stop {"/>
+                <para PARENT="Inline Code"/>
+                <ITEXT CH="  .m-#{$cursor} {"/>
+                <para PARENT="Inline Code"/>
+                <ITEXT CH="    margin: #{$cursor}px;"/>
+                <para PARENT="Inline Code"/>
+                <ITEXT CH="  }"/>
+                <para PARENT="Inline Code"/>
+                <ITEXT CH="}"/>
+                <para PARENT="Inline Code"/>
+                <para/>
+                <ITEXT CH="Di dalam perulangan tersebut kita menjumpai interpolasi variabel yaitu "/>
+                <ITEXT CPARENT="Code" CH="#{...}"/>
+                <ITEXT CH=", yang digunakan untuk meng-ekstrak suatu nilai ke dalam CSS."/>
+                <para PARENT="Interior Paragraph No Indent"/>
+                <ITEXT CPARENT="Tautan Link" CH="https://sass-lang.com/documentation/interpolation"/>
+                <para PARENT="Butir Pikiran"/>
+                <para/>
+                <para/>
+                <ITEXT CH="Dengan "/>
+                <ITEXT CPARENT="Code" CH="#{$cursor}"/>
+                <ITEXT CH=" menangani isi dari perulangan, maka kita mendapaktan hasil sebagaimana berikut:"/>
+                <para/>
+                <ITEXT CH=".m-1 {"/>
+                <para PARENT="Inline Code"/>
+                <ITEXT CH="  margin: 1px;"/>
+                <para PARENT="Inline Code"/>
+                <ITEXT CH="}"/>
+                <para PARENT="Inline Code"/>
+                <para PARENT="Inline Code"/>
+                <ITEXT CH=".m-2 {"/>
+                <para PARENT="Inline Code"/>
+                <ITEXT CH="  margin: 2px;"/>
+                <para PARENT="Inline Code"/>
+                <ITEXT CH="}"/>
+                <para PARENT="Inline Code"/>
+                <para PARENT="Inline Code"/>
+                <ITEXT CH=".m-3 {"/>
+                <para PARENT="Inline Code"/>
+                <ITEXT CH="  margin: 3px;"/>
+                <para PARENT="Inline Code"/>
+                <ITEXT CH="}"/>
+                <para PARENT="Inline Code"/>
+                <para/>
+                <ITEXT CH="Yang menjadi keterbatasan dari "/>
+                <ITEXT CPARENT="Code" CH="@for"/>
+                <ITEXT CH=" adalah kita tidfak dapat menggunakan "/>
+                <ITEXT CPARENT="Terminology" CH="interval"/>
+                <ITEXT CH=". Kita dapat menghasilkan nilai berurut yaitu "/>
+                <ITEXT CPARENT="Code" CH="[1, 2, 3, 4, 5]"/>
+                <ITEXT CH=", namun kita tidak dapat menghasilkan nilai berurut berupa "/>
+                <ITEXT CPARENT="Code" CH="[5, 10, 15, 20, 25]"/>
+                <ITEXT CH="."/>
+                <para/>
+                <para/>
+                <ITEXT CH="2: @while"/>
+                <para PARENT="Heading Two"/>
+                <ITEXT CH="Untuk menyelesaikan permasalahan nilai berurut "/>
+                <ITEXT CPARENT="Code" CH="[5, 10, 15, 20, 25]"/>
+                <ITEXT CH=" maka ita dapat menggunakan "/>
+                <ITEXT CPARENT="Code" CH="@while"/>
+                <ITEXT CH=", sebagaimana di bawah ini:"/>
+                <para PARENT="Interior Paragraph"/>
+                <ITEXT CH="$cursor: $loop-begin;"/>
+                <para PARENT="Inline Code"/>
+                <para PARENT="Inline Code"/>
+                <ITEXT CH="@while $cursor &lt;= $loop-end {"/>
+                <para PARENT="Inline Code"/>
+                <ITEXT CH="  ..."/>
+                <para PARENT="Inline Code"/>
+                <para PARENT="Inline Code"/>
+                <ITEXT CH="  $cursor: $cursor + $interval;"/>
+                <para PARENT="Inline Code"/>
+                <ITEXT CH="}"/>
+                <para PARENT="Inline Code"/>
+                <para/>
+                <ITEXT CH="Penamaan "/>
+                <ITEXT CPARENT="Terminology" CH="CSS Class"/>
+                <ITEXT CH=" yang ingin dicapai masih sama, yaitu sebagai berikut:"/>
+                <para/>
+                <ITEXT CH=".m-#{$number}"/>
+                <para PARENT="Inline Code"/>
+                <para/>
+                <para/>
+                <para/>
+                <para/>
+                <ITEXT CH="Maka kode sumber dari perulangan "/>
+                <ITEXT CPARENT="Code" CH="@while"/>
+                <ITEXT CH="-nya adalah sebagaimana berikut:"/>
+                <para/>
+                <ITEXT CH="// variable initialization"/>
+                <para PARENT="Inline Code"/>
+                <ITEXT CH="$loop-begin:  5 !default;"/>
+                <para PARENT="Inline Code"/>
+                <ITEXT CH="$loop-end:   25 !default;"/>
+                <para PARENT="Inline Code"/>
+                <ITEXT CH="$interval:    5 !default;"/>
+                <para PARENT="Inline Code"/>
+                <para PARENT="Inline Code"/>
+                <ITEXT CH="// loop"/>
+                <para PARENT="Inline Code"/>
+                <ITEXT CH="$cursor: $loop-begin;"/>
+                <para PARENT="Inline Code"/>
+                <para PARENT="Inline Code"/>
+                <ITEXT CH="@while $cursor &lt;= $loop-end {"/>
+                <para PARENT="Inline Code"/>
+                <ITEXT CH="  .m-#{$cursor} {"/>
+                <para PARENT="Inline Code"/>
+                <ITEXT CH="    margin: #{$cursor}px;"/>
+                <para PARENT="Inline Code"/>
+                <ITEXT CH="  }"/>
+                <para PARENT="Inline Code"/>
+                <ITEXT CH="  $cursor: $cursor + $interval;"/>
+                <para PARENT="Inline Code"/>
+                <ITEXT CH="}"/>
+                <para PARENT="Inline Code"/>
+                <para/>
+                <ITEXT CH="Sehingga kita mendapatkan hasil naskah CSS seperti tampak di bawah:"/>
+                <para/>
+                <ITEXT CH=".m-5 {"/>
+                <para PARENT="Inline Code"/>
+                <ITEXT CH="  margin: 5px;"/>
+                <para PARENT="Inline Code"/>
+                <ITEXT CH="}"/>
+                <para PARENT="Inline Code"/>
+                <para PARENT="Inline Code"/>
+                <ITEXT CH=".m-10 {"/>
+                <para PARENT="Inline Code"/>
+                <ITEXT CH="  margin: 10px;"/>
+                <para PARENT="Inline Code"/>
+                <ITEXT CH="}"/>
+                <para PARENT="Inline Code"/>
+                <para PARENT="Inline Code"/>
+                <ITEXT CH=".m-15 {"/>
+                <para PARENT="Inline Code"/>
+                <ITEXT CH="  margin: 15px;"/>
+                <para PARENT="Inline Code"/>
+                <ITEXT CH="}"/>
+                <para PARENT="Inline Code"/>
+                <para PARENT="Inline Code"/>
+                <ITEXT CH=".m-20 {"/>
+                <para PARENT="Inline Code"/>
+                <ITEXT CH="  margin: 20px;"/>
+                <para PARENT="Inline Code"/>
+                <ITEXT CH="}"/>
+                <para PARENT="Inline Code"/>
+                <para PARENT="Inline Code"/>
+                <ITEXT CH=".m-25 {"/>
+                <para PARENT="Inline Code"/>
+                <ITEXT CH="  margin: 25px;"/>
+                <para PARENT="Inline Code"/>
+                <ITEXT CH="}"/>
+                <para PARENT="Inline Code"/>
+                <ITEXT CH="3: @each"/>
+                <para PARENT="Heading Two"/>
+                <ITEXT CH="Sebelum melanjutkan ke situasi yang lebih rumit, kerjakan contoh yang sederhana terlebih dahulu. Tantangannya adalah membikin "/>
+                <ITEXT CPARENT="Code" CH="margin"/>
+                <ITEXT CH=" "/>
+                <ITEXT CPARENT="Terminology" CH="property"/>
+                <ITEXT CH=" yang memiliki beberapa jenis varian, sebagaimana berikut:"/>
+                <para PARENT="Interior Paragraph"/>
+                <ITEXT CPARENT="Code" CH="margin"/>
+                <ITEXT CH=","/>
+                <para PARENT="Butir Pikiran"/>
+                <ITEXT CPARENT="Code" CH="margin-top"/>
+                <ITEXT CH=","/>
+                <para PARENT="Butir Pikiran"/>
+                <ITEXT CPARENT="Code" CH="margin-bottom"/>
+                <ITEXT CH=","/>
+                <para PARENT="Butir Pikiran"/>
+                <ITEXT CPARENT="Code" CH="margin-left"/>
+                <ITEXT CH=","/>
+                <para PARENT="Butir Pikiran"/>
+                <ITEXT CPARENT="Code" CH="margin-right"/>
+                <ITEXT CH="."/>
+                <para PARENT="Butir Pikiran"/>
+                <ITEXT CH="Untuk kesederhanaan, maka penulis tidak mengikutsertakan varian "/>
+                <ITEXT CPARENT="Code" CH="margin"/>
+                <ITEXT CH="."/>
+                <para/>
+                <para/>
+                <ITEXT CH="Penamaan "/>
+                <ITEXT CPARENT="Terminology" CH="CSS Class"/>
+                <ITEXT CH=" yang ingin dicapai berbeda, yaitu sebagai berikut:"/>
+                <para/>
+                <ITEXT CH=".m-#{$side}-5"/>
+                <para PARENT="Inline Code"/>
+                <para/>
+                <ITEXT CH="Variabel "/>
+                <ITEXT CPARENT="Code" CH="SASS"/>
+                <ITEXT CH=" dapat menangani deklarasi "/>
+                <ITEXT CPARENT="Code" CH="list"/>
+                <ITEXT CH=", yaitu:"/>
+                <para/>
+                <ITEXT CH="$sides: (top, bottom, left, right);"/>
+                <para PARENT="Inline Code"/>
+                <para/>
+                <ITEXT CH="Sedangkan daftar list tersebut dapat di-akses dengan "/>
+                <ITEXT CPARENT="Terminology" CH="iterator"/>
+                <ITEXT CH=", yaitu "/>
+                <ITEXT CPARENT="Code" CH="@each"/>
+                <ITEXT CH=":"/>
+                <para/>
+                <ITEXT CH="@each ... in ... {"/>
+                <para PARENT="Inline Code"/>
+                <ITEXT CH="  ..."/>
+                <para PARENT="Inline Code"/>
+                <ITEXT CH="}"/>
+                <para PARENT="Inline Code"/>
+                <para/>
+                <ITEXT CH="Mari kita lihat bagaimana cara menangani variabel "/>
+                <ITEXT CPARENT="Code" CH="$sides"/>
+                <ITEXT CH=" ini:"/>
+                <para/>
+                <ITEXT CH="// property"/>
+                <para PARENT="Inline Code"/>
+                <ITEXT CH="$sides: (top, bottom, left, right);"/>
+                <para PARENT="Inline Code"/>
+                <para PARENT="Inline Code"/>
+                <ITEXT CH="@each $side in $sides {"/>
+                <para PARENT="Inline Code"/>
+                <ITEXT CH="  .m-#{$side}-5 {"/>
+                <para PARENT="Inline Code"/>
+                <ITEXT CH="    margin-#{$side}: 5px;"/>
+                <para PARENT="Inline Code"/>
+                <ITEXT CH="  }"/>
+                <para PARENT="Inline Code"/>
+                <ITEXT CH="}"/>
+                <para PARENT="Inline Code"/>
+                <para/>
+                <para/>
+                <para/>
+                <para/>
+                <para/>
+                <para/>
+                <ITEXT CH="Sekarang kita dapat melihat naskah hasil jadinya sebagaimana di bawah:"/>
+                <para/>
+                <ITEXT CH=".m-top-5 {"/>
+                <para PARENT="Inline Code"/>
+                <ITEXT CH="  margin-top: 5px;"/>
+                <para PARENT="Inline Code"/>
+                <ITEXT CH="}"/>
+                <para PARENT="Inline Code"/>
+                <para PARENT="Inline Code"/>
+                <ITEXT CH=".m-bottom-5 {"/>
+                <para PARENT="Inline Code"/>
+                <ITEXT CH="  margin-bottom: 5px;"/>
+                <para PARENT="Inline Code"/>
+                <ITEXT CH="}"/>
+                <para PARENT="Inline Code"/>
+                <para PARENT="Inline Code"/>
+                <ITEXT CH=".m-left-5 {"/>
+                <para PARENT="Inline Code"/>
+                <ITEXT CH="  margin-left: 5px;"/>
+                <para PARENT="Inline Code"/>
+                <ITEXT CH="}"/>
+                <para PARENT="Inline Code"/>
+                <para PARENT="Inline Code"/>
+                <ITEXT CH=".m-right-5 {"/>
+                <para PARENT="Inline Code"/>
+                <ITEXT CH="  margin-right: 5px;"/>
+                <para PARENT="Inline Code"/>
+                <ITEXT CH="}"/>
+                <para PARENT="Inline Code"/>
+                <para/>
+                <ITEXT CH="Ternyata naskah hasil jadinya masih tidak sesuai dengan harapan, karena yang kita inginkan adalah berbentuk "/>
+                <ITEXT CPARENT="Code" CH=".m-t-5"/>
+                <ITEXT CH=", alih-alih berbentuk "/>
+                <ITEXT CPARENT="Code" CH=".m-top-5"/>
+                <ITEXT CH="."/>
+                <para/>
+                <para/>
+                <ITEXT CH="4: @each untuk Pasangan"/>
+                <para PARENT="Heading Two"/>
+                <ITEXT CPARENT="Code" CH="SASS"/>
+                <ITEXT CH=" memiliki solusi untuk permasalahan ini."/>
+                <para PARENT="Interior Paragraph"/>
+                <para/>
+                <ITEXT CH="Penamaan "/>
+                <ITEXT CPARENT="Terminology" CH="CSS Class"/>
+                <ITEXT CH=" yang ingin dicapai adalah menggunakan singkatan, yaitu sebagai berikut:"/>
+                <para/>
+                <ITEXT CH=".m-#{$abbreviation}-5."/>
+                <para PARENT="Inline Code"/>
+                <para/>
+                <ITEXT CH="Untungnya "/>
+                <ITEXT CPARENT="Code" CH="SASS"/>
+                <ITEXT CH=" memperbolehkan kita menulis pasangan "/>
+                <ITEXT CPARENT="Terminology" CH="pairs"/>
+                <ITEXT CH=" dalam daftar "/>
+                <ITEXT CPARENT="Terminology" CH="list"/>
+                <ITEXT CH=". Sehingga kita mendapatkan "/>
+                <ITEXT CPARENT="Terminology" CH="sub-property"/>
+                <ITEXT CH=" sebagaimana berikut:"/>
+                <para/>
+                <ITEXT CH="$sides: (top: t, bottom: b, left: l, right: r);"/>
+                <para PARENT="Inline Code"/>
+                <para/>
+                <para/>
+                <para/>
+                <para/>
+                <para/>
+                <ITEXT CH="Mari kita tulis ulang kode sebelumnya menjadi sebagai berikut:"/>
+                <para/>
+                <ITEXT CH="// property: abbreviation"/>
+                <para PARENT="Inline Code"/>
+                <ITEXT CH="$sides: (top: t, bottom: b, left: l, right: r);"/>
+                <para PARENT="Inline Code"/>
+                <para PARENT="Inline Code"/>
+                <ITEXT CH="@each $side, $name in $sides {"/>
+                <para PARENT="Inline Code"/>
+                <ITEXT CH="  .m-#{$name}-5 {"/>
+                <para PARENT="Inline Code"/>
+                <ITEXT CH="    margin-#{$side}: 5px;"/>
+                <para PARENT="Inline Code"/>
+                <ITEXT CH="  }"/>
+                <para PARENT="Inline Code"/>
+                <ITEXT CH="}"/>
+                <para PARENT="Inline Code"/>
+                <para/>
+                <ITEXT CH="Sekarang kita mendapatkan naskah hasil jadi yang kita inginkan."/>
+                <para/>
+                <ITEXT CH=".m-t-5 {"/>
+                <para PARENT="Inline Code"/>
+                <ITEXT CH="  margin-top: 5px;"/>
+                <para PARENT="Inline Code"/>
+                <ITEXT CH="}"/>
+                <para PARENT="Inline Code"/>
+                <para PARENT="Inline Code"/>
+                <ITEXT CH=".m-b-5 {"/>
+                <para PARENT="Inline Code"/>
+                <ITEXT CH="  margin-bottom: 5px;"/>
+                <para PARENT="Inline Code"/>
+                <ITEXT CH="}"/>
+                <para PARENT="Inline Code"/>
+                <para PARENT="Inline Code"/>
+                <ITEXT CH=".m-l-5 {"/>
+                <para PARENT="Inline Code"/>
+                <ITEXT CH="  margin-left: 5px;"/>
+                <para PARENT="Inline Code"/>
+                <ITEXT CH="}"/>
+                <para PARENT="Inline Code"/>
+                <para PARENT="Inline Code"/>
+                <ITEXT CH=".m-r-5 {"/>
+                <para PARENT="Inline Code"/>
+                <ITEXT CH="  margin-right: 5px;"/>
+                <para PARENT="Inline Code"/>
+                <ITEXT CH="}"/>
+                <para PARENT="Inline Code"/>
+                <para/>
+                <ITEXT CH="Perhatikan bahwa, penulis menggunakan "/>
+                <ITEXT CPARENT="Code" CH=".m-t-5"/>
+                <ITEXT CH=", alih-alih "/>
+                <ITEXT CPARENT="Code" CH=".mt-5"/>
+                <ITEXT CH=", untuk membedakan dengan spacing classes yang ada di salah satu "/>
+                <ITEXT CPARENT="Terminology" CH="CSS Frameworks"/>
+                <ITEXT CH=" yaitu "/>
+                <ITEXT CPARENT="Code" CH="Bootstrap"/>
+                <ITEXT CH="."/>
+                <para/>
+                <para/>
+                <para/>
+                <para/>
+                <para/>
+                <para/>
+                <para/>
+                <ITEXT CH="5: @each in @while"/>
+                <para PARENT="Heading Two"/>
+                <ITEXT CH="Pertimbangkan untuk meningkatkan kode untuk situasi yang lebih rumit. Kita membutuhkan varian dari kelas-kelas tadi untuk beberapa jarak angka yang berbeda secara berurut."/>
+                <para/>
+                <para/>
+                <ITEXT CH="Penamaan "/>
+                <ITEXT CPARENT="Terminology" CH="CSS Class"/>
+                <ITEXT CH=" yang ingin dicapai adalah sebagai berikut:"/>
+                <para/>
+                <ITEXT CH=".m-#{$subname}-#{$number}"/>
+                <para PARENT="Inline Code"/>
+                <para/>
+                <ITEXT CH="Perhatikan kerangka kode-nya. Kita meletakkan "/>
+                <ITEXT CPARENT="Terminology" CH="iterator"/>
+                <ITEXT CH=", yaitu "/>
+                <ITEXT CPARENT="Code" CH="@each"/>
+                <ITEXT CH=" ke dalam perulangan "/>
+                <ITEXT CPARENT="Code" CH="@while"/>
+                <ITEXT CH="."/>
+                <para/>
+                <ITEXT CH="@while $cursor &lt;= $loop-end {"/>
+                <para PARENT="Inline Code"/>
+                <para PARENT="Inline Code"/>
+                <ITEXT CH="  @each $side, $name in $sides {"/>
+                <para PARENT="Inline Code"/>
+                <ITEXT CH="    ..."/>
+                <para PARENT="Inline Code"/>
+                <ITEXT CH="  }"/>
+                <para PARENT="Inline Code"/>
+                <para PARENT="Inline Code"/>
+                <ITEXT CH="  $cursor: $cursor + $interval;"/>
+                <para PARENT="Inline Code"/>
+                <ITEXT CH="}"/>
+                <para PARENT="Inline Code"/>
+                <para/>
+                <ITEXT CH="Maka kode sumber "/>
+                <ITEXT CPARENT="Code" CH="SASS"/>
+                <ITEXT CH=" selengkapnya adalah sebagai berikut:"/>
+                <para/>
+                <ITEXT CH="// variable initialization"/>
+                <para PARENT="Inline Code"/>
+                <ITEXT CH="$loop-begin:  5 !default;"/>
+                <para PARENT="Inline Code"/>
+                <ITEXT CH="$loop-end:   25 !default;"/>
+                <para PARENT="Inline Code"/>
+                <ITEXT CH="$interval:    5 !default;"/>
+                <para PARENT="Inline Code"/>
+                <para PARENT="Inline Code"/>
+                <ITEXT CH="// sub-property: abbreviation"/>
+                <para PARENT="Inline Code"/>
+                <ITEXT CH="$sides: (top: t, bottom: b, left: l, right: r);"/>
+                <para PARENT="Inline Code"/>
+                <para PARENT="Inline Code"/>
+                <ITEXT CH="// loop"/>
+                <para PARENT="Inline Code"/>
+                <ITEXT CH="$cursor: $loop-begin;"/>
+                <para PARENT="Inline Code"/>
+                <para/>
+                <para/>
+                <para/>
+                <para/>
+                <para/>
+                <para/>
+                <ITEXT CH="Karena panjang, kita lanjutkan di halaman berikutnya."/>
+                <para/>
+                <ITEXT CH="@while $cursor &lt;= $loop-end {"/>
+                <para PARENT="Inline Code"/>
+                <para PARENT="Inline Code"/>
+                <ITEXT CH="  @each $side, $name in $sides {"/>
+                <para PARENT="Inline Code"/>
+                <ITEXT CH="    .m-#{$name}-#{$cursor} {"/>
+                <para PARENT="Inline Code"/>
+                <ITEXT CH="      margin-#{$side}: #{$cursor}px;"/>
+                <para PARENT="Inline Code"/>
+                <ITEXT CH="    }"/>
+                <para PARENT="Inline Code"/>
+                <ITEXT CH="  }"/>
+                <para PARENT="Inline Code"/>
+                <para PARENT="Inline Code"/>
+                <ITEXT CH="  $cursor: $cursor + $interval;"/>
+                <para PARENT="Inline Code"/>
+                <ITEXT CH="}"/>
+                <para PARENT="Inline Code"/>
+                <para/>
+                <ITEXT CH="Sekarang mulai dapat kita nikmati hasilnya secara perlahan yaitu beberapa kelas secara berurut:"/>
+                <para/>
+                <ITEXT CH=".m-t-5 {"/>
+                <para PARENT="Inline Code"/>
+                <ITEXT CH="  margin-top: 5px;"/>
+                <para PARENT="Inline Code"/>
+                <ITEXT CH="}"/>
+                <para PARENT="Inline Code"/>
+                <para PARENT="Inline Code"/>
+                <ITEXT CH=".m-b-5 {"/>
+                <para PARENT="Inline Code"/>
+                <ITEXT CH="  margin-bottom: 5px;"/>
+                <para PARENT="Inline Code"/>
+                <ITEXT CH="}"/>
+                <para PARENT="Inline Code"/>
+                <para PARENT="Inline Code"/>
+                <ITEXT CH=".m-l-5 {"/>
+                <para PARENT="Inline Code"/>
+                <ITEXT CH="  margin-left: 5px;"/>
+                <para PARENT="Inline Code"/>
+                <ITEXT CH="}"/>
+                <para PARENT="Inline Code"/>
+                <para PARENT="Inline Code"/>
+                <ITEXT CH=".m-r-5 {"/>
+                <para PARENT="Inline Code"/>
+                <ITEXT CH="  margin-right: 5px;"/>
+                <para PARENT="Inline Code"/>
+                <ITEXT CH="}"/>
+                <para PARENT="Inline Code"/>
+                <para PARENT="Inline Code"/>
+                <ITEXT CH=".m-t-10 {"/>
+                <para PARENT="Inline Code"/>
+                <ITEXT CH="  margin-top: 10px;"/>
+                <para PARENT="Inline Code"/>
+                <ITEXT CH="}"/>
+                <para PARENT="Inline Code"/>
+                <para/>
+                <para/>
+                <para/>
+                <ITEXT CH=".m-b-10 {"/>
+                <para PARENT="Inline Code"/>
+                <ITEXT CH="  margin-bottom: 10px;"/>
+                <para PARENT="Inline Code"/>
+                <ITEXT CH="}"/>
+                <para PARENT="Inline Code"/>
+                <para PARENT="Inline Code"/>
+                <ITEXT CH=".m-l-10 {"/>
+                <para PARENT="Inline Code"/>
+                <ITEXT CH="  margin-left: 10px;"/>
+                <para PARENT="Inline Code"/>
+                <ITEXT CH="}"/>
+                <para PARENT="Inline Code"/>
+                <para PARENT="Inline Code"/>
+                <ITEXT CH=".m-r-10 {"/>
+                <para PARENT="Inline Code"/>
+                <ITEXT CH="  margin-right: 10px;"/>
+                <para PARENT="Inline Code"/>
+                <ITEXT CH="}"/>
+                <para PARENT="Inline Code"/>
+                <para PARENT="Inline Code"/>
+                <ITEXT CH="..."/>
+                <para PARENT="Inline Code"/>
+                <para PARENT="Inline Code"/>
+                <ITEXT CH="..."/>
+                <para PARENT="Inline Code"/>
+                <para PARENT="Inline Code"/>
+                <ITEXT CH=".m-t-25 {"/>
+                <para PARENT="Inline Code"/>
+                <ITEXT CH="  margin-top: 25px;"/>
+                <para PARENT="Inline Code"/>
+                <ITEXT CH="}"/>
+                <para PARENT="Inline Code"/>
+                <para PARENT="Inline Code"/>
+                <ITEXT CH=".m-b-25 {"/>
+                <para PARENT="Inline Code"/>
+                <ITEXT CH="  margin-bottom: 25px;"/>
+                <para PARENT="Inline Code"/>
+                <ITEXT CH="}"/>
+                <para PARENT="Inline Code"/>
+                <para PARENT="Inline Code"/>
+                <ITEXT CH=".m-l-25 {"/>
+                <para PARENT="Inline Code"/>
+                <ITEXT CH="  margin-left: 25px;"/>
+                <para PARENT="Inline Code"/>
+                <ITEXT CH="}"/>
+                <para PARENT="Inline Code"/>
+                <para PARENT="Inline Code"/>
+                <ITEXT CH=".m-r-25 {"/>
+                <para PARENT="Inline Code"/>
+                <ITEXT CH="  margin-right: 25px;"/>
+                <para PARENT="Inline Code"/>
+                <ITEXT CH="}"/>
+                <para PARENT="Inline Code"/>
+                <para/>
+                <ITEXT CH="Sengaja penulis potong di bagian tengah supaya tidak memenuhi isi buku."/>
+                <para/>
+                <para/>
+                <para/>
+                <ITEXT CH="6: Nested @while"/>
+                <para PARENT="Heading Two"/>
+                <ITEXT CH="Mari kita tambah kesulitannya."/>
+                <para PARENT="Interior Paragraph"/>
+                <para/>
+                <ITEXT CH="Penamaan "/>
+                <ITEXT CPARENT="Terminology" CH="CSS Class"/>
+                <ITEXT CH=" yang ingin dicapai adalah sebagai berikut:"/>
+                <para/>
+                <ITEXT CH=".#{$name}-#{$subname}-#{$number}"/>
+                <para PARENT="Inline Code"/>
+                <para/>
+                <ITEXT CH="Kita tentukan dahulu deklarasi "/>
+                <ITEXT CPARENT="Code" CH="list"/>
+                <ITEXT CH=" untuk tiap-tiap "/>
+                <ITEXT CPARENT="Terminology" CH="property"/>
+                <ITEXT CH=" yang akan dihasilkan, yaitu:"/>
+                <para/>
+                <ITEXT CPARENT="Terminology" CH="Property"/>
+                <ITEXT CH=": "/>
+                <ITEXT CPARENT="Code" CH="margin"/>
+                <ITEXT CH=" dan "/>
+                <ITEXT CPARENT="Code" CH="padding"/>
+                <ITEXT CH="."/>
+                <para PARENT="Butir Pikiran"/>
+                <ITEXT CH="Masing-masing memiliki "/>
+                <ITEXT CPARENT="Terminology" CH="sub-property"/>
+                <ITEXT CH=": "/>
+                <ITEXT CPARENT="Code" CH="top"/>
+                <ITEXT CH=", "/>
+                <ITEXT CPARENT="Code" CH="bottom"/>
+                <ITEXT CH=", "/>
+                <ITEXT CPARENT="Code" CH="left"/>
+                <ITEXT CH=", "/>
+                <ITEXT CPARENT="Code" CH="right"/>
+                <ITEXT CH="."/>
+                <para PARENT="Butir Pikiran"/>
+                <para/>
+                <ITEXT CH="Tepatnya disajikan sebagai berikut:"/>
+                <para/>
+                <ITEXT CH="$sides: (top: t, bottom: b, left: l, right: r);"/>
+                <para PARENT="Inline Code"/>
+                <ITEXT CH="$properties: (margin: m, padding: p);"/>
+                <para PARENT="Inline Code"/>
+                <para PARENT="Inline Code"/>
+                <ITEXT CH="Perhatikan kerangka kode-nya. Kita meletakkan dua "/>
+                <ITEXT CPARENT="Terminology" CH="iterator"/>
+                <ITEXT CH=" secara bersarang, yaitu "/>
+                <ITEXT CPARENT="Code" CH="@each"/>
+                <ITEXT CH=" ke dalam perulangan "/>
+                <ITEXT CPARENT="Code" CH="@while"/>
+                <ITEXT CH="."/>
+                <para/>
+                <ITEXT CH="@while $cursor &lt;= $loop-end {"/>
+                <para PARENT="Inline Code"/>
+                <para PARENT="Inline Code"/>
+                <ITEXT CH="  @each $prop, $name in $properties {"/>
+                <para PARENT="Inline Code"/>
+                <ITEXT CH="    @each $side, $subname in $sides {"/>
+                <para PARENT="Inline Code"/>
+                <ITEXT CH="      ..."/>
+                <para PARENT="Inline Code"/>
+                <ITEXT CH="    }"/>
+                <para PARENT="Inline Code"/>
+                <ITEXT CH="  }"/>
+                <para PARENT="Inline Code"/>
+                <ITEXT CH="  $cursor: $cursor + $interval;"/>
+                <para PARENT="Inline Code"/>
+                <ITEXT CH="}"/>
+                <para PARENT="Inline Code"/>
+                <para/>
+                <para/>
+                <para/>
+                <para/>
+                <para/>
+                <para/>
+                <para/>
+                <para/>
+                <para/>
+                <ITEXT CH="Selanjutnya seperti biasa, yaitu kode sumber "/>
+                <ITEXT CPARENT="Code" CH="SASS"/>
+                <ITEXT CH=" selengkapnya sebagai berikut:"/>
+                <para/>
+                <ITEXT CH="// variable initialization"/>
+                <para PARENT="Inline Code"/>
+                <ITEXT CH="$loop-begin:  5 !default;"/>
+                <para PARENT="Inline Code"/>
+                <ITEXT CH="$loop-end:   25 !default;"/>
+                <para PARENT="Inline Code"/>
+                <ITEXT CH="$interval:    5 !default;"/>
+                <para PARENT="Inline Code"/>
+                <para PARENT="Inline Code"/>
+                <ITEXT CH="// sub-property: abbreviation"/>
+                <para PARENT="Inline Code"/>
+                <ITEXT CH="$sides: (top: t, bottom: b, left: l, right: r);"/>
+                <para PARENT="Inline Code"/>
+                <ITEXT CH="$properties: (margin: m, padding: p);"/>
+                <para PARENT="Inline Code"/>
+                <para PARENT="Inline Code"/>
+                <ITEXT CH="// loop"/>
+                <para PARENT="Inline Code"/>
+                <ITEXT CH="$cursor: $loop-begin;"/>
+                <para PARENT="Inline Code"/>
+                <para PARENT="Inline Code"/>
+                <ITEXT CH="@while $cursor &lt;= $loop-end {"/>
+                <para PARENT="Inline Code"/>
+                <ITEXT CH="  @each $prop, $name in $properties {"/>
+                <para PARENT="Inline Code"/>
+                <ITEXT CH="    @each $side, $subname in $sides {"/>
+                <para PARENT="Inline Code"/>
+                <ITEXT CH="      .#{$name}-#{$subname}-#{$cursor} {"/>
+                <para PARENT="Inline Code"/>
+                <ITEXT CH="        #{$prop}-#{$side}: #{$cursor}px;"/>
+                <para PARENT="Inline Code"/>
+                <ITEXT CH="      }"/>
+                <para PARENT="Inline Code"/>
+                <ITEXT CH="    }"/>
+                <para PARENT="Inline Code"/>
+                <ITEXT CH="  }"/>
+                <para PARENT="Inline Code"/>
+                <para PARENT="Inline Code"/>
+                <ITEXT CH="  $cursor: $cursor + $interval;"/>
+                <para PARENT="Inline Code"/>
+                <ITEXT CH="}"/>
+                <para PARENT="Inline Code"/>
+                <para/>
+                <ITEXT CH="Hasilnya bukan hanya "/>
+                <ITEXT CPARENT="Code" CH="margin"/>
+                <ITEXT CH=", namun juga "/>
+                <ITEXT CPARENT="Code" CH="padding"/>
+                <ITEXT CH="."/>
+                <para/>
+                <ITEXT CH=".m-t-5 {"/>
+                <para PARENT="Inline Code"/>
+                <ITEXT CH="  margin-top: 5px;"/>
+                <para PARENT="Inline Code"/>
+                <ITEXT CH="}"/>
+                <para PARENT="Inline Code"/>
+                <para PARENT="Inline Code"/>
+                <ITEXT CH=".m-b-5 {"/>
+                <para PARENT="Inline Code"/>
+                <ITEXT CH="  margin-bottom: 5px;"/>
+                <para PARENT="Inline Code"/>
+                <ITEXT CH="}"/>
+                <para PARENT="Inline Code"/>
+                <para/>
+                <para/>
+                <ITEXT CH=".m-l-5 {"/>
+                <para PARENT="Inline Code"/>
+                <ITEXT CH="  margin-left: 5px;"/>
+                <para PARENT="Inline Code"/>
+                <ITEXT CH="}"/>
+                <para PARENT="Inline Code"/>
+                <para PARENT="Inline Code"/>
+                <ITEXT CH=".m-r-5 {"/>
+                <para PARENT="Inline Code"/>
+                <ITEXT CH="  margin-right: 5px;"/>
+                <para PARENT="Inline Code"/>
+                <ITEXT CH="}"/>
+                <para PARENT="Inline Code"/>
+                <para PARENT="Inline Code"/>
+                <ITEXT CH=".p-t-5 {"/>
+                <para PARENT="Inline Code"/>
+                <ITEXT CH="  padding-top: 5px;"/>
+                <para PARENT="Inline Code"/>
+                <ITEXT CH="}"/>
+                <para PARENT="Inline Code"/>
+                <para PARENT="Inline Code"/>
+                <ITEXT CH=".p-b-5 {"/>
+                <para PARENT="Inline Code"/>
+                <ITEXT CH="  padding-bottom: 5px;"/>
+                <para PARENT="Inline Code"/>
+                <ITEXT CH="}"/>
+                <para PARENT="Inline Code"/>
+                <para PARENT="Inline Code"/>
+                <ITEXT CH=".p-l-5 {"/>
+                <para PARENT="Inline Code"/>
+                <ITEXT CH="  padding-left: 5px;"/>
+                <para PARENT="Inline Code"/>
+                <ITEXT CH="}"/>
+                <para PARENT="Inline Code"/>
+                <para PARENT="Inline Code"/>
+                <ITEXT CH=".p-r-5 {"/>
+                <para PARENT="Inline Code"/>
+                <ITEXT CH="  padding-right: 5px;"/>
+                <para PARENT="Inline Code"/>
+                <ITEXT CH="}"/>
+                <para PARENT="Inline Code"/>
+                <para PARENT="Inline Code"/>
+                <ITEXT CH=".m-t-10 {"/>
+                <para PARENT="Inline Code"/>
+                <ITEXT CH="  margin-top: 10px;"/>
+                <para PARENT="Inline Code"/>
+                <ITEXT CH="}"/>
+                <para PARENT="Inline Code"/>
+                <para PARENT="Inline Code"/>
+                <ITEXT CH=".m-b-10 {"/>
+                <para PARENT="Inline Code"/>
+                <ITEXT CH="  margin-bottom: 10px;"/>
+                <para PARENT="Inline Code"/>
+                <ITEXT CH="}"/>
+                <para PARENT="Inline Code"/>
+                <para PARENT="Inline Code"/>
+                <ITEXT CH="..."/>
+                <para PARENT="Inline Code"/>
+                <para/>
+                <ITEXT CH="Dan selanjutnya. Sengaja penulis potong lagi supaya tidak memenuhi isi buku."/>
+                <para/>
+                <ITEXT CH="Property Utama"/>
+                <para PARENT="Heading Two"/>
+                <ITEXT CH="Menjelang Final. Mari kita sempurnakan lagi, dengan "/>
+                <ITEXT CPARENT="Code" CH="margin"/>
+                <ITEXT CH=" dan "/>
+                <ITEXT CPARENT="Code" CH="padding"/>
+                <ITEXT CH=", tanpa "/>
+                <ITEXT CPARENT="Terminology" CH="sub-property"/>
+                <ITEXT CH="."/>
+                <para PARENT="Interior Paragraph"/>
+                <para/>
+                <ITEXT CH="Penamaan "/>
+                <ITEXT CPARENT="Terminology" CH="CSS Class"/>
+                <ITEXT CH=" yang ingin dicapai adalah sebagai berikut:"/>
+                <para/>
+                <ITEXT CH=".#{$name}-#{$number}"/>
+                <para PARENT="Inline Code"/>
+                <ITEXT CH=".#{$name}-#{$subname}-#{$number}"/>
+                <para PARENT="Inline Code"/>
+                <para/>
+                <ITEXT CH="Masih dengan meletakkan dua "/>
+                <ITEXT CPARENT="Terminology" CH="iterator"/>
+                <ITEXT CH=" secara bersarang, yaitu "/>
+                <ITEXT CPARENT="Code" CH="@each"/>
+                <ITEXT CH=" ke dalam perulangan "/>
+                <ITEXT CPARENT="Code" CH="@while"/>
+                <ITEXT CH=". Kerangkanya sedikit berubah."/>
+                <para/>
+                <ITEXT CH="@while $cursor &lt;= $loop-end {"/>
+                <para PARENT="Inline Code"/>
+                <para PARENT="Inline Code"/>
+                <ITEXT CH="  @each $prop, $name in $properties {"/>
+                <para PARENT="Inline Code"/>
+                <ITEXT CH="    ..."/>
+                <para PARENT="Inline Code"/>
+                <para PARENT="Inline Code"/>
+                <ITEXT CH="    @each $side, $subname in $sides {"/>
+                <para PARENT="Inline Code"/>
+                <ITEXT CH="      ..."/>
+                <para PARENT="Inline Code"/>
+                <ITEXT CH="    }"/>
+                <para PARENT="Inline Code"/>
+                <ITEXT CH="  }"/>
+                <para PARENT="Inline Code"/>
+                <ITEXT CH="  "/>
+                <para PARENT="Inline Code"/>
+                <ITEXT CH="  $cursor: $cursor + $interval;"/>
+                <para PARENT="Inline Code"/>
+                <ITEXT CH="}"/>
+                <para PARENT="Inline Code"/>
+                <para/>
+                <ITEXT CH="Selanjutnya seperti biasa, yaitu kode sumber "/>
+                <ITEXT CPARENT="Code" CH="SASS"/>
+                <ITEXT CH=" selengkapnya."/>
+                <para/>
+                <ITEXT CH="// variable initialization"/>
+                <para PARENT="Inline Code"/>
+                <ITEXT CH="$loop-begin:  5 !default;"/>
+                <para PARENT="Inline Code"/>
+                <ITEXT CH="$loop-end:   25 !default;"/>
+                <para PARENT="Inline Code"/>
+                <ITEXT CH="$interval:    5 !default;"/>
+                <para PARENT="Inline Code"/>
+                <para PARENT="Inline Code"/>
+                <ITEXT CH="// sub-property: abbreviation"/>
+                <para PARENT="Inline Code"/>
+                <ITEXT CH="$sides: (top: t, bottom: b, left: l, right: r);"/>
+                <para PARENT="Inline Code"/>
+                <ITEXT CH="$properties: (margin: m, padding: p);"/>
+                <para PARENT="Inline Code"/>
+                <para PARENT="Inline Code"/>
+                <ITEXT CH="// loop"/>
+                <para PARENT="Inline Code"/>
+                <ITEXT CH="$cursor: $loop-begin;"/>
+                <para PARENT="Inline Code"/>
+                <para/>
+                <ITEXT CH="Kita lanjutkan di halaman berikutnya,karena kode-nya panjang."/>
+                <para/>
+                <ITEXT CH="@while $cursor &lt;= $loop-end {"/>
+                <para PARENT="Inline Code"/>
+                <ITEXT CH="  @each $prop, $name in $properties {"/>
+                <para PARENT="Inline Code"/>
+                <ITEXT CH="    .#{$name}-#{$cursor} {"/>
+                <para PARENT="Inline Code"/>
+                <ITEXT CH="      #{$prop}: #{$cursor}px !important;"/>
+                <para PARENT="Inline Code"/>
+                <ITEXT CH="    }"/>
+                <para PARENT="Inline Code"/>
+                <para PARENT="Inline Code"/>
+                <ITEXT CH="    @each $side, $subname in $sides {"/>
+                <para PARENT="Inline Code"/>
+                <ITEXT CH="      .#{$name}-#{$subname}-#{$cursor} {"/>
+                <para PARENT="Inline Code"/>
+                <ITEXT CH="        #{$prop}-#{$side}: #{$cursor}px !important;"/>
+                <para PARENT="Inline Code"/>
+                <ITEXT CH="      }"/>
+                <para PARENT="Inline Code"/>
+                <ITEXT CH="    }"/>
+                <para PARENT="Inline Code"/>
+                <ITEXT CH="  }"/>
+                <para PARENT="Inline Code"/>
+                <para PARENT="Inline Code"/>
+                <ITEXT CH="  $cursor: $cursor + $interval;"/>
+                <para PARENT="Inline Code"/>
+                <ITEXT CH="}"/>
+                <para PARENT="Inline Code"/>
+                <para/>
+                <ITEXT CH="Perhatikan, bahwa kita juga menerapkan aturan "/>
+                <ITEXT CPARENT="Terminology" CH="rule"/>
+                <ITEXT CH=", yaitu  "/>
+                <ITEXT CPARENT="Code" CH="!important"/>
+                <ITEXT CH=" ke dalam value dari "/>
+                <ITEXT CPARENT="Code" CH="CSS"/>
+                <ITEXT CH=" di masing-masing kelas. Sehingga hasilnya sebagai berikut:"/>
+                <para/>
+                <ITEXT CH=".m-5 {"/>
+                <para PARENT="Inline Code"/>
+                <ITEXT CH="  margin: 5px !important;"/>
+                <para PARENT="Inline Code"/>
+                <ITEXT CH="}"/>
+                <para PARENT="Inline Code"/>
+                <para PARENT="Inline Code"/>
+                <ITEXT CH=".m-t-5 {"/>
+                <para PARENT="Inline Code"/>
+                <ITEXT CH="  margin-top: 5px !important;"/>
+                <para PARENT="Inline Code"/>
+                <ITEXT CH="}"/>
+                <para PARENT="Inline Code"/>
+                <ITEXT CH="..."/>
+                <para PARENT="Inline Code"/>
+                <para PARENT="Inline Code"/>
+                <ITEXT CH=".p-5 {"/>
+                <para PARENT="Inline Code"/>
+                <ITEXT CH="  padding: 5px !important;"/>
+                <para PARENT="Inline Code"/>
+                <ITEXT CH="}"/>
+                <para PARENT="Inline Code"/>
+                <ITEXT CH="..."/>
+                <para PARENT="Inline Code"/>
+                <para/>
+                <ITEXT CH="Dan seterusnya. Kita hampir dapat menggunakan "/>
+                <ITEXT CPARENT="Terminology" CH="custom spacing class"/>
+                <ITEXT CH=" ini di suatu wesbite ataupun proyek pribadi."/>
+                <para/>
+                <ITEXT CH="Penerapan di Dunia Nyata"/>
+                <para PARENT="Heading Two"/>
+                <ITEXT CH="Untuk alasan praktis, ada beberapa hal yang perlu diperhatikan."/>
+                <para/>
+                <ITEXT CH="Menggunakan format "/>
+                <ITEXT CPARENT="Code" CH=".sass"/>
+                <ITEXT CH=", alih-alih "/>
+                <ITEXT CPARENT="Code" CH=".scss"/>
+                <ITEXT CH=", supaya ada contoh bagi pembaca."/>
+                <para PARENT="Butir Pikiran"/>
+                <ITEXT CH="Memulai dari angka "/>
+                <ITEXT CPARENT="Code" CH="0"/>
+                <ITEXT CH=" (nol), alih-alih dari "/>
+                <ITEXT CPARENT="Code" CH="5"/>
+                <ITEXT CH=" (lima), supaya tersedia pengaturan tanpa "/>
+                <ITEXT CPARENT="Terminology" CH="margin"/>
+                <ITEXT CH=" dan tanpa "/>
+                <ITEXT CPARENT="Terminology" CH="padding"/>
+                <ITEXT CH="."/>
+                <para PARENT="Butir Pikiran"/>
+                <ITEXT CH="Menggunakan "/>
+                <ITEXT CPARENT="Code" CH="X"/>
+                <ITEXT CH=", dan "/>
+                <ITEXT CPARENT="Code" CH="Y"/>
+                <ITEXT CH=", supaya mirip "/>
+                <ITEXT CPARENT="Code" CH="Bootstrap"/>
+                <ITEXT CH=". Hal ini memudahkan saat migrasi dari "/>
+                <ITEXT CPARENT="Code" CH="boostrap"/>
+                <ITEXT CH=" ke "/>
+                <ITEXT CPARENT="Terminology" CH="custom class"/>
+                <ITEXT CH="."/>
+                <para PARENT="Butir Pikiran"/>
+                <para/>
+                <ITEXT CH="Hasil naskah jadi, yang ingin kita dapatkan adalah sebagai berikut."/>
+                <para/>
+                <ITEXT CH=".m-y-5 {"/>
+                <para PARENT="Inline Code"/>
+                <ITEXT CH="  margin-top: 5px !important;"/>
+                <para PARENT="Inline Code"/>
+                <ITEXT CH="  margin-bottom: 5px !important;"/>
+                <para PARENT="Inline Code"/>
+                <ITEXT CH="}"/>
+                <para PARENT="Inline Code"/>
+                <para PARENT="Inline Code"/>
+                <ITEXT CH=".m-x-5 {"/>
+                <para PARENT="Inline Code"/>
+                <ITEXT CH="  margin-left: 5px !important;"/>
+                <para PARENT="Inline Code"/>
+                <ITEXT CH="  margin-right: 5px !important;"/>
+                <para PARENT="Inline Code"/>
+                <ITEXT CH="}"/>
+                <para PARENT="Inline Code"/>
+                <para/>
+                <ITEXT CH="Semakin lengkap belum tentu semakin baik. Kekurangan dari cara ini adalah, ukuran "/>
+                <ITEXT CPARENT="Terminology" CH="stylesheet"/>
+                <ITEXT CH=" menjadi gemuk, karena ukurannya besar."/>
+                <para/>
+                <para/>
+                <ITEXT CH="Untungnya "/>
+                <ITEXT CPARENT="Code" CH="SASS"/>
+                <ITEXT CH=" memperbolehkan pasangan di dalam deklarasi "/>
+                <ITEXT CPARENT="Terminology" CH="list"/>
+                <ITEXT CH=", sehingga sekarang kita memiliki "/>
+                <ITEXT CPARENT="Terminology" CH="sub-property"/>
+                <ITEXT CH=" sebagaimana berikut:"/>
+                <para/>
+                <ITEXT CH="$properties: (margin: m, padding: p)"/>
+                <para PARENT="Inline Code"/>
+                <ITEXT CH="$sidesy: (top, bottom)"/>
+                <para PARENT="Inline Code"/>
+                <ITEXT CH="$sidesx: (left, right)"/>
+                <para PARENT="Inline Code"/>
+                <para/>
+                <ITEXT CH="Perhatikan, kalau kode-nya tidak memakai titik-koma dan tidak nantinya juga tidak memakai kurung kurawal. Yang dipakai adalah indentasi."/>
+                <para/>
+                <para/>
+                <para/>
+                <para/>
+                <para/>
+                <para/>
+                <ITEXT CH="Kemudian mari kita lihat kerangkanya, perulangan yang dibikin menjadi juga membutuhkan perubahan."/>
+                <para/>
+                <ITEXT CH="// loop"/>
+                <para PARENT="Inline Code"/>
+                <ITEXT CH="$cursor: $loop-begin"/>
+                <para PARENT="Inline Code"/>
+                <para PARENT="Inline Code"/>
+                <ITEXT CH="@while $cursor &lt;= $loop-end"/>
+                <para PARENT="Inline Code"/>
+                <ITEXT CH="  @each $prop, $name in $properties"/>
+                <para PARENT="Inline Code"/>
+                <para PARENT="Inline Code"/>
+                <ITEXT CH="    .#{$name}-y-#{$cursor}"/>
+                <para PARENT="Inline Code"/>
+                <ITEXT CH="      @each $side in $sidesy"/>
+                <para PARENT="Inline Code"/>
+                <ITEXT CH="        #{$prop}-#{$side}: #{$cursor}px !important"/>
+                <para PARENT="Inline Code"/>
+                <para PARENT="Inline Code"/>
+                <ITEXT CH="    .#{$name}-x-#{$cursor}"/>
+                <para PARENT="Inline Code"/>
+                <ITEXT CH="      @each $side in $sidesx"/>
+                <para PARENT="Inline Code"/>
+                <ITEXT CH="        #{$prop}-#{$side}: #{$cursor}px !important"/>
+                <para PARENT="Inline Code"/>
+                <para PARENT="Inline Code"/>
+                <ITEXT CH="  $cursor: $cursor + $interval"/>
+                <para PARENT="Inline Code"/>
+                <para/>
+                <para/>
+                <para/>
+                <para/>
+                <para/>
+                <para/>
+                <para/>
+                <para/>
+                <para/>
+                <para/>
+                <para/>
+                <para/>
+                <para/>
+                <para/>
+                <para/>
+                <para/>
+                <para/>
+                <para/>
+                <para/>
+                <ITEXT CH="Berikut kode sumber "/>
+                <ITEXT CPARENT="Code" CH="SASS"/>
+                <ITEXT CH=" selengkapnya, untuk keperluan sehari-hari."/>
+                <para/>
+                <para/>
+                <ITEXT CH="// variable initialization"/>
+                <para PARENT="Inline Code"/>
+                <ITEXT CH="$loop-begin:  0 !default"/>
+                <para PARENT="Inline Code"/>
+                <ITEXT CH="$loop-end:   25 !default"/>
+                <para PARENT="Inline Code"/>
+                <ITEXT CH="$interval:    5 !default"/>
+                <para PARENT="Inline Code"/>
+                <para PARENT="Inline Code"/>
+                <ITEXT CH="// sub-property: abbreviation"/>
+                <para PARENT="Inline Code"/>
+                <ITEXT CH="$sides:  (top: t, bottom: b, left: l, right: r)"/>
+                <para PARENT="Inline Code"/>
+                <ITEXT CH="$sidesy: (top, bottom)"/>
+                <para PARENT="Inline Code"/>
+                <ITEXT CH="$sidesx: (left, right)"/>
+                <para PARENT="Inline Code"/>
+                <ITEXT CH="$properties: (margin: m, padding: p)"/>
+                <para PARENT="Inline Code"/>
+                <para PARENT="Inline Code"/>
+                <ITEXT CH="// loop"/>
+                <para PARENT="Inline Code"/>
+                <ITEXT CH="$cursor: $loop-begin"/>
+                <para PARENT="Inline Code"/>
+                <para/>
+                <ITEXT CH="@while $cursor &lt;= $loop-end"/>
+                <para PARENT="Inline Code"/>
+                <ITEXT CH="  @each $prop, $name in $properties"/>
+                <para PARENT="Inline Code"/>
+                <ITEXT CH="    .#{$name}-#{$cursor}"/>
+                <para PARENT="Inline Code"/>
+                <ITEXT CH="      #{$prop}: #{$cursor}px !important"/>
+                <para PARENT="Inline Code"/>
+                <para PARENT="Inline Code"/>
+                <ITEXT CH="    @each $side, $subname in $sides"/>
+                <para PARENT="Inline Code"/>
+                <ITEXT CH="      .#{$name}-#{$subname}-#{$cursor}"/>
+                <para PARENT="Inline Code"/>
+                <ITEXT CH="        #{$prop}-#{$side}: #{$cursor}px !important"/>
+                <para PARENT="Inline Code"/>
+                <para PARENT="Inline Code"/>
+                <ITEXT CH="    .#{$name}-y-#{$cursor}"/>
+                <para PARENT="Inline Code"/>
+                <ITEXT CH="      @each $side in $sidesy"/>
+                <para PARENT="Inline Code"/>
+                <ITEXT CH="        #{$prop}-#{$side}: #{$cursor}px !important"/>
+                <para PARENT="Inline Code"/>
+                <para PARENT="Inline Code"/>
+                <ITEXT CH="    .#{$name}-x-#{$cursor}"/>
+                <para PARENT="Inline Code"/>
+                <ITEXT CH="      @each $side in $sidesx"/>
+                <para PARENT="Inline Code"/>
+                <ITEXT CH="        #{$prop}-#{$side}: #{$cursor}px !important"/>
+                <para PARENT="Inline Code"/>
+                <para PARENT="Inline Code"/>
+                <ITEXT CH="  $cursor: $cursor + $interval"/>
+                <para PARENT="Inline Code"/>
+                <para/>
+                <ITEXT CH="Akhirnya "/>
+                <ITEXT CPARENT="Terminology" CH="Custom spacing classes"/>
+                <ITEXT CH=" ini siap dipakai."/>
+                <para/>
+                <para/>
+                <para/>
+                <para/>
+                <para/>
+                <para/>
+                <para/>
+                <para/>
+                <para/>
+                <para/>
+                <para/>
+                <para/>
+                <para/>
+                <para/>
+                <para/>
+                <para/>
+                <para/>
+                <para/>
+                <para/>
+                <ITEXT CH="Bagaimana menurut sohib pembaca?"/>
+                <trail PARENT="Quotes"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="582.4008" YPOS="7642.7568" OwnPage="22" ItemID="543283244" PTYPE="4" WIDTH="345.6" HEIGHT="540" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0.1528" AUTOTEXT="1" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L345.6 0 L345.6 540 L0 540 L0 0 Z" copath="M0 0 L345.6 0 L345.6 540 L0 540 L0 0 Z" gXpos="582.4008" gYpos="7642.7568" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="541646556" BACKITEM="543847964"/>
+        <PAGEOBJECT XPOS="136.0008" YPOS="8330.76" OwnPage="23" ItemID="541646556" PTYPE="4" WIDTH="345.6" HEIGHT="540" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0.1528" AUTOTEXT="1" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L345.6 0 L345.6 540 L0 540 L0 0 Z" copath="M0 0 L345.6 0 L345.6 540 L0 540 L0 0 Z" gXpos="136.0008" gYpos="8330.76" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="541604300" BACKITEM="543283244"/>
+        <PAGEOBJECT XPOS="582.4008" YPOS="8330.76" OwnPage="24" ItemID="541604300" PTYPE="4" WIDTH="345.6" HEIGHT="540" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0.1528" AUTOTEXT="1" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L345.6 0 L345.6 540 L0 540 L0 0 Z" copath="M0 0 L345.6 0 L345.6 540 L0 540 L0 0 Z" gXpos="582.4008" gYpos="8330.76" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="562606444" BACKITEM="541646556"/>
+        <PAGEOBJECT XPOS="136.0008" YPOS="9018.7632" OwnPage="25" ItemID="562606444" PTYPE="4" WIDTH="345.6" HEIGHT="540" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0.1528" AUTOTEXT="1" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L345.6 0 L345.6 540 L0 540 L0 0 Z" copath="M0 0 L345.6 0 L345.6 540 L0 540 L0 0 Z" gXpos="136.0008" gYpos="9018.7632" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="555715852" BACKITEM="541604300"/>
+        <PAGEOBJECT XPOS="582.4008" YPOS="9018.7632" OwnPage="26" ItemID="555715852" PTYPE="4" WIDTH="345.6" HEIGHT="540" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0.1528" AUTOTEXT="1" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L345.6 0 L345.6 540 L0 540 L0 0 Z" copath="M0 0 L345.6 0 L345.6 540 L0 540 L0 0 Z" gXpos="582.4008" gYpos="9018.7632" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="550951516" BACKITEM="562606444"/>
+        <PAGEOBJECT XPOS="172.0008" YPOS="7847.2368" OwnPage="21" ItemID="555716620" PTYPE="2" WIDTH="273.6" HEIGHT="273.6" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="0.57" LOCALSCY="0.57" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="0" RATIO="1" Pagenumber="0" PFILE="illustration/sass/scss-while-each-script.png" IRENDER="0" EMBEDDED="0" path="M0 0 L273.6 0 L273.6 273.6 L0 273.6 L0 0 Z" copath="M0 0 L273.6 0 L273.6 273.6 L0 273.6 L0 0 Z" gXpos="172.0008" gYpos="7847.2368" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
+        <PAGEOBJECT XPOS="618.4008" YPOS="7962.4368" OwnPage="22" ItemID="548754124" PTYPE="2" WIDTH="201.6" HEIGHT="216" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="0.675" LOCALSCY="0.675" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="0" RATIO="1" Pagenumber="0" PFILE="illustration/sass/css-preprocessors.png" IRENDER="0" EMBEDDED="0" path="M0 0 L201.6 0 L201.6 216 L0 216 L0 0 Z" copath="M0 0 L201.6 0 L201.6 216 L0 216 L0 0 Z" gXpos="618.4008" gYpos="7962.4368" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
+        <PAGEOBJECT XPOS="136.0008" YPOS="9706.7664" OwnPage="27" ItemID="550951516" PTYPE="4" WIDTH="345.6" HEIGHT="540" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0.1528" AUTOTEXT="1" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L345.6 0 L345.6 540 L0 540 L0 0 Z" copath="M0 0 L345.6 0 L345.6 540 L0 540 L0 0 Z" gXpos="136.0008" gYpos="9706.7664" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="550907228" BACKITEM="555715852"/>
+        <PAGEOBJECT XPOS="582.4008" YPOS="9706.7664" OwnPage="28" ItemID="550907228" PTYPE="4" WIDTH="345.6" HEIGHT="540" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0.1528" AUTOTEXT="1" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L345.6 0 L345.6 540 L0 540 L0 0 Z" copath="M0 0 L345.6 0 L345.6 540 L0 540 L0 0 Z" gXpos="582.4008" gYpos="9706.7664" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="560772876" BACKITEM="550951516"/>
+        <PAGEOBJECT XPOS="136.0008" YPOS="10394.7696" OwnPage="29" ItemID="560772876" PTYPE="4" WIDTH="345.6" HEIGHT="540" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0.1528" AUTOTEXT="1" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L345.6 0 L345.6 540 L0 540 L0 0 Z" copath="M0 0 L345.6 0 L345.6 540 L0 540 L0 0 Z" gXpos="136.0008" gYpos="10394.7696" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="528511420" BACKITEM="550907228"/>
+        <PAGEOBJECT XPOS="582.4008" YPOS="10394.7696" OwnPage="30" ItemID="528511420" PTYPE="4" WIDTH="345.6" HEIGHT="540" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0.1528" AUTOTEXT="1" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L345.6 0 L345.6 540 L0 540 L0 0 Z" copath="M0 0 L345.6 0 L345.6 540 L0 540 L0 0 Z" gXpos="582.4008" gYpos="10394.7696" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="528499900" BACKITEM="560772876"/>
+        <PAGEOBJECT XPOS="136.0008" YPOS="11082.7728" OwnPage="31" ItemID="528499900" PTYPE="4" WIDTH="345.6" HEIGHT="540" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0.1528" AUTOTEXT="1" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L345.6 0 L345.6 540 L0 540 L0 0 Z" copath="M0 0 L345.6 0 L345.6 540 L0 540 L0 0 Z" gXpos="136.0008" gYpos="11082.7728" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="529118764" BACKITEM="528511420"/>
+        <PAGEOBJECT XPOS="582.4008" YPOS="11082.7728" OwnPage="32" ItemID="529118764" PTYPE="4" WIDTH="345.6" HEIGHT="540" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0.1528" AUTOTEXT="1" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L345.6 0 L345.6 540 L0 540 L0 0 Z" copath="M0 0 L345.6 0 L345.6 540 L0 540 L0 0 Z" gXpos="582.4008" gYpos="11082.7728" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="557430172" BACKITEM="528499900"/>
+        <PAGEOBJECT XPOS="136.0008" YPOS="11770.056" OwnPage="33" ItemID="557430172" PTYPE="4" WIDTH="345.6" HEIGHT="540" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0.1528" AUTOTEXT="1" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L345.6 0 L345.6 540 L0 540 L0 0 Z" copath="M0 0 L345.6 0 L345.6 540 L0 540 L0 0 Z" gXpos="136.0008" gYpos="11770.056" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="557422748" BACKITEM="529118764"/>
+        <PAGEOBJECT XPOS="582.4008" YPOS="11770.776" OwnPage="34" ItemID="557422748" PTYPE="4" WIDTH="345.6" HEIGHT="540" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0.1528" AUTOTEXT="1" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L345.6 0 L345.6 540 L0 540 L0 0 Z" copath="M0 0 L345.6 0 L345.6 540 L0 540 L0 0 Z" gXpos="582.4008" gYpos="11770.776" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="528355196" BACKITEM="557430172"/>
+        <PAGEOBJECT XPOS="136.0008" YPOS="12458.7792" OwnPage="35" ItemID="528355196" PTYPE="4" WIDTH="345.6" HEIGHT="540" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0.1528" AUTOTEXT="1" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L345.6 0 L345.6 540 L0 540 L0 0 Z" copath="M0 0 L345.6 0 L345.6 540 L0 540 L0 0 Z" gXpos="136.0008" gYpos="12458.7792" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="541028684" BACKITEM="557422748"/>
+        <PAGEOBJECT XPOS="582.4008" YPOS="12458.7792" OwnPage="36" ItemID="541028684" PTYPE="4" WIDTH="345.6" HEIGHT="547.2" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0.1528" AUTOTEXT="1" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L345.6 0 L345.6 547.2 L0 547.2 L0 0 Z" copath="M0 0 L345.6 0 L345.6 547.2 L0 547.2 L0 0 Z" gXpos="582.4008" gYpos="12458.7792" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="541017164" BACKITEM="528355196"/>
+        <PAGEOBJECT XPOS="136.0008" YPOS="13146.7824" OwnPage="37" ItemID="541017164" PTYPE="4" WIDTH="345.6" HEIGHT="540" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0.1528" AUTOTEXT="1" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L345.6 0 L345.6 540 L0 540 L0 0 Z" copath="M0 0 L345.6 0 L345.6 540 L0 540 L0 0 Z" gXpos="136.0008" gYpos="13146.7824" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="562848892" BACKITEM="541028684"/>
+        <PAGEOBJECT XPOS="582.4008" YPOS="13146.7824" OwnPage="38" ItemID="562848892" PTYPE="4" WIDTH="345.6" HEIGHT="540" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0.1528" AUTOTEXT="1" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L345.6 0 L345.6 540 L0 540 L0 0 Z" copath="M0 0 L345.6 0 L345.6 540 L0 540 L0 0 Z" gXpos="582.4008" gYpos="13146.7824" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="554129580" BACKITEM="541017164"/>
+        <PAGEOBJECT XPOS="136.0008" YPOS="13834.7856" OwnPage="39" ItemID="554129580" PTYPE="4" WIDTH="345.6" HEIGHT="540" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0.1528" AUTOTEXT="1" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L345.6 0 L345.6 540 L0 540 L0 0 Z" copath="M0 0 L345.6 0 L345.6 540 L0 540 L0 0 Z" gXpos="136.0008" gYpos="13834.7856" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="554214316" BACKITEM="562848892"/>
+        <PAGEOBJECT XPOS="582.4008" YPOS="13834.7856" OwnPage="40" ItemID="554214316" PTYPE="4" WIDTH="345.6" HEIGHT="540" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0.1528" AUTOTEXT="1" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L345.6 0 L345.6 540 L0 540 L0 0 Z" copath="M0 0 L345.6 0 L345.6 540 L0 540 L0 0 Z" gXpos="582.4008" gYpos="13834.7856" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="554129580"/>
     </DOCUMENT>
 </SCRIBUSUTF8NEW>
