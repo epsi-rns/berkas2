@@ -1,0 +1,1384 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SCRIBUSUTF8NEW Version="1.5.6.svn">
+    <DOCUMENT ANZPAGES="21" PAGEWIDTH="432" PAGEHEIGHT="648" BORDERLEFT="57.6" BORDERRIGHT="36" BORDERTOP="36" BORDERBOTTOM="36" PRESET="0" BleedTop="0" BleedLeft="0" BleedRight="0" BleedBottom="0" ORIENTATION="0" PAGESIZE="Custom" FIRSTNUM="1" BOOK="1" AUTOTEXT="1" AUTOSPALTEN="1" ABSTSPALTEN="0.1528" UNITS="2" DFONT="Liberation Serif Regular" DSIZE="12" DCOL="1" DGAP="0" TabFill="" TabWidth="72" TextDistLeft="0" TextDistRight="0" TextDistBottom="0" TextDistTop="0" AUTHOR="epsi" COMMENTS="This is a basic template to use for 6x9 books for Createspace and Lulu" KEYWORDS="Book, Template" PUBLISHER="IndieImprint" DOCDATE="" DOCTYPE="" DOCFORMAT="" DOCIDENT="" DOCSOURCE="" DOCLANGINFO="EN" DOCRELATION="" DOCCOVER="" DOCRIGHTS="Copyright 2016 IndieImprint under the Creative Commons Attribution 4.0 License" DOCCONTRIB="This work is licensed under the Creative Commons Attribution 4.0 International License. To view a copy of this license, visit http://creativecommons.org/licenses/by/4.0/ or send a letter to Creative Commons, PO Box 1866, Mountain View, CA 94042, USA." TITLE="Praktek Menggunakan CSS Preprocessor" SUBJECT="Basic Template" VHOCH="33" VHOCHSC="66" VTIEF="33" VTIEFSC="66" VKAPIT="75" BASEGRID="14.4" BASEO="0" AUTOL="100" UnderlinePos="-1" UnderlineWidth="-1" StrikeThruPos="-1" StrikeThruWidth="-1" GROUPC="1" HCMS="0" DPSo="0" DPSFo="0" DPuse="0" DPgam="0" DPbla="1" DPPr="Fogra27L CMYK Coated Press" DPIn="sRGB IEC61966-2.1" DPInCMYK="Fogra27L CMYK Coated Press" DPIn2="sRGB IEC61966-2.1" DPIn3="Fogra27L CMYK Coated Press" DISc="1" DIIm="0" ALAYER="0" LANGUAGE="aiw" AUTOMATIC="1" AUTOCHECK="0" GUIDELOCK="0" SnapToGuides="0" SnapToGrid="0" SnapToElement="0" MINGRID="20.0016" MAJGRID="100.0008" SHOWGRID="0" SHOWGUIDES="1" showcolborders="1" SHOWFRAME="1" SHOWControl="0" SHOWLAYERM="1" SHOWMARGIN="1" SHOWBASE="0" SHOWPICT="1" SHOWLINK="1" rulerMode="1" showrulers="1" showBleed="1" rulerXoffset="0" rulerYoffset="0" GuideRad="10" GRAB="4" POLYC="4" POLYF="0.707106781186548" POLYR="0" POLYIR="0" POLYCUR="0" POLYOCUR="0" POLYS="0" arcStartAngle="30" arcSweepAngle="300" spiralStartAngle="0" spiralEndAngle="1080" spiralFactor="1.2" AutoSave="1" AutoSaveTime="600000" AutoSaveCount="1" AutoSaveKeep="0" AUtoSaveInDocDir="1" AutoSaveDir="" ScratchBottom="20.0016" ScratchLeft="100.0008" ScratchRight="100.0008" ScratchTop="20.0016" GapHorizontal="0" GapVertical="40.0032" StartArrow="0" EndArrow="0" PEN="Black" BRUSH="None" PENLINE="None" PENTEXT="Black" StrokeText="Black" TextBackGround="None" TextLineColor="None" TextBackGroundShade="100" TextLineShade="100" TextPenShade="100" TextStrokeShade="100" STIL="1" STILLINE="1" WIDTH="1" WIDTHLINE="1" PENSHADE="100" LINESHADE="100" BRUSHSHADE="100" CPICT="None" PICTSHADE="100" CSPICT="None" PICTSSHADE="100" PICTSCX="1" PICTSCY="1" PSCALE="1" PASPECT="1" EmbeddedPath="0" HalfRes="1" dispX="0" dispY="0" constrain="15" MINORC="#00ff00" MAJORC="#00ff00" GuideC="#000080" BaseC="#c0c0c0" renderStack="0 1 2 3 4" GridType="0" PAGEC="#ffffff" MARGC="#0000ff" RANDF="0" currentProfile="PDF 1.4" calligraphicPenFillColor="Black" calligraphicPenLineColor="Black" calligraphicPenFillColorShade="100" calligraphicPenLineColorShade="100" calligraphicPenLineWidth="1" calligraphicPenAngle="0" calligraphicPenWidth="10" calligraphicPenStyle="1">
+        <CheckProfile Name="PDF 1.3" ignoreErrors="0" autoCheck="1" checkGlyphs="1" checkOrphans="1" checkOverflow="1" checkPictures="1" checkPartFilledImageFrames="0" checkResolution="1" checkTransparency="1" minResolution="144" maxResolution="2400" checkAnnotations="0" checkRasterPDF="1" checkForGIF="1" ignoreOffLayers="0" checkNotCMYKOrSpot="0" checkDeviceColorsAndOutputIntent="0" checkFontNotEmbedded="0" checkFontIsOpenType="0" checkAppliedMasterDifferentSide="1" checkEmptyTextFrames="1"/>
+        <CheckProfile Name="PDF 1.4" ignoreErrors="0" autoCheck="1" checkGlyphs="1" checkOrphans="1" checkOverflow="1" checkPictures="1" checkPartFilledImageFrames="0" checkResolution="1" checkTransparency="0" minResolution="144" maxResolution="2400" checkAnnotations="0" checkRasterPDF="1" checkForGIF="1" ignoreOffLayers="0" checkNotCMYKOrSpot="0" checkDeviceColorsAndOutputIntent="0" checkFontNotEmbedded="0" checkFontIsOpenType="0" checkAppliedMasterDifferentSide="1" checkEmptyTextFrames="1"/>
+        <CheckProfile Name="PDF 1.5" ignoreErrors="0" autoCheck="1" checkGlyphs="1" checkOrphans="1" checkOverflow="1" checkPictures="1" checkPartFilledImageFrames="0" checkResolution="1" checkTransparency="0" minResolution="144" maxResolution="2400" checkAnnotations="0" checkRasterPDF="1" checkForGIF="1" ignoreOffLayers="0" checkNotCMYKOrSpot="0" checkDeviceColorsAndOutputIntent="0" checkFontNotEmbedded="0" checkFontIsOpenType="0" checkAppliedMasterDifferentSide="1" checkEmptyTextFrames="1"/>
+        <CheckProfile Name="PDF 1.6" ignoreErrors="0" autoCheck="1" checkGlyphs="1" checkOrphans="1" checkOverflow="1" checkPictures="1" checkPartFilledImageFrames="0" checkResolution="1" checkTransparency="0" minResolution="144" maxResolution="2400" checkAnnotations="0" checkRasterPDF="1" checkForGIF="1" ignoreOffLayers="0" checkNotCMYKOrSpot="0" checkDeviceColorsAndOutputIntent="0" checkFontNotEmbedded="1" checkFontIsOpenType="0" checkAppliedMasterDifferentSide="1" checkEmptyTextFrames="1"/>
+        <CheckProfile Name="PDF/X-1a" ignoreErrors="0" autoCheck="1" checkGlyphs="1" checkOrphans="1" checkOverflow="1" checkPictures="1" checkPartFilledImageFrames="0" checkResolution="1" checkTransparency="1" minResolution="144" maxResolution="2400" checkAnnotations="1" checkRasterPDF="1" checkForGIF="1" ignoreOffLayers="0" checkNotCMYKOrSpot="0" checkDeviceColorsAndOutputIntent="0" checkFontNotEmbedded="0" checkFontIsOpenType="0" checkAppliedMasterDifferentSide="1" checkEmptyTextFrames="1"/>
+        <CheckProfile Name="PDF/X-3" ignoreErrors="0" autoCheck="1" checkGlyphs="1" checkOrphans="1" checkOverflow="1" checkPictures="1" checkPartFilledImageFrames="0" checkResolution="1" checkTransparency="1" minResolution="144" maxResolution="2400" checkAnnotations="1" checkRasterPDF="1" checkForGIF="1" ignoreOffLayers="0" checkNotCMYKOrSpot="0" checkDeviceColorsAndOutputIntent="0" checkFontNotEmbedded="0" checkFontIsOpenType="0" checkAppliedMasterDifferentSide="1" checkEmptyTextFrames="1"/>
+        <CheckProfile Name="PDF/X-4" ignoreErrors="0" autoCheck="1" checkGlyphs="1" checkOrphans="1" checkOverflow="1" checkPictures="1" checkPartFilledImageFrames="0" checkResolution="1" checkTransparency="0" minResolution="144" maxResolution="2400" checkAnnotations="1" checkRasterPDF="1" checkForGIF="1" ignoreOffLayers="0" checkNotCMYKOrSpot="0" checkDeviceColorsAndOutputIntent="1" checkFontNotEmbedded="1" checkFontIsOpenType="0" checkAppliedMasterDifferentSide="1" checkEmptyTextFrames="1"/>
+        <CheckProfile Name="PostScript" ignoreErrors="0" autoCheck="1" checkGlyphs="1" checkOrphans="1" checkOverflow="1" checkPictures="1" checkPartFilledImageFrames="0" checkResolution="1" checkTransparency="1" minResolution="144" maxResolution="2400" checkAnnotations="0" checkRasterPDF="1" checkForGIF="1" ignoreOffLayers="0" checkNotCMYKOrSpot="0" checkDeviceColorsAndOutputIntent="0" checkFontNotEmbedded="0" checkFontIsOpenType="0" checkAppliedMasterDifferentSide="1" checkEmptyTextFrames="1"/>
+        <COLOR NAME="Black" SPACE="CMYK" C="0" M="0" Y="0" K="100"/>
+        <COLOR NAME="Blue" SPACE="RGB" R="0" G="0" B="255"/>
+        <COLOR NAME="Blue 500" SPACE="RGB" R="33" G="150" B="243"/>
+        <COLOR NAME="Blue 700" SPACE="RGB" R="25" G="118" B="210"/>
+        <COLOR NAME="Blue 900" SPACE="RGB" R="13" G="71" B="161"/>
+        <COLOR NAME="Cool Black" SPACE="CMYK" C="60" M="0" Y="0" K="100"/>
+        <COLOR NAME="Cyan" SPACE="CMYK" C="100" M="0" Y="0" K="0"/>
+        <COLOR NAME="Cyan 700" SPACE="RGB" R="0" G="151" B="167"/>
+        <COLOR NAME="Cyan 900" SPACE="RGB" R="0" G="96" B="100"/>
+        <COLOR NAME="Green" SPACE="RGB" R="0" G="255" B="0"/>
+        <COLOR NAME="Green 700" SPACE="RGB" R="56" G="142" B="60"/>
+        <COLOR NAME="Green 900" SPACE="RGB" R="27" G="94" B="32"/>
+        <COLOR NAME="Magenta" SPACE="CMYK" C="0" M="100" Y="0" K="0"/>
+        <COLOR NAME="Red" SPACE="RGB" R="255" G="0" B="0"/>
+        <COLOR NAME="Red 700" SPACE="RGB" R="211" G="47" B="47"/>
+        <COLOR NAME="Red 900" SPACE="RGB" R="183" G="28" B="28"/>
+        <COLOR NAME="Registration" SPACE="CMYK" C="100" M="100" Y="100" K="100" Register="1"/>
+        <COLOR NAME="Rich Black" SPACE="CMYK" C="60" M="40" Y="40" K="100"/>
+        <COLOR NAME="Teal 700" SPACE="RGB" R="0" G="121" B="107"/>
+        <COLOR NAME="Teal 900" SPACE="RGB" R="0" G="77" B="64"/>
+        <COLOR NAME="Warm Black" SPACE="CMYK" C="0" M="60" Y="29.8039215686275" K="100"/>
+        <COLOR NAME="White" SPACE="CMYK" C="0" M="0" Y="0" K="0"/>
+        <COLOR NAME="Yellow" SPACE="CMYK" C="0" M="0" Y="100" K="0"/>
+        <HYPHEN/>
+        <STYLE NAME="Default Paragraph Style" DefaultStyle="1" ALIGN="0" LINESPMode="0" LINESP="15" INDENT="0" RMARGIN="0" FIRST="0" VOR="0" NACH="0" ParagraphEffectOffset="0" DROP="0" DROPLIN="2"/>
+        <STYLE NAME="Interior Paragraph" PARENT="Default Paragraph Style" ALIGN="3" FIRST="18" FONT="Source Serif Pro Regular" FONTSIZE="10" FONTFEATURES="-clig"/>
+        <STYLE NAME="Chapter Heading" PARENT="Default Paragraph Style" ALIGN="1" FIRST="0" VOR="5" NACH="5" BCOLOR="None" FONT="Source Serif Pro Bold" FONTSIZE="18" FONTFEATURES="-clig" FCOLOR="Blue 900"/>
+        <STYLE NAME="Interior Paragraph italic" PARENT="Default Paragraph Style" FIRST="18" FONT="Liberation Serif Italic" FONTSIZE="10"/>
+        <STYLE NAME="Interior Paragraph No Indent" PARENT="Default Paragraph Style" FIRST="0" FONT="Source Serif Pro Regular" FONTSIZE="10" FONTFEATURES="-clig"/>
+        <STYLE NAME="Heading One" VOR="10" NACH="5" FONT="Source Serif Pro SemiBold" FONTSIZE="14" FONTFEATURES="-clig" FCOLOR="Blue 700" LANGUAGE=""/>
+        <STYLE NAME="Heading Two" VOR="6" NACH="3" FONT="Source Serif Pro SemiBold" FONTSIZE="12" FONTFEATURES="-clig" FCOLOR="Blue 500" LANGUAGE=""/>
+        <STYLE NAME="Butir Pikiran" PARENT="Default Paragraph Style" INDENT="18" FIRST="-10.8" ParagraphEffectOffset="5.76" ParagraphEffectIndent="0" DROP="0" Bullet="1" BulletStr="▶" Numeration="0"/>
+        <STYLE NAME="Quotes" PARENT="Default Paragraph Style" ALIGN="1" FONT="Marck Script Regular" FONTFEATURES="-clig,-liga"/>
+        <STYLE NAME="Inline Code" PARENT="Default Paragraph Style" ALIGN="0" INDENT="18" FIRST="0" FONT="Inconsolata Regular" FONTSIZE="10" FONTFEATURES="-clig,-liga" FCOLOR="Blue 900"/>
+        <CHARSTYLE CNAME="Default Character Style" DefaultStyle="1" FONT="Source Serif Pro Regular" FONTSIZE="10" FONTFEATURES="-clig" FEATURES="inherit" FCOLOR="Black" FSHADE="100" SCOLOR="Black" SSHADE="100" TXTSHX="5" TXTSHY="-5" TXTOUT="1" TXTULP="-0.1" TXTULW="-0.1" TXTSTP="-0.1" TXTSTW="-0.1" SCALEH="100" SCALEV="100" BASEO="0" KERN="0" LANGUAGE="en_US"/>
+        <CHARSTYLE CNAME="Tautan Link" FONT="Source Serif Pro Regular" FONTFEATURES="-clig" FEATURES="underline" FCOLOR="Red 900" TXTSHX="5" TXTSHY="-5" TXTOUT="1" TXTULP="50" TXTULW="5" TXTSTP="-0.1" TXTSTW="-0.1" LANGUAGE=""/>
+        <CHARSTYLE CNAME="Terminology" FONT="Source Serif Pro Italic" FONTFEATURES="-clig" FCOLOR="Teal 900" LANGUAGE=""/>
+        <CHARSTYLE CNAME="Code" FONT="Inconsolata Regular" FONTFEATURES="-clig,-liga" FCOLOR="Blue 900" LANGUAGE=""/>
+        <TableStyle NAME="Default Table Style" DefaultStyle="1" FillColor="None" FillShade="100">
+            <TableBorderLeft>
+                <TableBorderLine Width="1" PenStyle="1" Color="Black" Shade="100"/>
+            </TableBorderLeft>
+            <TableBorderRight>
+                <TableBorderLine Width="1" PenStyle="1" Color="Black" Shade="100"/>
+            </TableBorderRight>
+            <TableBorderTop>
+                <TableBorderLine Width="1" PenStyle="1" Color="Black" Shade="100"/>
+            </TableBorderTop>
+            <TableBorderBottom>
+                <TableBorderLine Width="1" PenStyle="1" Color="Black" Shade="100"/>
+            </TableBorderBottom>
+        </TableStyle>
+        <CellStyle NAME="Default Cell Style" DefaultStyle="1" FillColor="None" FillShade="100" LeftPadding="1" RightPadding="1" TopPadding="1" BottomPadding="1">
+            <TableBorderLeft>
+                <TableBorderLine Width="1" PenStyle="1" Color="Black" Shade="100"/>
+            </TableBorderLeft>
+            <TableBorderRight>
+                <TableBorderLine Width="1" PenStyle="1" Color="Black" Shade="100"/>
+            </TableBorderRight>
+            <TableBorderTop>
+                <TableBorderLine Width="1" PenStyle="1" Color="Black" Shade="100"/>
+            </TableBorderTop>
+            <TableBorderBottom>
+                <TableBorderLine Width="1" PenStyle="1" Color="Black" Shade="100"/>
+            </TableBorderBottom>
+        </CellStyle>
+        <LAYERS NUMMER="0" LEVEL="0" NAME="Background" SICHTBAR="1" DRUCKEN="1" EDIT="1" SELECT="0" FLOW="1" TRANS="1" BLEND="0" OUTL="0" LAYERC="#000000"/>
+        <Printer firstUse="1" toFile="0" useAltPrintCommand="0" outputSeparations="0" useSpotColors="1" useColor="1" mirrorH="0" mirrorV="0" useICC="0" doGCR="0" doClip="0" setDevParam="0" useDocBleeds="1" cropMarks="0" bleedMarks="0" registrationMarks="0" colorMarks="0" includePDFMarks="1" PSLevel="3" PDLanguage="3" markLength="20.0016" markOffset="0" BleedTop="0" BleedLeft="0" BleedRight="0" BleedBottom="0" printer="HP_Deskjet_1510_series" filename="" separationName="All" printerCommand=""/>
+        <PDF firstUse="0" Thumbnails="0" Articles="0" Bookmarks="0" Compress="1" CMethod="0" Quality="0" EmbedPDF="0" MirrorH="0" MirrorV="0" Clip="0" rangeSel="0" rangeTxt="" RotateDeg="0" PresentMode="0" RecalcPic="0" FontEmbedding="0" Grayscale="0" RGBMode="0" UseProfiles="0" UseProfiles2="0" Binding="0" PicRes="300" Resolution="300" Version="14" Intent="1" Intent2="0" SolidP="sRGB IEC61966-2.1" ImageP="sRGB IEC61966-2.1" PrintP="Fogra27L CMYK Coated Press" InfoString="" BTop="0" BLeft="0" BRight="0" BBottom="0" useDocBleeds="0" cropMarks="0" bleedMarks="0" registrationMarks="0" colorMarks="0" docInfoMarks="0" markLength="1.0008" markOffset="0" ImagePr="0" PassOwner="" PassUser="" Permissions="-4" Encrypt="0" UseLayers="0" UseLpi="0" UseSpotColors="1" doMultiFile="0" displayBookmarks="0" displayFullscreen="0" displayLayers="0" displayThumbs="0" hideMenuBar="0" hideToolBar="0" fitWindow="0" openAfterExport="0" PageLayout="0" openAction="">
+            <Fonts Name="Marck Script Regular"/>
+            <Fonts Name="Source Serif Pro Bold"/>
+            <Fonts Name="Source Serif Pro Italic"/>
+            <Fonts Name="Source Serif Pro Regular"/>
+            <Fonts Name="Source Serif Pro SemiBold"/>
+            <Subset Name="Inconsolata Regular"/>
+            <Subset Name="Liberation Serif Italic"/>
+            <Subset Name="Liberation Serif Regular"/>
+            <LPI Color="" Frequency="10" Angle="0" SpotFunction="0"/>
+            <LPI Color="Black" Frequency="133" Angle="45" SpotFunction="3"/>
+            <LPI Color="Cyan" Frequency="133" Angle="105" SpotFunction="3"/>
+            <LPI Color="Magenta" Frequency="133" Angle="75" SpotFunction="3"/>
+            <LPI Color="Yellow" Frequency="133" Angle="90" SpotFunction="3"/>
+        </PDF>
+        <DocItemAttributes/>
+        <TablesOfContents/>
+        <NotesStyles>
+            <notesStyle Name="Default" Start="1" Endnotes="0" Type="Type_1_2_3" Range="0" Prefix="" Suffix=")" AutoHeight="1" AutoWidth="1" AutoRemove="1" AutoWeld="1" SuperNote="1" SuperMaster="1" MarksStyle="" NotesStyle=""/>
+        </NotesStyles>
+        <PageSets>
+            <Set Name="Single Page" FirstPage="0" Rows="1" Columns="1"/>
+            <Set Name="Double Sided" FirstPage="1" Rows="1" Columns="2">
+                <PageNames Name="Left Page"/>
+                <PageNames Name="Right Page"/>
+            </Set>
+            <Set Name="3-Fold" FirstPage="0" Rows="1" Columns="3">
+                <PageNames Name="Left Page"/>
+                <PageNames Name="Middle"/>
+                <PageNames Name="Right Page"/>
+            </Set>
+            <Set Name="4-Fold" FirstPage="0" Rows="1" Columns="4">
+                <PageNames Name="Left Page"/>
+                <PageNames Name="Middle Left"/>
+                <PageNames Name="Middle Right"/>
+                <PageNames Name="Right Page"/>
+            </Set>
+        </PageSets>
+        <Sections>
+            <Section Number="0" Name="0" From="0" To="20" Type="Type_1_2_3" Start="1" Reversed="0" Active="1" FillChar="0" FieldWidth="0"/>
+        </Sections>
+        <MASTERPAGE PAGEXPOS="100.0008" PAGEYPOS="20.0016" PAGEWIDTH="432" PAGEHEIGHT="648" BORDERLEFT="50.4" BORDERRIGHT="36" BORDERTOP="36" BORDERBOTTOM="36" NUM="0" NAM="Normal Left" MNAM="" Size="Custom" Orientation="0" LEFT="1" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <MASTERPAGE PAGEXPOS="100.0008" PAGEYPOS="20.0016" PAGEWIDTH="432" PAGEHEIGHT="648" BORDERLEFT="50.4" BORDERRIGHT="36" BORDERTOP="36" BORDERBOTTOM="36" NUM="1" NAM="Normal Right" MNAM="" Size="Custom" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <MASTERPAGE PAGEXPOS="100.0008" PAGEYPOS="20.0016" PAGEWIDTH="432" PAGEHEIGHT="648" BORDERLEFT="50.4" BORDERRIGHT="36" BORDERTOP="36" BORDERBOTTOM="36" NUM="2" NAM="Interior Right" MNAM="" Size="Custom" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <MASTERPAGE PAGEXPOS="100.0008" PAGEYPOS="20.0016" PAGEWIDTH="432" PAGEHEIGHT="648" BORDERLEFT="50.4" BORDERRIGHT="36" BORDERTOP="36" BORDERBOTTOM="36" NUM="3" NAM="Interior Left" MNAM="" Size="Custom" Orientation="0" LEFT="1" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <PAGE PAGEXPOS="532.0008" PAGEYPOS="20.0016" PAGEWIDTH="432" PAGEHEIGHT="648" BORDERLEFT="50.4" BORDERRIGHT="36" BORDERTOP="36" BORDERBOTTOM="36" NUM="0" NAM="" MNAM="Normal Right" Size="Custom" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <PAGE PAGEXPOS="100.0008" PAGEYPOS="708.0048" PAGEWIDTH="432" PAGEHEIGHT="648" BORDERLEFT="50.4" BORDERRIGHT="36" BORDERTOP="36" BORDERBOTTOM="36" NUM="1" NAM="" MNAM="Normal Left" Size="Custom" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <PAGE PAGEXPOS="532.0008" PAGEYPOS="708.0048" PAGEWIDTH="432" PAGEHEIGHT="648" BORDERLEFT="50.4" BORDERRIGHT="36" BORDERTOP="36" BORDERBOTTOM="36" NUM="2" NAM="" MNAM="Normal Right" Size="Custom" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <PAGE PAGEXPOS="100.0008" PAGEYPOS="1396.008" PAGEWIDTH="432" PAGEHEIGHT="648" BORDERLEFT="50.4" BORDERRIGHT="36" BORDERTOP="36" BORDERBOTTOM="36" NUM="3" NAM="" MNAM="Normal Left" Size="Custom" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <PAGE PAGEXPOS="532.0008" PAGEYPOS="1396.008" PAGEWIDTH="432" PAGEHEIGHT="648" BORDERLEFT="50.4" BORDERRIGHT="36" BORDERTOP="36" BORDERBOTTOM="36" NUM="4" NAM="" MNAM="Interior Right" Size="Custom" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <PAGE PAGEXPOS="100.0008" PAGEYPOS="2084.0112" PAGEWIDTH="432" PAGEHEIGHT="648" BORDERLEFT="50.4" BORDERRIGHT="36" BORDERTOP="36" BORDERBOTTOM="36" NUM="5" NAM="" MNAM="Interior Left" Size="Custom" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <PAGE PAGEXPOS="532.0008" PAGEYPOS="2084.0112" PAGEWIDTH="432" PAGEHEIGHT="648" BORDERLEFT="50.4" BORDERRIGHT="36" BORDERTOP="36" BORDERBOTTOM="36" NUM="6" NAM="" MNAM="Interior Right" Size="Custom" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <PAGE PAGEXPOS="100.0008" PAGEYPOS="2772.0144" PAGEWIDTH="432" PAGEHEIGHT="648" BORDERLEFT="50.4" BORDERRIGHT="36" BORDERTOP="36" BORDERBOTTOM="36" NUM="7" NAM="" MNAM="Interior Left" Size="Custom" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <PAGE PAGEXPOS="532.0008" PAGEYPOS="2772.0144" PAGEWIDTH="432" PAGEHEIGHT="648" BORDERLEFT="50.4" BORDERRIGHT="36" BORDERTOP="36" BORDERBOTTOM="36" NUM="8" NAM="" MNAM="Interior Right" Size="Custom" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <PAGE PAGEXPOS="100.0008" PAGEYPOS="3460.0176" PAGEWIDTH="432" PAGEHEIGHT="648" BORDERLEFT="50.4" BORDERRIGHT="36" BORDERTOP="36" BORDERBOTTOM="36" NUM="9" NAM="" MNAM="Interior Left" Size="Custom" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <PAGE PAGEXPOS="532.0008" PAGEYPOS="3460.0176" PAGEWIDTH="432" PAGEHEIGHT="648" BORDERLEFT="50.4" BORDERRIGHT="36" BORDERTOP="36" BORDERBOTTOM="36" NUM="10" NAM="" MNAM="Interior Right" Size="Custom" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <PAGE PAGEXPOS="100.0008" PAGEYPOS="4148.0208" PAGEWIDTH="432" PAGEHEIGHT="648" BORDERLEFT="50.4" BORDERRIGHT="36" BORDERTOP="36" BORDERBOTTOM="36" NUM="11" NAM="" MNAM="Interior Left" Size="Custom" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <PAGE PAGEXPOS="532.0008" PAGEYPOS="4148.0208" PAGEWIDTH="432" PAGEHEIGHT="648" BORDERLEFT="50.4" BORDERRIGHT="36" BORDERTOP="36" BORDERBOTTOM="36" NUM="12" NAM="" MNAM="Interior Right" Size="Custom" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <PAGE PAGEXPOS="100.0008" PAGEYPOS="4836.024" PAGEWIDTH="432" PAGEHEIGHT="648" BORDERLEFT="50.4" BORDERRIGHT="36" BORDERTOP="36" BORDERBOTTOM="36" NUM="13" NAM="" MNAM="Interior Left" Size="Custom" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <PAGE PAGEXPOS="532.0008" PAGEYPOS="4836.024" PAGEWIDTH="432" PAGEHEIGHT="648" BORDERLEFT="50.4" BORDERRIGHT="36" BORDERTOP="36" BORDERBOTTOM="36" NUM="14" NAM="" MNAM="Interior Right" Size="Custom" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <PAGE PAGEXPOS="100.0008" PAGEYPOS="5524.0272" PAGEWIDTH="432" PAGEHEIGHT="648" BORDERLEFT="50.4" BORDERRIGHT="36" BORDERTOP="36" BORDERBOTTOM="36" NUM="15" NAM="" MNAM="Interior Left" Size="Custom" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <PAGE PAGEXPOS="532.0008" PAGEYPOS="5524.0272" PAGEWIDTH="432" PAGEHEIGHT="648" BORDERLEFT="50.4" BORDERRIGHT="36" BORDERTOP="36" BORDERBOTTOM="36" NUM="16" NAM="" MNAM="Interior Right" Size="Custom" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <PAGE PAGEXPOS="100.0008" PAGEYPOS="6212.0304" PAGEWIDTH="432" PAGEHEIGHT="648" BORDERLEFT="50.4" BORDERRIGHT="36" BORDERTOP="36" BORDERBOTTOM="36" NUM="17" NAM="" MNAM="Interior Left" Size="Custom" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <PAGE PAGEXPOS="532.0008" PAGEYPOS="6212.0304" PAGEWIDTH="432" PAGEHEIGHT="648" BORDERLEFT="50.4" BORDERRIGHT="36" BORDERTOP="36" BORDERBOTTOM="36" NUM="18" NAM="" MNAM="Interior Right" Size="Custom" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <PAGE PAGEXPOS="100.0008" PAGEYPOS="6900.0336" PAGEWIDTH="432" PAGEHEIGHT="648" BORDERLEFT="50.4" BORDERRIGHT="36" BORDERTOP="36" BORDERBOTTOM="36" NUM="19" NAM="" MNAM="Interior Left" Size="Custom" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <PAGE PAGEXPOS="532.0008" PAGEYPOS="6900.0336" PAGEWIDTH="432" PAGEHEIGHT="648" BORDERLEFT="50.4" BORDERRIGHT="36" BORDERTOP="36" BORDERBOTTOM="36" NUM="20" NAM="" MNAM="Interior Right" Size="Custom" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <MASTEROBJECT XPOS="150.4008" YPOS="617.6016" OwnPage="2" ItemID="757330839" PTYPE="4" WIDTH="345.6" HEIGHT="14.4" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L345.6 0 L345.6 14.4 L0 14.4 L0 0 Z" copath="M0 0 L345.6 0 L345.6 14.4 L0 14.4 L0 0 Z" OnMasterPage="Interior Right" gXpos="97000839.9" gYpos="741300056.240935" gWidth="0" gHeight="0" ALIGN="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle ALIGN="0" LINESPMode="0" LINESP="15" FONT="Liberation Serif Regular" FONTSIZE="12" FCOLOR="Black" FSHADE="100" SCOLOR="Black" SSHADE="100" TXTSHX="5" TXTSHY="-5" TXTOUT="1" TXTULP="-0.1" TXTULW="-0.1" TXTSTP="-0.1" TXTSTW="-0.1" SCALEH="100" SCALEV="100" BASEO="0"/>
+                <var name="pgno" FONT="Liberation Serif Regular" FONTSIZE="10"/>
+                <para ALIGN="1"/>
+            </StoryText>
+        </MASTEROBJECT>
+        <MASTEROBJECT XPOS="150.4008" YPOS="56.0016" OwnPage="2" ItemID="757319623" PTYPE="4" WIDTH="345.6" HEIGHT="14.4" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L345.6 0 L345.6 14.4 L0 14.4 L0 0 Z" copath="M0 0 L345.6 0 L345.6 14.4 L0 14.4 L0 0 Z" OnMasterPage="Interior Right" gXpos="97000839.9" gYpos="741300053.890935" gWidth="0" gHeight="0" ALIGN="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle ALIGN="0" LINESPMode="0" LINESP="15" FONT="Liberation Serif Regular" FONTSIZE="12" FCOLOR="Black" FSHADE="100" SCOLOR="Black" SSHADE="100" TXTSHX="5" TXTSHY="-5" TXTOUT="1" TXTULP="-0.1" TXTULW="-0.1" TXTSTP="-0.1" TXTSTW="-0.1" SCALEH="100" SCALEV="100" BASEO="0"/>
+                <ITEXT FONT="Source Serif Pro Regular" FONTSIZE="10" FONTFEATURES="-liga" FEATURES="inherit smallcaps" FCOLOR="Black" FSHADE="100" SCOLOR="Black" SSHADE="100" TXTSHX="5" TXTSHY="-5" TXTOUT="1" TXTULP="-0.1" TXTULW="-0.1" TXTSTP="-0.1" TXTSTW="-0.1" SCALEH="100" SCALEV="100" BASEO="0" CH="Praktek Menggunakan CSS Preprocessor"/>
+                <trail ALIGN="1"/>
+            </StoryText>
+        </MASTEROBJECT>
+        <MASTEROBJECT XPOS="136.0008" YPOS="617.6016" OwnPage="3" ItemID="757312135" PTYPE="4" WIDTH="345.6" HEIGHT="14.4" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L345.6 0 L345.6 14.4 L0 14.4 L0 0 Z" copath="M0 0 L345.6 0 L345.6 14.4 L0 14.4 L0 0 Z" OnMasterPage="Interior Left" gXpos="506735.5" gYpos="676903644.724549" gWidth="0" gHeight="0" ALIGN="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle ALIGN="0" LINESPMode="0" LINESP="15" FONT="Liberation Serif Regular" FONTSIZE="12" FCOLOR="Black" FSHADE="100" SCOLOR="Black" SSHADE="100" TXTSHX="5" TXTSHY="-5" TXTOUT="1" TXTULP="-0.1" TXTULW="-0.1" TXTSTP="-0.1" TXTSTW="-0.1" SCALEH="100" SCALEV="100" BASEO="0"/>
+                <var name="pgno" FONT="Liberation Serif Regular" FONTSIZE="10"/>
+                <para ALIGN="1"/>
+            </StoryText>
+        </MASTEROBJECT>
+        <MASTEROBJECT XPOS="136.0008" YPOS="56.0016" OwnPage="3" ItemID="757302167" PTYPE="4" WIDTH="345.6" HEIGHT="14.4" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L345.6 0 L345.6 14.4 L0 14.4 L0 0 Z" copath="M0 0 L345.6 0 L345.6 14.4 L0 14.4 L0 0 Z" OnMasterPage="Interior Left" gXpos="506735.5" gYpos="676903642.374549" gWidth="0" gHeight="0" ALIGN="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle ALIGN="0" LINESPMode="0" LINESP="15" FONT="Liberation Serif Regular" FONTSIZE="12" FCOLOR="Black" FSHADE="100" SCOLOR="Black" SSHADE="100" TXTSHX="5" TXTSHY="-5" TXTOUT="1" TXTULP="-0.1" TXTULW="-0.1" TXTSTP="-0.1" TXTSTW="-0.1" SCALEH="100" SCALEV="100" BASEO="0"/>
+                <ITEXT FONT="Source Serif Pro Regular" FONTSIZE="10" FEATURES="inherit smallcaps" FCOLOR="Black" FSHADE="100" SCOLOR="Black" SSHADE="100" TXTSHX="5" TXTSHY="-5" TXTOUT="1" TXTULP="-0.1" TXTULW="-0.1" TXTSTP="-0.1" TXTSTW="-0.1" SCALEH="100" SCALEV="100" BASEO="0" CH="E.R. Nurwijayadi"/>
+                <trail ALIGN="1"/>
+            </StoryText>
+        </MASTEROBJECT>
+        <MASTEROBJECT XPOS="136.0008" YPOS="74.7216" OwnPage="3" ItemID="757339255" PTYPE="4" WIDTH="345.6" HEIGHT="540" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" LOCKR="1" path="M0 0 L345.6 0 L345.6 540 L0 540 L0 0 Z" copath="M0 0 L345.6 0 L345.6 540 L0 540 L0 0 Z" OnMasterPage="Interior Left" gXpos="506736" gYpos="676903641.65254" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <trail/>
+            </StoryText>
+        </MASTEROBJECT>
+        <MASTEROBJECT XPOS="150.4008" YPOS="74.7216" OwnPage="2" ItemID="757363719" PTYPE="4" WIDTH="345.6" HEIGHT="540" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L345.6 0 L345.6 540 L0 540 L0 0 Z" copath="M0 0 L345.6 0 L345.6 540 L0 540 L0 0 Z" OnMasterPage="Interior Right" gXpos="97000840.4" gYpos="741300053.168927" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <trail/>
+            </StoryText>
+        </MASTEROBJECT>
+        <PAGEOBJECT XPOS="136.0008" YPOS="1432.008" OwnPage="3" ItemID="757298823" PTYPE="4" WIDTH="345.6" HEIGHT="576" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0.1528" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L345.6 0 L345.6 576 L0 576 L0 0 Z" copath="M0 0 L345.6 0 L345.6 576 L0 576 L0 0 Z" gXpos="1.4210854715202e-14" gYpos="0" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <para ALIGN="1"/>
+                <para ALIGN="1"/>
+                <para ALIGN="1"/>
+                <para ALIGN="1"/>
+                <para ALIGN="1"/>
+                <ITEXT FONT="Source Serif Pro SemiBold" FONTSIZE="16" CH="Praktek Menggunakan CSS Preprocessor"/>
+                <para PARENT="Chapter Heading"/>
+                <ITEXT FONT="Source Serif Pro Regular" FONTSIZE="12" CH="Copyright © 2020 E.R. Nurwijayadi"/>
+                <para ALIGN="1"/>
+                <para ALIGN="1"/>
+                <ITEXT CH="Buku ini dilisensikan sebagai CC BY-NC-SA,"/>
+                <para ALIGN="1"/>
+                <ITEXT CH="sehingga selain bebas dibaca buku ini juga bebas digandakan"/>
+                <para ALIGN="1"/>
+                <ITEXT CH="dan diubah untuk keperluan apa saja selain komersial,"/>
+                <para ALIGN="1"/>
+                <ITEXT CH="dengan syarat menyebutkan secara lengkap,"/>
+                <para ALIGN="1"/>
+                <ITEXT CH="nama penulis dan pernyataan lisensi ini,"/>
+                <para ALIGN="1"/>
+                <ITEXT CH="menggunakan lisensi yang sama."/>
+                <para ALIGN="1"/>
+                <para ALIGN="1"/>
+                <para ALIGN="1"/>
+                <para PARENT="Chapter Heading"/>
+                <para PARENT="Chapter Heading"/>
+                <para PARENT="Chapter Heading"/>
+                <para PARENT="Chapter Heading"/>
+                <para PARENT="Chapter Heading"/>
+                <ITEXT FONT="Source Serif Pro SemiBold" FONTSIZE="16" CH="Mengenai E.R. Nurwijayadi"/>
+                <para PARENT="Chapter Heading"/>
+                <para PARENT="Interior Paragraph"/>
+                <ITEXT FONT="Source Serif Pro Regular" FONTSIZE="12" CH="Di media sosial, penulis biasa dipanggil epsi."/>
+                <para PARENT="Interior Paragraph" ALIGN="1"/>
+                <para PARENT="Interior Paragraph" ALIGN="1"/>
+                <para PARENT="Interior Paragraph"/>
+                <ITEXT FONT="Source Serif Pro Regular" FONTSIZE="12" CH="Blog:"/>
+                <para PARENT="Interior Paragraph" ALIGN="1"/>
+                <ITEXT CPARENT="Tautan Link" CH="epsi-rns.gitlab.io"/>
+                <para PARENT="Interior Paragraph" ALIGN="1"/>
+                <ITEXT CPARENT="Tautan Link" CH="epsi-rns.github.io"/>
+                <para PARENT="Interior Paragraph" ALIGN="1"/>
+                <para PARENT="Interior Paragraph" ALIGN="1"/>
+                <ITEXT FONT="Source Serif Pro Regular" FONTSIZE="13" CH=" "/>
+                <trail ALIGN="1"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="582.4008" YPOS="744.0048" OwnPage="2" ItemID="757443639" PTYPE="4" WIDTH="345.6" HEIGHT="576" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L345.6 0 L345.6 576 L0 576 L0 0 Z" copath="M0 0 L345.6 0 L345.6 576 L0 576 L0 0 Z" gXpos="-7.10000000000002" gYpos="0" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <para ALIGN="1"/>
+                <para ALIGN="1"/>
+                <para ALIGN="1"/>
+                <para ALIGN="1"/>
+                <para ALIGN="1"/>
+                <ITEXT FONT="Source Serif Pro SemiBold" FONTSIZE="20" CH="Buku Digital Bebas Unduh"/>
+                <ITEXT CH=" "/>
+                <para ALIGN="1"/>
+                <para ALIGN="1"/>
+                <para ALIGN="1"/>
+                <para ALIGN="1"/>
+                <para ALIGN="1"/>
+                <para ALIGN="1"/>
+                <para ALIGN="1"/>
+                <para ALIGN="1"/>
+                <para ALIGN="1"/>
+                <ITEXT FONT="Source Serif Pro SemiBold" FONTSIZE="24" CH="Praktek Menggunakan"/>
+                <para ALIGN="1" LINESP="40"/>
+                <ITEXT FONT="Source Serif Pro Bold" FONTSIZE="32" CH="CSS Preprocessor"/>
+                <para ALIGN="1" LINESP="40"/>
+                <para ALIGN="1"/>
+                <para ALIGN="1"/>
+                <ITEXT FONT="Source Serif Pro Regular" FONTSIZE="12" CH="Edisi 0.1: November 2020"/>
+                <para ALIGN="1"/>
+                <para/>
+                <ITEXT CH="Target edisi 0.1:"/>
+                <breakline/>
+                <ITEXT CH="Materi sampai bab empat."/>
+                <para ALIGN="1"/>
+                <ITEXT CH="Dekorasi halaman masih sederhana."/>
+                <para ALIGN="1"/>
+                <ITEXT CH="Akan dilanjutkan di edisi 0.2."/>
+                <para ALIGN="1"/>
+                <para ALIGN="1"/>
+                <para ALIGN="1"/>
+                <para ALIGN="1"/>
+                <ITEXT FONT="Source Serif Pro Regular" FONTSIZE="18" CH="Oleh: E.R. Nurwijayadi"/>
+                <para ALIGN="1"/>
+                <ITEXT FONT="Source Serif Pro Regular" FCOLOR="Blue" CH="epsi-rns.gitlab.io"/>
+                <para ALIGN="1"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="582.4008" YPOS="1450.728" OwnPage="4" ItemID="757410935" PTYPE="4" WIDTH="345.6" HEIGHT="540" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0.1528" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L345.6 0 L345.6 540 L0 540 L0 0 Z" copath="M0 0 L345.6 0 L345.6 540 L0 540 L0 0 Z" gXpos="-8.20000000000005" gYpos="-2754.2784" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <para PARENT="Interior Paragraph" ALIGN="1"/>
+                <ITEXT FONT="Source Serif Pro Bold" CH="Prakata"/>
+                <para PARENT="Chapter Heading"/>
+                <para PARENT="Interior Paragraph"/>
+                <ITEXT FONT="Source Serif Pro Regular" FONTSIZE="16" CH="B"/>
+                <ITEXT FONT="Source Serif Pro Regular" CH="uku digital ini ditulis untuk pembaca yang telah memiliki dasar HTML maupun CSS, namun ingin mendalami ilmu stylesheet dengan melakukan kustomisasi lebih lanjut. Pendekatan buku ini adalah langsung ke penerapan sehari-hari, supaya pembaca ada bayangan, mengenai manfaat CSS Preprocessor."/>
+                <para PARENT="Interior Paragraph"/>
+                <para PARENT="Interior Paragraph"/>
+                <ITEXT FONT="Source Serif Pro Regular" CH="Buku ini dibagi menjadi beberapa bab."/>
+                <para PARENT="Interior Paragraph"/>
+                <ITEXT FONT="Source Serif Pro Regular" CH="1. Pengenalan HTML dan CSS"/>
+                <para PARENT="Interior Paragraph No Indent"/>
+                <ITEXT FONT="Source Serif Pro Regular" CH="2. Menggunakan SASS"/>
+                <para PARENT="Interior Paragraph No Indent"/>
+                <ITEXT FONT="Source Serif Pro Regular" CH="3. Menggunakan LESS"/>
+                <para PARENT="Interior Paragraph No Indent"/>
+                <ITEXT FONT="Source Serif Pro Regular" CH="4. Menggunakan PostCSS"/>
+                <para PARENT="Interior Paragraph No Indent"/>
+                <ITEXT FONT="Source Serif Pro Regular" CH="5. Penerapan di Bootstrap"/>
+                <para PARENT="Interior Paragraph No Indent"/>
+                <ITEXT FONT="Source Serif Pro Regular" CH="6. Penerapan di Bulma"/>
+                <para PARENT="Interior Paragraph No Indent"/>
+                <ITEXT FONT="Source Serif Pro Regular" CH="7. Custom CSS dengan Tailwind CSS"/>
+                <para PARENT="Interior Paragraph No Indent"/>
+                <para PARENT="Interior Paragraph"/>
+                <ITEXT FONT="Source Serif Pro Regular" CH="Bagian pertama berisi motivasi untuk belajar CSS Preprocessor, dan gambaran besar secara sistematis mengenai bagaimana pembelajaran ini harus ditempuh tahap demi tahap."/>
+                <para PARENT="Interior Paragraph"/>
+                <para PARENT="Interior Paragraph"/>
+                <ITEXT FONT="Source Serif Pro Regular" CH="Bagian kedua dibagi antara bab kedua sampai keempat, berisi mengenai looping SASS, di dalam CSS Preprocessor. Penulis sengaja memilih looping sebagai contoh kasus, karena sudah mencakup beberapa hal mulai dari penetapan variabel, pairs dan hal lain yang terkait dasar pemrograman."/>
+                <para PARENT="Interior Paragraph"/>
+                <para PARENT="Interior Paragraph"/>
+                <ITEXT FONT="Source Serif Pro Regular" CH="Bagian ketiga berisi penerapan CSS Preprocessor dalam kehidupan nyata. Mulai dari Bootstrap yang popular di masa lalu. Bulma yang ringan, supaya pemula tahu hal lain selain Bootstrap. Dan tentunya Tailwind CSS untuk tingkat yang lebih lanjut."/>
+                <para PARENT="Interior Paragraph"/>
+                <para PARENT="Interior Paragraph"/>
+                <ITEXT FONT="Source Serif Pro Regular" CH="Setelah menguasai CSS sebagai dasar, pembaca dapat beranjak ke buku digital berikutnya."/>
+                <para PARENT="Interior Paragraph italic"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="532.0008" YPOS="20.0016" OwnPage="0" ItemID="757819719" PTYPE="2" WIDTH="432" HEIGHT="648" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="0.5" LOCALSCY="0.5" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" Pagenumber="0" PFILE="cover/css-preprocessor-cover.png" IRENDER="0" EMBEDDED="0" path="M0 0 L432 0 L432 648 L0 648 L0 0 Z" copath="M0 0 L432 0 L432 648 L0 648 L0 0 Z" gXpos="532.0008" gYpos="20.0016" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
+        <PAGEOBJECT XPOS="710.970297029703" YPOS="1212.0048" OwnPage="2" ItemID="757812711" PTYPE="4" WIDTH="100.030502970297" HEIGHT="18.8862891089109" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" ANNOTATION="1" ANTYPE="11" ANACTION="" ANEACT="" ANXACT="" ANDACT="" ANFOACT="" ANBLACT="" ANKACT="" ANFACT="" ANVACT="" ANCACT="" ANEXTERN="https://epsi-rns.gitlab.io/" ANZIEL="2" ANACTYP="8" ANTOOLTIP="" ANBWID="1" ANBSTY="0" ANFEED="1" ANFLAG="0" ANFONT="4" ANFORMAT="0" ANROLL="" ANDOWN="" ANVIS="0" ANMC="-1" ANCHK="0" ANAA="0" ANCHKS="0" ANBCOL="Black" ANHTML="0" ANICON="0" ANPLACE="1" ANSCALE="0" ANITYP="0" ANOPEN="0" ANNAME="Link38" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L100.031 0 L100.031 18.8863 L0 18.8863 L0 0 Z" copath="M0 0 L100.031 0 L100.031 18.8863 L0 18.8863 L0 0 Z" gXpos="710.970297029703" gYpos="1212.0048" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <trail/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="136.0008" YPOS="744.0048" OwnPage="1" ItemID="757824983" PTYPE="4" WIDTH="345.6" HEIGHT="576" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0.1528" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L345.6 0 L345.6 576 L0 576 L0 0 Z" copath="M0 0 L345.6 0 L345.6 576 L0 576 L0 0 Z" gXpos="1.4210854715202e-14" gYpos="0" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <para ALIGN="1"/>
+                <para ALIGN="1"/>
+                <para ALIGN="1"/>
+                <para ALIGN="1"/>
+                <para ALIGN="1"/>
+                <para ALIGN="1"/>
+                <para ALIGN="1"/>
+                <para ALIGN="1"/>
+                <para ALIGN="1"/>
+                <para ALIGN="1"/>
+                <para ALIGN="1"/>
+                <para ALIGN="1"/>
+                <para ALIGN="1"/>
+                <para ALIGN="1"/>
+                <para ALIGN="1"/>
+                <para ALIGN="1"/>
+                <ITEXT CH="Halaman in sengaja dikosongkan."/>
+                <trail ALIGN="1"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="136.0008" YPOS="2138.7312" OwnPage="5" ItemID="758089591" PTYPE="4" WIDTH="345.6" HEIGHT="540" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0.1528" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L345.6 0 L345.6 540 L0 540 L0 0 Z" copath="M0 0 L345.6 0 L345.6 540 L0 540 L0 0 Z" gXpos="1.4210854715202e-14" gYpos="-2754.7752" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="761801879" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT FONT="Source Serif Pro Bold" FCOLOR="Blue 900" CH="Bab Pertama"/>
+                <para PARENT="Chapter Heading"/>
+                <ITEXT FONT="Source Serif Pro SemiBold" FCOLOR="Blue 900" CH="Pengenalan HTML dan CSS"/>
+                <para PARENT="Chapter Heading"/>
+                <ITEXT FONT="Marck Script Regular" FONTSIZE="10" CH="Panduan perjalanan bagi pemula untuk menjadi web developer."/>
+                <para PARENT="Quotes"/>
+                <para PARENT="Quotes"/>
+                <ITEXT FONT="Source Serif Pro Regular" FONTSIZE="16" CH="B"/>
+                <ITEXT FONT="Source Serif Pro Regular" CH="agaiman"/>
+                <ITEXT FONT="Source Serif Pro Regular" FONTSIZE="10" CH="a memulai belajar web development? Jadi sohib ingin membikin sesuatu yang berarti dalam hidup. Sohib ingin memutuskan menjadi pengembang web. Bagaimana seorang pemula harus memulai?"/>
+                <para PARENT="Interior Paragraph"/>
+                <ITEXT FCOLOR="Blue 700" CH="Peran"/>
+                <para PARENT="Heading One"/>
+                <ITEXT CH="Pertama, tetapkan dengan jelas peran sohib ada di mana."/>
+                <para PARENT="Interior Paragraph"/>
+                <ITEXT CH="1."/>
+                <ITEXT FONT="Liberation Serif Regular" CH=" "/>
+                <ITEXT CH="Apakah sohib ingin membikin sesuatu? atau"/>
+                <para PARENT="Interior Paragraph No Indent"/>
+                <ITEXT FONT="Source Serif Pro Regular" CH="2. Apakah sohib ingin orang lain untuk membikinkan sesuatu untuk sohib."/>
+                <para PARENT="Interior Paragraph No Indent"/>
+                <ITEXT CH="Saya ingin menjadi pembikin sesuatu."/>
+                <para PARENT="Heading Two"/>
+                <ITEXT CH="Maka sohib harus belajar cara membikin sesuatu."/>
+                <para PARENT="Interior Paragraph"/>
+                <ITEXT CH="Saya ingin seseorang membikinkan sesuatu untuk saya."/>
+                <para PARENT="Heading Two"/>
+                <ITEXT CH="Maka sohib harus memperkerjakan pegawai. Atau membeli aplikasi dari "/>
+                <ITEXT CPARENT="Terminology" CH="software house"/>
+                <ITEXT CH="."/>
+                <para PARENT="Interior Paragraph"/>
+                <ITEXT CH="Peta Jalan"/>
+                <para PARENT="Heading Two"/>
+                <ITEXT CH="Suatu website yaitu "/>
+                <ITEXT CPARENT="Tautan Link" FEATURES="inherit underline" TXTULP="50" TXTULW="5" CH="roadmap.sh"/>
+                <ITEXT CH=", dengan lugas membagi peran para pengembang web sebagai berikut:"/>
+                <para PARENT="Interior Paragraph"/>
+                <ITEXT CPARENT="Terminology" CH="Frontend"/>
+                <para PARENT="Butir Pikiran"/>
+                <ITEXT CPARENT="Terminology" CH="Backend"/>
+                <para PARENT="Butir Pikiran"/>
+                <ITEXT CPARENT="Terminology" CH="Devops"/>
+                <para PARENT="Butir Pikiran"/>
+                <ITEXT CH="Bila ketiga hal tersebut digabungkan maka dikenal istilah lain yaitu "/>
+                <ITEXT CPARENT="Terminology" CH="full stack web developer"/>
+                <ITEXT CH=". Dari sudut pandang secara umum, perusahaan yang memberikan lowongan pekerjaan "/>
+                <ITEXT CPARENT="Terminology" CH="fullstack web developer"/>
+                <ITEXT CH=", akan tampak memiliki anggaran kecil, walaupun ini bukan patokan."/>
+                <para PARENT="Interior Paragraph"/>
+                <ITEXT CH="Mobile"/>
+                <para PARENT="Heading Two"/>
+                <ITEXT CH="Perlu dipahami pula bahwa pengembangan aplikasi berupa "/>
+                <ITEXT CPARENT="Terminology" CH="mobile development"/>
+                <ITEXT CH=", berbeda dengan "/>
+                <ITEXT CPARENT="Terminology" CH="web development"/>
+                <ITEXT CH="."/>
+                <para PARENT="Interior Paragraph"/>
+                <para PARENT="Heading One"/>
+                <ITEXT CH="Belajar Mandiri"/>
+                <para PARENT="Heading One"/>
+                <ITEXT CH="Di Mana Belajar?"/>
+                <para PARENT="Heading Two"/>
+                <ITEXT CH="Bila sohib adalah pemula, maka mulailah dari beberapa situs berikut:"/>
+                <para PARENT="Interior Paragraph"/>
+                <ITEXT CPARENT="Tautan Link" CH="w3schools.com"/>
+                <para PARENT="Butir Pikiran"/>
+                <ITEXT CPARENT="Tautan Link" CH="roadmap.sh"/>
+                <para PARENT="Butir Pikiran"/>
+                <para PARENT="Interior Paragraph"/>
+                <ITEXT CH="Yang biasa penulis lakukan adalah meminta pemula untuk membaca "/>
+                <ITEXT CPARENT="Tautan Link" CH="w3schools.com"/>
+                <ITEXT CH=". Dan untuk yang bukan pemula saya meminta untuk menelusuri diagram-diagram yang terdapat di "/>
+                <ITEXT CPARENT="Tautan Link" CH="roadmap.sh"/>
+                <ITEXT CH="."/>
+                <para PARENT="Interior Paragraph"/>
+                <para PARENT="Interior Paragraph"/>
+                <ITEXT CH="Bilamana dibutuhkan masih ada beberapa lagi."/>
+                <para PARENT="Interior Paragraph"/>
+                <ITEXT CPARENT="Tautan Link" CH="css-tricks.com"/>
+                <para PARENT="Butir Pikiran"/>
+                <ITEXT CPARENT="Tautan Link" CH="https://google.github.io/styleguide/htmlcssguide.html"/>
+                <para PARENT="Butir Pikiran"/>
+                <para PARENT="Interior Paragraph"/>
+                <ITEXT CH="Penulis sendiri menulis presentasi di blog."/>
+                <para PARENT="Interior Paragraph"/>
+                <ITEXT CPARENT="Tautan Link" CH="https://epsi-rns.gitlab.io/frontend/2020/10/11/slides-concept-css/"/>
+                <para PARENT="Butir Pikiran"/>
+                <para PARENT="Interior Paragraph"/>
+                <ITEXT CH="Bilamana sohib membutuhkan panduan langkah demi langkah, maka "/>
+                <ITEXT CPARENT="Tautan Link" CH="youtube.com"/>
+                <ITEXT CH=" adalah rujukan yang cukup bagus. Banyak kanal yang bagus yang dapat ditonton, baik yang berbahasa Inggris, maupun yang berbahasa Indonesia."/>
+                <para PARENT="Interior Paragraph"/>
+                <para/>
+                <ITEXT CH="Keahlian Dasar Wajib di Komunitas"/>
+                <para PARENT="Heading Two"/>
+                <ITEXT CH="Berdiskusilah di group, dan hindari jalur pribadi kalau tidak kenal."/>
+                <para PARENT="Butir Pikiran"/>
+                <ITEXT CH="Tips: Buatlah catatan harian."/>
+                <para PARENT="Butir Pikiran"/>
+                <para/>
+                <ITEXT CH="1. Bahasa Inggris wajib paham."/>
+                <para/>
+                <ITEXT CH="2. Mengetahui cara mencari di "/>
+                <ITEXT CPARENT="Tautan Link" CH="google.com"/>
+                <ITEXT CH=" atau "/>
+                <ITEXT CPARENT="Tautan Link" CH="stackoverflow.com"/>
+                <ITEXT CH="."/>
+                <para/>
+                <ITEXT CH="3. Mampu membaca dokumentasi resmi dan buku panduan "/>
+                <ITEXT CPARENT="Terminology" CH="manual"/>
+                <ITEXT CH="."/>
+                <para/>
+                <ITEXT CH="4. Mengetahui cara membikin tangkapan layar ("/>
+                <ITEXT CPARENT="Terminology" CH="screenshot"/>
+                <ITEXT CH=") untuk group."/>
+                <para/>
+                <ITEXT CH="5. Mengetahui cara berkomunikasi dengan baik di dalam group."/>
+                <para/>
+                <para/>
+                <ITEXT CH="Membaca, Menulis, Berbagi."/>
+                <para PARENT="Quotes"/>
+                <para/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="582.4008" YPOS="2138.7312" OwnPage="6" ItemID="761801879" PTYPE="4" WIDTH="345.6" HEIGHT="540" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0.1528" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L345.6 0 L345.6 540 L0 540 L0 0 Z" copath="M0 0 L345.6 0 L345.6 540 L0 540 L0 0 Z" gXpos="-7.60000000000002" gYpos="-2066.772" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="758089591"/>
+        <PAGEOBJECT XPOS="136.0008" YPOS="2826.7344" OwnPage="7" ItemID="761794471" PTYPE="4" WIDTH="345.6" HEIGHT="540" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0.1528" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L345.6 0 L345.6 540 L0 540 L0 0 Z" copath="M0 0 L345.6 0 L345.6 540 L0 540 L0 0 Z" gXpos="1.4210854715202e-14" gYpos="-2754.7752" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT CH="Pendekatan"/>
+                <para PARENT="Heading One"/>
+                <ITEXT CPARENT="Terminology" CH="Stack"/>
+                <ITEXT CH=" secara umum: "/>
+                <ITEXT CPARENT="Code" CH="html+css+js"/>
+                <ITEXT CH="."/>
+                <para PARENT="Butir Pikiran"/>
+                <para ALIGN="0"/>
+                <ITEXT CH="Terdiri Dari Apakah Halaman Web?"/>
+                <para PARENT="Heading Two"/>
+                <ITEXT CH="Suatu halaman web sebetulnya hanya berisi ini"/>
+                <para PARENT="Interior Paragraph"/>
+                <ITEXT CH="1. "/>
+                <ITEXT CPARENT="Terminology" CH="Structure"/>
+                <ITEXT CH=" + "/>
+                <ITEXT CPARENT="Terminology" CH="Presentation"/>
+                <ITEXT CH=" + "/>
+                <ITEXT CPARENT="Terminology" CH="Behaviour"/>
+                <para PARENT="Interior Paragraph No Indent"/>
+                <ITEXT CH="2. "/>
+                <ITEXT CPARENT="Terminology" CH="Custom User Content"/>
+                <ITEXT CH=": Teks dan gambar (atau media lain)."/>
+                <para PARENT="Interior Paragraph No Indent"/>
+                <para PARENT="Interior Paragraph No Indent"/>
+                <ITEXT CH="Yang pertama adalah, "/>
+                <ITEXT CPARENT="Terminology" CH="stack"/>
+                <ITEXT CH=" yang kita kenal sebagai "/>
+                <ITEXT CPARENT="Code" CH="html+css+js"/>
+                <ITEXT CH=". Sedangkan yang kedua adalah, isi apa saja yang dapat dimasukkan ke dalam berkas halaman tersebut."/>
+                <para ALIGN="0"/>
+                <para ALIGN="0"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="136.0008" YPOS="2988.0144" OwnPage="7" ItemID="762221959" PTYPE="2" WIDTH="345.6" HEIGHT="194.4" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" TEXTFLOWMODE="1" LOCALSCX="0.432" LOCALSCY="0.432" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="0" RATIO="1" Pagenumber="0" PFILE="illustration/preface-css-concept-page.png" IRENDER="0" EMBEDDED="0" path="M0 0 L345.6 0 L345.6 194.4 L0 194.4 L0 0 Z" copath="M0 0 L345.6 0 L345.6 194.4 L0 194.4 L0 0 Z" gXpos="136.0008" gYpos="2988.0144" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
+        <PAGEOBJECT XPOS="582.4008" YPOS="2826.7344" OwnPage="8" ItemID="762245159" PTYPE="4" WIDTH="345.6" HEIGHT="540" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0.1528" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L345.6 0 L345.6 540 L0 540 L0 0 Z" copath="M0 0 L345.6 0 L345.6 540 L0 540 L0 0 Z" gXpos="-8.20000000000016" gYpos="-2754.2784" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT CH="Secara Teknis"/>
+                <para PARENT="Heading Two"/>
+                <ITEXT CH="Bagaimana cara menerangkan dari hal dasar ke era modern?"/>
+                <para PARENT="Butir Pikiran"/>
+                <para ALIGN="0"/>
+                <para ALIGN="0"/>
+                <para ALIGN="0"/>
+                <para ALIGN="0"/>
+                <para ALIGN="0"/>
+                <para ALIGN="0"/>
+                <para ALIGN="0"/>
+                <para ALIGN="0"/>
+                <para ALIGN="0"/>
+                <para ALIGN="0"/>
+                <para/>
+                <para PARENT="Heading Two"/>
+                <ITEXT CH="Ikatan Tersembunyi"/>
+                <para PARENT="Heading Two"/>
+                <ITEXT CH="Tidak adanya panduan lengkap mengenai "/>
+                <ITEXT CPARENT="Terminology" CH="template engine"/>
+                <ITEXT CH="."/>
+                <para PARENT="Butir Pikiran"/>
+                <para ALIGN="0"/>
+                <para ALIGN="0"/>
+                <para ALIGN="0"/>
+                <para ALIGN="0"/>
+                <para ALIGN="0"/>
+                <para ALIGN="0"/>
+                <para ALIGN="0"/>
+                <para ALIGN="0"/>
+                <para ALIGN="0"/>
+                <para ALIGN="0"/>
+                <para ALIGN="0"/>
+                <para ALIGN="0"/>
+                <ITEXT CH="Ya, ada celah kekurangan, di dalam "/>
+                <ITEXT CPARENT="Terminology" CH="tutorial"/>
+                <ITEXT CH=" untuk "/>
+                <ITEXT CPARENT="Terminology" CH="web development "/>
+                <ITEXT CH="pada umumnya."/>
+                <trail ALIGN="0"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="683.2008" YPOS="2887.2144" OwnPage="8" ItemID="762026407" PTYPE="2" WIDTH="131.9976" HEIGHT="144" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="0.479991272727273" LOCALSCY="0.479991272727273" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="0" RATIO="1" Pagenumber="0" PFILE="illustration/html-css-js.png" IRENDER="0" EMBEDDED="0" path="M0 0 L131.998 0 L131.998 144 L0 144 L0 0 Z" copath="M0 0 L131.998 0 L131.998 144 L0 144 L0 0 Z" gXpos="683.2008" gYpos="2887.2144" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
+        <PAGEOBJECT XPOS="647.2008" YPOS="3103.2144" OwnPage="8" ItemID="762045639" PTYPE="2" WIDTH="203.9976" HEIGHT="144" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="0.479994352941176" LOCALSCY="0.479994352941176" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="0" RATIO="1" Pagenumber="0" PFILE="illustration/preprocessor.png" IRENDER="0" EMBEDDED="0" path="M0 0 L203.998 0 L203.998 144 L0 144 L0 0 Z" copath="M0 0 L203.998 0 L203.998 144 L0 144 L0 0 Z" gXpos="647.2008" gYpos="3103.2144" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
+        <PAGEOBJECT XPOS="136.0008" YPOS="3514.7376" OwnPage="9" ItemID="759074151" PTYPE="4" WIDTH="345.6" HEIGHT="540" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0.1528" AUTOTEXT="1" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L345.6 0 L345.6 540 L0 540 L0 0 Z" copath="M0 0 L345.6 0 L345.6 540 L0 540 L0 0 Z" gXpos="136.0008" gYpos="3514.7376" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="763892151" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT CH="HTML"/>
+                <para PARENT="Heading One"/>
+                <ITEXT CH="Lebih mudah untuk belajar HTML yang murni, dengan pendekatan template engine."/>
+                <para PARENT="Butir Pikiran"/>
+                <para/>
+                <ITEXT CPARENT="Code" CH="HTML5"/>
+                <ITEXT CH=" adalah topik yang luas. "/>
+                <ITEXT CPARENT="Code" CH="HTML5"/>
+                <ITEXT CH=" bukan hanya terkait "/>
+                <ITEXT CPARENT="Code" CH="HTML"/>
+                <ITEXT CH=" tag. Pertimbangkanlah untuk mempelajari dahulu hanya bagian dasarnya saja, kemudian langsung praktekkan untuk membuat berkas "/>
+                <ITEXT CPARENT="Code" CH="HTML"/>
+                <ITEXT CH=", di dalam suuatu proyek pribadi yang sederhana. "/>
+                <ITEXT CPARENT="Terminology" CH="Blog"/>
+                <ITEXT CH=" atau "/>
+                <ITEXT CPARENT="Terminology" CH="portfolio"/>
+                <ITEXT CH=", adalah pilihan bagus untuk proyek pirbadi yang sederhana. Ini disebabkan karena untuk membikin suatu "/>
+                <ITEXT CPARENT="Terminology" CH="blog"/>
+                <ITEXT CH=", tidak ada beban untuk membuat "/>
+                <ITEXT CPARENT="Terminology" CH="database"/>
+                <ITEXT CH=" yang rumit, dan juga tidada kebutuhan untuk melakukan otentikasi melalui "/>
+                <ITEXT CPARENT="Terminology" CH="login"/>
+                <ITEXT CH="."/>
+                <para PARENT="Interior Paragraph"/>
+                <para/>
+                <ITEXT CH="Langkah-langkah-nya adalah semudah berikut ini:"/>
+                <para PARENT="Interior Paragraph"/>
+                <ITEXT CH="1. Dasar "/>
+                <ITEXT CPARENT="Code" CH="HTML"/>
+                <ITEXT CH=": "/>
+                <ITEXT CPARENT="Tautan Link" CH="w3schools.com/html/"/>
+                <ITEXT CH="."/>
+                <para PARENT="Interior Paragraph No Indent"/>
+                <ITEXT CH="2. "/>
+                <ITEXT CPARENT="Terminology" CH="Template Engine"/>
+                <ITEXT CH=": Bersama dengan "/>
+                <ITEXT CPARENT="Terminology" CH="Task Runner"/>
+                <ITEXT CH="."/>
+                <para PARENT="Interior Paragraph No Indent"/>
+                <ITEXT CH="3. "/>
+                <ITEXT CPARENT="Terminology" CH="Static Site Generator"/>
+                <ITEXT CH=": Situs lengkap, tanpa "/>
+                <ITEXT CPARENT="Terminology" CH="backend"/>
+                <ITEXT CH=" yang rumit."/>
+                <para PARENT="Interior Paragraph No Indent"/>
+                <ITEXT CH="4. "/>
+                <ITEXT CPARENT="Terminology" CH="Backend Web Framework"/>
+                <ITEXT CH=": "/>
+                <ITEXT CPARENT="Code" CH="Laravel"/>
+                <ITEXT CH=", "/>
+                <ITEXT CPARENT="Code" CH="Flask"/>
+                <ITEXT CH=", "/>
+                <ITEXT CPARENT="Code" CH="RoR"/>
+                <ITEXT CH=", "/>
+                <ITEXT CPARENT="Code" CH="Koa"/>
+                <ITEXT CH=", "/>
+                <ITEXT CPARENT="Code" CH="Express"/>
+                <ITEXT CH="."/>
+                <para PARENT="Interior Paragraph No Indent"/>
+                <ITEXT CH="5. "/>
+                <ITEXT CPARENT="Terminology" CH="Modern Web Framework"/>
+                <ITEXT CH=": "/>
+                <ITEXT CPARENT="Code" CH="Svelte"/>
+                <ITEXT CH=", "/>
+                <ITEXT CPARENT="Code" CH="React"/>
+                <ITEXT CH=", "/>
+                <ITEXT CPARENT="Code" CH="Vue"/>
+                <ITEXT CH="."/>
+                <para PARENT="Interior Paragraph No Indent"/>
+                <para/>
+                <ITEXT CH="Template engine adalah bidang backend."/>
+                <para PARENT="Quotes"/>
+                <para/>
+                <ITEXT CH="Stylesheet"/>
+                <para PARENT="Heading One"/>
+                <ITEXT CH="Bagian yang tersembunyi adalah "/>
+                <ITEXT CPARENT="Code" CH="CSS Preprocessors"/>
+                <ITEXT CH="."/>
+                <para PARENT="Butir Pikiran"/>
+                <para/>
+                <ITEXT CH="Sohib dapat belajar menggunakan "/>
+                <ITEXT CPARENT="Code" CH="CSS Framework"/>
+                <ITEXT CH=", lalu belajar menggunakan "/>
+                <ITEXT CPARENT="Code" CH="CSS Preprocessor"/>
+                <ITEXT CH=", lalu kembali untuk melakukan kustomisasi di "/>
+                <ITEXT CPARENT="Code" CH="CSS Framework"/>
+                <ITEXT CH="."/>
+                <para PARENT="Interior Paragraph"/>
+                <para PARENT="Interior Paragraph"/>
+                <para PARENT="Interior Paragraph"/>
+                <ITEXT CH="Langkah-langkah-nya adalah semudah berikut ini:"/>
+                <para PARENT="Interior Paragraph"/>
+                <ITEXT CH="1. Dasar "/>
+                <ITEXT CPARENT="Code" CH="CSS"/>
+                <ITEXT CH=": "/>
+                <ITEXT CPARENT="Tautan Link" CH="w3schools.com/css/"/>
+                <para PARENT="Interior Paragraph No Indent"/>
+                <ITEXT CH="2. "/>
+                <ITEXT CPARENT="Terminology" CH="CSS Frameworks"/>
+                <ITEXT CH=": Misalnya "/>
+                <ITEXT CPARENT="Code" CH="Bulma"/>
+                <ITEXT CH=", "/>
+                <ITEXT CPARENT="Code" CH="Materialize CSS"/>
+                <ITEXT CH=", atau "/>
+                <ITEXT CPARENT="Code" CH="Semantic UI"/>
+                <ITEXT CH="."/>
+                <para PARENT="Interior Paragraph No Indent"/>
+                <ITEXT CH="3. "/>
+                <ITEXT CPARENT="Terminology" CH="CSS Preprocessors"/>
+                <ITEXT CH=": Untuk membikin tambahan kustomisasi "/>
+                <ITEXT CPARENT="Code" CH="CSS"/>
+                <para PARENT="Interior Paragraph No Indent"/>
+                <ITEXT CH="4. "/>
+                <ITEXT CPARENT="Terminology" CH="CSS Tools"/>
+                <ITEXT CH=": "/>
+                <ITEXT CPARENT="Terminology" CH="Task Runner"/>
+                <ITEXT CH=", ataupun "/>
+                <ITEXT CPARENT="Terminology" CH="Bundler"/>
+                <ITEXT CH="."/>
+                <para PARENT="Interior Paragraph No Indent"/>
+                <ITEXT CH="5. "/>
+                <ITEXT CPARENT="Terminology" CH="Custom CSS"/>
+                <ITEXT CH=": Tanpa "/>
+                <ITEXT CPARENT="Terminology" CH="Framework"/>
+                <ITEXT CH=", atau dengan "/>
+                <ITEXT CPARENT="Code" CH="Tailwind CSS"/>
+                <ITEXT CH="."/>
+                <para PARENT="Interior Paragraph No Indent"/>
+                <para/>
+                <ITEXT CH="Stylesheet adalah bidang frontend."/>
+                <para PARENT="Quotes"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="582.4008" YPOS="3514.7376" OwnPage="10" ItemID="763892151" PTYPE="4" WIDTH="345.6" HEIGHT="540" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0.1528" AUTOTEXT="1" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L345.6 0 L345.6 540 L0 540 L0 0 Z" copath="M0 0 L345.6 0 L345.6 540 L0 540 L0 0 Z" gXpos="582.4008" gYpos="3514.7376" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="759074151"/>
+        <PAGEOBJECT XPOS="136.0008" YPOS="3719.2176" OwnPage="9" ItemID="763917127" PTYPE="2" WIDTH="345.6" HEIGHT="194.4" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" TEXTFLOWMODE="1" LOCALSCX="0.432" LOCALSCY="0.432" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="0" RATIO="1" Pagenumber="0" PFILE="illustration/preface-learning-html-step-by-step.png" IRENDER="0" EMBEDDED="0" path="M0 0 L345.6 0 L345.6 194.4 L0 194.4 L0 0 Z" copath="M0 0 L345.6 0 L345.6 194.4 L0 194.4 L0 0 Z" gXpos="136.0008" gYpos="3719.2176" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
+        <PAGEOBJECT XPOS="582.4008" YPOS="3632.8176" OwnPage="10" ItemID="765765479" PTYPE="2" WIDTH="345.6" HEIGHT="194.4" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" TEXTFLOWMODE="1" LOCALSCX="0.432" LOCALSCY="0.432" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="0" RATIO="1" Pagenumber="0" PFILE="illustration/preface-learning-css-step-by-step.png" IRENDER="0" EMBEDDED="0" path="M0 0 L345.6 0 L345.6 194.4 L0 194.4 L0 0 Z" copath="M0 0 L345.6 0 L345.6 194.4 L0 194.4 L0 0 Z" gXpos="582.4008" gYpos="3632.8176" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
+        <PAGEOBJECT XPOS="136.0008" YPOS="4202.7408" OwnPage="11" ItemID="765756295" PTYPE="4" WIDTH="345.6" HEIGHT="540" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0.1528" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L345.6 0 L345.6 540 L0 540 L0 0 Z" copath="M0 0 L345.6 0 L345.6 540 L0 540 L0 0 Z" gXpos="136.0008" gYpos="4202.7408" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT CH="Javascript"/>
+                <para PARENT="Heading One"/>
+                <ITEXT CH="tidak dibahas di sini."/>
+                <para PARENT="Butir Pikiran"/>
+                <ITEXT CH="Javascript adalah topik yang sangat luas, dan layak mendapatkan penjelasan yang khusus."/>
+                <para/>
+                <ITEXT CH="Content"/>
+                <para PARENT="Heading One"/>
+                <ITEXT CPARENT="Terminology" CH="Content"/>
+                <ITEXT CH=" ini dapat berisi macam-macam, misalnya untuk sistem informasi content dapat berupa "/>
+                <ITEXT CPARENT="Terminology" CH="database"/>
+                <ITEXT CH=". Sedangkan di media sosial, "/>
+                <ITEXT CPARENT="Terminology" CH="content"/>
+                <ITEXT CH=" dapat berupa "/>
+                <ITEXT CPARENT="Terminology" CH="chat"/>
+                <ITEXT CH="."/>
+                <para PARENT="Interior Paragraph"/>
+                <ITEXT CH="Untuk proyek sederhana, misalnya "/>
+                <ITEXT CPARENT="Terminology" CH="blogging"/>
+                <ITEXT CH=" ataupun pembikinan "/>
+                <ITEXT CPARENT="Terminology" CH="portfolio"/>
+                <ITEXT CH=", maka sohib harus membikin "/>
+                <ITEXT CPARENT="Terminology" CH="content"/>
+                <ITEXT CH=" sendiri. Karena itu perlu ada keahlian tambahan, yaitu untuk mendapat teks yang tepat dan mengolah gambar dengan baik."/>
+                <para PARENT="Interior Paragraph"/>
+                <para/>
+                <ITEXT CH="1. Teks"/>
+                <para PARENT="Interior Paragraph No Indent"/>
+                <ITEXT CH="Belajar menulis esai."/>
+                <para PARENT="Butir Pikiran"/>
+                <ITEXT CH="Bahasa Inggris, ataupun bahasa Indonesia, yang tepat."/>
+                <para PARENT="Butir Pikiran"/>
+                <ITEXT CH="2. Gambar"/>
+                <para PARENT="Interior Paragraph No Indent"/>
+                <ITEXT CH="Mengambil gambar dengan "/>
+                <ITEXT CPARENT="Terminology" CH="smartphone"/>
+                <ITEXT CH="."/>
+                <para PARENT="Butir Pikiran"/>
+                <ITEXT CH="Membikin ilustrasi "/>
+                <ITEXT CPARENT="Terminology" CH="raster"/>
+                <ITEXT CH=": belajar menggunakan "/>
+                <ITEXT CPARENT="Code" CH="GIMP"/>
+                <ITEXT CH="."/>
+                <para PARENT="Butir Pikiran"/>
+                <ITEXT CH="Membikin ilustrasi "/>
+                <ITEXT CPARENT="Terminology" CH="vektor"/>
+                <ITEXT CH=": belajar menggunakan "/>
+                <ITEXT CPARENT="Code" CH="Inkscape"/>
+                <ITEXT CH="."/>
+                <para PARENT="Butir Pikiran"/>
+                <ITEXT CH="Penutup"/>
+                <para PARENT="Heading One"/>
+                <ITEXT CH="Pahami konsepnya, alih-alih hanya sekedar belajar cara memakai sesuatu."/>
+                <para PARENT="Interior Paragraph"/>
+                <para/>
+                <ITEXT CH="Mari bersenang-senang dengan melakukan coding."/>
+                <trail PARENT="Quotes"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="582.4008" YPOS="4202.7408" OwnPage="12" ItemID="765659767" PTYPE="4" WIDTH="345.6" HEIGHT="540" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0.1528" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L345.6 0 L345.6 540 L0 540 L0 0 Z" copath="M0 0 L345.6 0 L345.6 540 L0 540 L0 0 Z" gXpos="14.4" gYpos="18.7200000000003" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <para ALIGN="1"/>
+                <para ALIGN="1"/>
+                <para ALIGN="1"/>
+                <para ALIGN="1"/>
+                <para ALIGN="1"/>
+                <para ALIGN="1"/>
+                <para ALIGN="1"/>
+                <para ALIGN="1"/>
+                <para ALIGN="1"/>
+                <para ALIGN="1"/>
+                <para ALIGN="1"/>
+                <para ALIGN="1"/>
+                <para ALIGN="1"/>
+                <para ALIGN="1"/>
+                <para ALIGN="1"/>
+                <para ALIGN="1"/>
+                <ITEXT CH="Halaman in sengaja dikosongkan."/>
+                <trail ALIGN="1"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="136.0008" YPOS="4890.744" OwnPage="13" ItemID="763935415" PTYPE="4" WIDTH="345.6" HEIGHT="540" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0.1528" AUTOTEXT="1" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L345.6 0 L345.6 540 L0 540 L0 0 Z" copath="M0 0 L345.6 0 L345.6 540 L0 540 L0 0 Z" gXpos="136.0008" gYpos="4890.744" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="769229655" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT FONT="Source Serif Pro Bold" FCOLOR="Blue 900" CH="Bab "/>
+                <ITEXT CH="Kedua"/>
+                <para PARENT="Chapter Heading"/>
+                <ITEXT FONT="Source Serif Pro SemiBold" FCOLOR="Blue 900" CH="Menggunakan SASS"/>
+                <para PARENT="Chapter Heading"/>
+                <ITEXT CH="Mulai dari yang mudah dan popular."/>
+                <para PARENT="Quotes"/>
+                <ITEXT CH="Makan bubur mulai dari pinggirnya."/>
+                <para PARENT="Quotes"/>
+                <para PARENT="Quotes"/>
+                <ITEXT FONT="Source Serif Pro Regular" FONTSIZE="16" CH="M"/>
+                <ITEXT FONT="Source Serif Pro Regular" CH="ari kita memulai dengan mempersiapkan lingkungan SASS, baru kemudian masuk ke urusan "/>
+                <ITEXT CPARENT="Terminology" CH="coding"/>
+                <ITEXT FONT="Source Serif Pro Regular" CH="."/>
+                <para PARENT="Interior Paragraph"/>
+                <ITEXT CH="Mempersiapkan Lingkungan"/>
+                <para PARENT="Heading One"/>
+                <ITEXT CH="Penulis sudah lama menjadi pengguna "/>
+                <ITEXT CPARENT="Code" CH="GNU/Linux"/>
+                <ITEXT CH=", yang untuk selanjutnya saya sebut saja dengan kata "/>
+                <ITEXT CPARENT="Code" CH="Linux"/>
+                <ITEXT CH=", karena tidak semua "/>
+                <ITEXT CPARENT="Code" CH="Linux"/>
+                <ITEXT CH=" memakai "/>
+                <ITEXT CPARENT="Code" CH="GNU"/>
+                <ITEXT CH=". Yang lebih penting adalah pembaca paham maksudnya. Ternyata "/>
+                <ITEXT CPARENT="Code" CH="Linux"/>
+                <ITEXT CH=" sangat memudahkan "/>
+                <ITEXT CPARENT="Terminology" CH="programmer"/>
+                <ITEXT CH=" untuk  menjadi nyaman dalam keseharian. Bagaimanapun penulis juga sadar, kalau kebanyakan pemula adalah pengguna "/>
+                <ITEXT CPARENT="Code" CH="Windows."/>
+                <ITEXT CH=" Maka penulis mencoba sebisanya mempersiapkan lingkungan di "/>
+                <ITEXT CPARENT="Code" CH="Windows"/>
+                <ITEXT CH=". Kebetulan penulis tidak pernah memakai "/>
+                <ITEXT CPARENT="Code" CH="Windows 10"/>
+                <ITEXT CH=". Maka harap maklum kalau contoh yang diberikan adalah "/>
+                <ITEXT CPARENT="Code" CH="Windows 7"/>
+                <ITEXT CH="."/>
+                <para PARENT="Interior Paragraph"/>
+                <ITEXT CH="Command Line Interface"/>
+                <para PARENT="Heading Two"/>
+                <ITEXT CH="Lingkungan apa yang perlu dipersiapkan? Yaitu membiasakan diri menggunakan "/>
+                <ITEXT CPARENT="Code" CH="CLI"/>
+                <ITEXT CH=" ("/>
+                <ITEXT CPARENT="Terminology" CH="command line interface"/>
+                <ITEXT CH=") ataupun dikenal juga dengan istilah "/>
+                <ITEXT CPARENT="Terminology" CH="terminal shell"/>
+                <ITEXT CH=". Kalau di "/>
+                <ITEXT CPARENT="Code" CH="Windows"/>
+                <ITEXT CH=" dapat memakai "/>
+                <ITEXT CPARENT="Code" CH="MS-DOS prompt"/>
+                <ITEXT CH=" ("/>
+                <ITEXT CPARENT="Code" CH="cmd"/>
+                <ITEXT CH="), atau dengan "/>
+                <ITEXT CPARENT="Code" CH="powershell"/>
+                <ITEXT CH=". Sedangkan di "/>
+                <ITEXT CPARENT="Code" CH="Linux"/>
+                <ITEXT CH=" pilihannya banyak karena sifatnya yang modular. Misalnya shell dapat menggunakan "/>
+                <ITEXT CPARENT="Code" CH="bash"/>
+                <ITEXT CH=", atau "/>
+                <ITEXT CPARENT="Code" CH="zsh"/>
+                <ITEXT CH=". Sedangkan "/>
+                <ITEXT CPARENT="Terminology" CH="terminal"/>
+                <ITEXT CH="-nya dapat memakai "/>
+                <ITEXT CPARENT="Code" CH="xfce4-terminal"/>
+                <ITEXT CH=", "/>
+                <ITEXT CPARENT="Code" CH="urxvt"/>
+                <ITEXT CH=", atau "/>
+                <ITEXT CPARENT="Code" CH="st"/>
+                <ITEXT CH=" ("/>
+                <ITEXT CPARENT="Terminology" CH="simple terminal"/>
+                <ITEXT CH=")."/>
+                <para PARENT="Interior Paragraph"/>
+                <ITEXT CH="Lingkungan Windows 7"/>
+                <para PARENT="Heading One"/>
+                <ITEXT CH="Dukungan "/>
+                <ITEXT CPARENT="Terminology" CH="terminal"/>
+                <ITEXT CH=" di "/>
+                <ITEXT CPARENT="Code" CH="Windows 7"/>
+                <ITEXT CH=" masih sangat terbatas. Untungnya ada beberapa peralatan tambahan dari pihak ketiga yang dapat kita pakai:"/>
+                <para PARENT="Interior Paragraph"/>
+                <ITEXT CPARENT="Code" CH="cmder"/>
+                <ITEXT CH=": "/>
+                <ITEXT CPARENT="Terminology" CH="terminal"/>
+                <ITEXT CH=" yang dengan tampilan "/>
+                <ITEXT CPARENT="Terminology" CH="cantique"/>
+                <ITEXT CH=", sebagai pengganti "/>
+                <ITEXT CPARENT="Code" CH="cmd"/>
+                <ITEXT CH=" di  "/>
+                <ITEXT CPARENT="Code" CH="Windows 7"/>
+                <ITEXT CH="."/>
+                <para PARENT="Butir Pikiran"/>
+                <ITEXT CPARENT="Code" CH="chocolatey"/>
+                <ITEXT CH=": "/>
+                <ITEXT CPARENT="Terminology" CH="package manager"/>
+                <ITEXT CH=" untuk "/>
+                <ITEXT CPARENT="Code" CH="Windows"/>
+                <para PARENT="Butir Pikiran"/>
+                <ITEXT CPARENT="Code" CH="schoop"/>
+                <ITEXT CH=": "/>
+                <ITEXT CPARENT="Terminology" CH="installer"/>
+                <ITEXT CH=" alternatif, selain dari "/>
+                <ITEXT CPARENT="Code" CH="chocolatey"/>
+                <ITEXT CH="."/>
+                <para PARENT="Butir Pikiran"/>
+                <para PARENT="Interior Paragraph"/>
+                <para PARENT="Interior Paragraph"/>
+                <ITEXT CH="Setelah beberapa saat, beberapa aplikasi tambahan yang tersebut dapat membuat "/>
+                <ITEXT CPARENT="Code" CH="Windows"/>
+                <ITEXT CH=" nyaman dipakai lagi. Sebagai kombinasi dari "/>
+                <ITEXT CPARENT="Code" CH="choco"/>
+                <ITEXT CH=" and "/>
+                <ITEXT CPARENT="Code" CH="cmder"/>
+                <ITEXT CH=", jadinya kita memiliki "/>
+                <ITEXT CPARENT="Terminology" CH="package manager"/>
+                <ITEXT CH=" di dalam "/>
+                <ITEXT CPARENT="Terminology" CH="terminal"/>
+                <ITEXT CH=" yang "/>
+                <ITEXT CPARENT="Terminology" CH="cantique"/>
+                <ITEXT CH=". Sebagai pengguna "/>
+                <ITEXT CPARENT="Code" CH="Linux"/>
+                <ITEXT CH=", saya merasa seolah berada di rumah lagi."/>
+                <para PARENT="Interior Paragraph"/>
+                <ITEXT CH="Choco Package Manager"/>
+                <para PARENT="Heading One"/>
+                <ITEXT CH="Seperti yang telas saya sampaikan sebelumnya, sebetulnya ada dua alternatif yang fungsinya kurang lebih sama."/>
+                <para PARENT="Interior Paragraph"/>
+                <ITEXT CPARENT="Tautan Link" CH="chocolatey.org"/>
+                <ITEXT CH=": "/>
+                <ITEXT CPARENT="Terminology" CH="Package Manager"/>
+                <ITEXT CH=" untuk "/>
+                <ITEXT CPARENT="Code" CH="Windows"/>
+                <ITEXT CH="."/>
+                <para PARENT="Butir Pikiran"/>
+                <ITEXT CPARENT="Tautan Link" CH="scoop.sh"/>
+                <ITEXT CH=": "/>
+                <ITEXT CPARENT="Terminology" CH="Installer"/>
+                <ITEXT CH=" untuk "/>
+                <ITEXT CPARENT="Code" CH="Windows"/>
+                <ITEXT CH="."/>
+                <para PARENT="Butir Pikiran"/>
+                <ITEXT CH="Penulis pilihkan "/>
+                <ITEXT CPARENT="Code" CH="choco"/>
+                <ITEXT CH=" yang kegunaannya lebih luas."/>
+                <para/>
+                <ITEXT CH="Install Choco"/>
+                <para PARENT="Heading Two"/>
+                <ITEXT CH="Langsung saja ke situsnya:"/>
+                <para PARENT="Interior Paragraph"/>
+                <ITEXT CPARENT="Tautan Link" CH="https://chocolatey.org/docs/installation#more-install-options"/>
+                <para PARENT="Butir Pikiran"/>
+                <ITEXT CH="Sohib tentunya dapat melihat perintah panjang "/>
+                <ITEXT CPARENT="Terminology" CH="command line"/>
+                <ITEXT CH=" yang dibutuhkan di website, yaitu untuk dijalankan di "/>
+                <ITEXT CPARENT="Code" CH="cmd"/>
+                <ITEXT CH=". "/>
+                <para/>
+                <para/>
+                <ITEXT CH="@&quot;%SystemRoot%\System32\WindowsPowerShell\v1.0\powershell.exe&quot; bla bla bla ...."/>
+                <para PARENT="Inline Code"/>
+                <para/>
+                <ITEXT CH="Sekarang bukalah "/>
+                <ITEXT CPARENT="Code" CH="cmd"/>
+                <ITEXT CH=" dengan  "/>
+                <ITEXT CPARENT="Terminology" CH="privilege"/>
+                <ITEXT CH=" sebagai "/>
+                <ITEXT CPARENT="Terminology" CH="administrator"/>
+                <ITEXT CH=", lalu salin-tempel ("/>
+                <ITEXT CPARENT="Terminology" CH="copy-paste"/>
+                <ITEXT CH=") perintah tersebut. Jangan lupa untuk menekan tombol "/>
+                <ITEXT CPARENT="Code" CH="enter"/>
+                <ITEXT CH=" untuk menjalankan perintah tersebut."/>
+                <para PARENT="Interior Paragraph"/>
+                <para PARENT="Interior Paragraph"/>
+                <ITEXT CH="Cmder Console"/>
+                <para PARENT="Heading Two"/>
+                <ITEXT CH="Sekarang bagian yang membuat sohib nampak sakti, yaitu "/>
+                <ITEXT CPARENT="Terminology" CH="terminal"/>
+                <ITEXT CH="."/>
+                <para PARENT="Interior Paragraph"/>
+                <ITEXT CPARENT="Tautan Link" CH="cmder.net"/>
+                <ITEXT CH="."/>
+                <para PARENT="Butir Pikiran"/>
+                <ITEXT CH="Sebagaimana terlihat, ada dua pilihan:"/>
+                <para/>
+                <para/>
+                <para/>
+                <para/>
+                <para/>
+                <para/>
+                <para/>
+                <para/>
+                <para/>
+                <para/>
+                <para/>
+                <para/>
+                <para/>
+                <ITEXT CH="Pilih benar satu dari dua pilihan tersbut, unduh, ekstrak, dan buka. Berikutnya sohib dapat melakukan "/>
+                <ITEXT CPARENT="Terminology" CH="pin"/>
+                <ITEXT CH=" ke "/>
+                <ITEXT CPARENT="Terminology" CH="taskbar"/>
+                <ITEXT CH=" untuk supaya "/>
+                <ITEXT CPARENT="Code" CH="cmder"/>
+                <ITEXT CH=" mudah digunakan. Sohib juga dapat menggunakan "/>
+                <ITEXT CPARENT="Code" CH="cmder"/>
+                <ITEXT CH=" sebagai "/>
+                <ITEXT CPARENT="Terminology" CH="administrator"/>
+                <ITEXT CH=", kapanpun dibutuhkan."/>
+                <para/>
+                <ITEXT CH="Di antara keduanya, penulis mendapatkan bahwa pilihan "/>
+                <ITEXT CPARENT="Code" CH="cmder mini"/>
+                <ITEXT CH=" sudah cukup. Tentunya ada rinciannya, namun buku ini bukan tempatnya."/>
+                <para PARENT="Interior Paragraph"/>
+                <ITEXT CH="Memasang SASS"/>
+                <para PARENT="Heading Two"/>
+                <ITEXT CH="Memasang SASS cukup mudah."/>
+                <para/>
+                <ITEXT CH="$ choco install sass"/>
+                <para PARENT="Inline Code"/>
+                <para/>
+                <para/>
+                <para/>
+                <para/>
+                <para/>
+                <para/>
+                <para/>
+                <para/>
+                <para/>
+                <para/>
+                <ITEXT CH="Pemulis mengganakan tanda "/>
+                <ITEXT CPARENT="Code" CH="$"/>
+                <ITEXT CH=" sebagai command prompt yang umum di "/>
+                <ITEXT CPARENT="Code" CH="Linux"/>
+                <ITEXT CH=". Di "/>
+                <ITEXT CPARENT="Code" CH="Windows"/>
+                <ITEXT CH=" biasanya memakai tampilan "/>
+                <ITEXT CPARENT="Code" CH="C:&gt;"/>
+                <ITEXT CH="."/>
+                <para PARENT="Interior Paragraph"/>
+                <para PARENT="Interior Paragraph"/>
+                <ITEXT CH="Banyak implementasi "/>
+                <ITEXT CPARENT="Code" CH="SASS"/>
+                <ITEXT CH=". Penulis menggunakan "/>
+                <ITEXT CPARENT="Code" CH="SASS"/>
+                <ITEXT CH=" yang dibikin di atas bahasa "/>
+                <ITEXT CPARENT="Code" CH="dart"/>
+                <ITEXT CH=" yang tersedia di daftar paket di "/>
+                <ITEXT CPARENT="Code" CH="chocolatey"/>
+                <ITEXT CH=". Sebagai alternatif, sohib dapat menggunakan "/>
+                <ITEXT CPARENT="Code" CH="node-sass"/>
+                <ITEXT CH=" yang dapat dipasang melalui "/>
+                <ITEXT CPARENT="Code" CH="npm"/>
+                <ITEXT CH="."/>
+                <para PARENT="Interior Paragraph"/>
+                <ITEXT CH="Sohib mungkin mengalami hal tersebut di bawah, tepat saat pertama kali menjalankan dart."/>
+                <para/>
+                <ITEXT CH="$ sass"/>
+                <para PARENT="Inline Code"/>
+                <ITEXT CH="'dart.exe' is not recognized as an internal or external command,"/>
+                <para PARENT="Inline Code"/>
+                <ITEXT CH="operable program or batch file."/>
+                <para PARENT="Inline Code"/>
+                <para PARENT="Inline Code"/>
+                <para/>
+                <para/>
+                <para/>
+                <para/>
+                <para/>
+                <para/>
+                <para/>
+                <para/>
+                <ITEXT CH="Cara penyelesaiannya adalah cukup dengan menutup "/>
+                <ITEXT CPARENT="Terminology" CH="terminal"/>
+                <ITEXT CH=", dan buka "/>
+                <ITEXT CPARENT="Code" CH="SASS"/>
+                <ITEXT CH=" di terminal yang baru. Maka "/>
+                <ITEXT CPARENT="Code" CH="SASS"/>
+                <ITEXT CH=" akan berjalan dengan baik-baik saja."/>
+                <para PARENT="Interior Paragraph"/>
+                <para PARENT="Interior Paragraph"/>
+                <para PARENT="Interior Paragraph"/>
+                <para PARENT="Interior Paragraph"/>
+                <para PARENT="Interior Paragraph"/>
+                <para PARENT="Interior Paragraph"/>
+                <para PARENT="Interior Paragraph"/>
+                <para PARENT="Interior Paragraph"/>
+                <para PARENT="Interior Paragraph"/>
+                <ITEXT CH="Penulis tidak ingin berkutat terlalu lama di bagian pemasangan, supaya pembaca dapat segera melakukan praktek."/>
+                <para PARENT="Interior Paragraph"/>
+                <para PARENT="Interior Paragraph"/>
+                <para PARENT="Interior Paragraph"/>
+                <para PARENT="Interior Paragraph"/>
+                <ITEXT CH="Lingkungan Linux"/>
+                <para PARENT="Heading One"/>
+                <ITEXT CH="Seperti telah disampaikan sebelumnya. Ada beberapa implementasi SASS. Selayaknya budaya "/>
+                <ITEXT CPARENT="Code" CH="RTFM"/>
+                <ITEXT CH=" ("/>
+                <ITEXT CPARENT="Terminology" CH="read the fine manual"/>
+                <ITEXT CH=") di komunitas "/>
+                <ITEXT CPARENT="Code" CH="Linux"/>
+                <ITEXT CH=", sebelum kita masuk lebih dalam, ada baiknya kita membaca dahulu dokumentasi resminya."/>
+                <para PARENT="Interior Paragraph"/>
+                <ITEXT CPARENT="Tautan Link" CH="sass-lang.com"/>
+                <ITEXT CH="."/>
+                <para PARENT="Butir Pikiran"/>
+                <para/>
+                <ITEXT CH="Beberapa Pilihan"/>
+                <para PARENT="Heading Two"/>
+                <ITEXT CH="Ada beberapa pilihan untuk mengkompilasi "/>
+                <ITEXT CPARENT="Code" CH="SASS"/>
+                <ITEXT CH="."/>
+                <para PARENT="Interior Paragraph"/>
+                <ITEXT CPARENT="Terminology" CH="Compiler"/>
+                <ITEXT CH=" Umum: "/>
+                <ITEXT CPARENT="Code" CH="ruby-sass"/>
+                <ITEXT CH=", "/>
+                <ITEXT CPARENT="Code" CH="dart-sass"/>
+                <ITEXT CH=", dan "/>
+                <ITEXT CPARENT="Code" CH="node-sass"/>
+                <ITEXT CH="."/>
+                <para PARENT="Butir Pikiran" ALIGN="0"/>
+                <ITEXT CPARENT="Terminology" CH="LibSass Wrapper"/>
+                <ITEXT CH=": "/>
+                <ITEXT CPARENT="Code" CH="SassC"/>
+                <ITEXT CH=", "/>
+                <ITEXT CPARENT="Code" CH="sass.cr"/>
+                <ITEXT CH=", "/>
+                <ITEXT CPARENT="Code" CH="go-libsass"/>
+                <ITEXT CH=", "/>
+                <ITEXT CPARENT="Code" CH="jsass"/>
+                <ITEXT CH=", "/>
+                <ITEXT CPARENT="Code" CH="sass.js"/>
+                <ITEXT CH=", "/>
+                <ITEXT CPARENT="Code" CH="lua-sass"/>
+                <ITEXT CH=", "/>
+                <ITEXT CPARENT="Code" CH="libsass-net"/>
+                <ITEXT CH=", "/>
+                <ITEXT CPARENT="Code" CH="node-sass"/>
+                <ITEXT CH=", "/>
+                <ITEXT CPARENT="Code" CH="CSS::Sass"/>
+                <ITEXT CH=", "/>
+                <ITEXT CPARENT="Code" CH="SassPHP"/>
+                <ITEXT CH=", "/>
+                <ITEXT CPARENT="Code" CH="libsass-python"/>
+                <ITEXT CH=", "/>
+                <ITEXT CPARENT="Code" CH="sassc-ruby"/>
+                <ITEXT CH=", "/>
+                <ITEXT CPARENT="Code" CH="sass_rs"/>
+                <ITEXT CH=", dan "/>
+                <ITEXT CPARENT="Code" CH="Sass-Scala"/>
+                <ITEXT CH="."/>
+                <para PARENT="Butir Pikiran" ALIGN="0"/>
+                <ITEXT CPARENT="Terminology" CH="Task Runner"/>
+                <ITEXT CH=": "/>
+                <ITEXT CPARENT="Code" CH="Gulp"/>
+                <ITEXT CH=", "/>
+                <ITEXT CPARENT="Code" CH="Grunt"/>
+                <ITEXT CH=". Dan juga "/>
+                <ITEXT CPARENT="Terminology" CH="bundler"/>
+                <ITEXT CH=": "/>
+                <ITEXT CPARENT="Code" CH="Rollup"/>
+                <ITEXT CH=", "/>
+                <ITEXT CPARENT="Code" CH="Webpack"/>
+                <ITEXT CH=", and "/>
+                <ITEXT CPARENT="Code" CH="Parcel"/>
+                <ITEXT CH="."/>
+                <para PARENT="Butir Pikiran" ALIGN="0"/>
+                <para PARENT="Default Paragraph Style"/>
+                <ITEXT CH="1: ruby-sass, yang kadaluarsa"/>
+                <para PARENT="Heading Two"/>
+                <ITEXT CH="Secara resmi, "/>
+                <ITEXT CPARENT="Code" CH="Ruby Sass "/>
+                <ITEXT CH="sudah usang ("/>
+                <ITEXT CPARENT="Terminology" CH="deprecated"/>
+                <ITEXT CH="). "/>
+                <ITEXT CPARENT="Code" CH="Ruby Sass "/>
+                <ITEXT CH="ini sangat umum, dan ada berbagai tutorial tersedia di internet, maka tidak perlu dibahas lagi di sini. Bilamana ingin tahu, baca saja dokumentasi resminya."/>
+                <para PARENT="Interior Paragraph"/>
+                <ITEXT CPARENT="Tautan Link" CH="sass-lang.com/ruby-sass"/>
+                <ITEXT CH="."/>
+                <para PARENT="Butir Pikiran"/>
+                <ITEXT CH="Mari kita lihat saja baris perintahnya di terminal supaya kita dapat membedakan antara satu implementasi dengan lainnya."/>
+                <para PARENT="Interior Paragraph"/>
+                <ITEXT CH="$ sass \"/>
+                <para PARENT="Inline Code"/>
+                <ITEXT CH="  --watch -I sass sass/themes/oriclone:static/assets/css \"/>
+                <para PARENT="Inline Code"/>
+                <ITEXT CH="  --style compressed --sourcemap=none"/>
+                <para PARENT="Inline Code"/>
+                <ITEXT CH="Penulis menggunakan "/>
+                <ITEXT CPARENT="Terminology" CH="backslash"/>
+                <ITEXT CH=" ("/>
+                <ITEXT CPARENT="Code" CH="\"/>
+                <ITEXT CH=") untuk memisahkan perintah panjang, sebagaimana umum dilakukan di "/>
+                <ITEXT CPARENT="Code" CH="bash"/>
+                <ITEXT CH="."/>
+                <para PARENT="Interior Paragraph"/>
+                <para/>
+                <para/>
+                <para/>
+                <para/>
+                <para/>
+                <para/>
+                <para/>
+                <ITEXT CH="2: dart-sass"/>
+                <para PARENT="Heading Two"/>
+                <ITEXT CH="Saat ini "/>
+                <ITEXT CPARENT="Code" CH="ruby-sass"/>
+                <ITEXT CH=" yang usang, sudah digantikan dengan "/>
+                <ITEXT CPARENT="Code" CH="dart-sass"/>
+                <ITEXT CH=". Dokumentasi resmi juga ada:"/>
+                <para PARENT="Interior Paragraph"/>
+                <ITEXT CPARENT="Tautan Link" CH="sass-lang.com/dart-sass"/>
+                <ITEXT CH="."/>
+                <para PARENT="Butir Pikiran"/>
+                <ITEXT CH="Memasang dart juga cukup mudah, langsung saja unduh, ekstrak dan langsung dapat dijalankan."/>
+                <para PARENT="Interior Paragraph No Indent"/>
+                <ITEXT CPARENT="Tautan Link" CH="https://github.com/sass/dart-sass/releases/tag/1.29.0"/>
+                <para PARENT="Butir Pikiran"/>
+                <para PARENT="Interior Paragraph"/>
+                <ITEXT CH="Mari kita lihat lagi baris perintahnya di terminal"/>
+                <para PARENT="Interior Paragraph"/>
+                <ITEXT CH="$ /media/Works/dart-sass/sass --watch \"/>
+                <para PARENT="Inline Code"/>
+                <ITEXT CH="  -I sass sass/themes/oriclone:static/assets/css \"/>
+                <para PARENT="Inline Code"/>
+                <ITEXT CH="  --style=compressed --no-source-map"/>
+                <para PARENT="Inline Code"/>
+                <para PARENT="Interior Paragraph"/>
+                <para PARENT="Interior Paragraph"/>
+                <para PARENT="Interior Paragraph"/>
+                <para PARENT="Interior Paragraph"/>
+                <para PARENT="Interior Paragraph"/>
+                <para PARENT="Interior Paragraph"/>
+                <para PARENT="Interior Paragraph"/>
+                <para PARENT="Interior Paragraph"/>
+                <para PARENT="Interior Paragraph"/>
+                <ITEXT CH="Demi kemudahan penggunaan "/>
+                <ITEXT CPARENT="Terminology" CH="terminal"/>
+                <ITEXT CH=" sehari-hari, maka sohib dapat menggunakan alias, yaitu di "/>
+                <ITEXT CPARENT="Code" CH=".bashrc"/>
+                <ITEXT CH=" ataupun di "/>
+                <ITEXT CPARENT="Code" CH=".zshrc"/>
+                <ITEXT CH="."/>
+                <para PARENT="Interior Paragraph"/>
+                <ITEXT CH="alias dart-sass=/media/Works/dart-sass/sass"/>
+                <para PARENT="Inline Code"/>
+                <para PARENT="Heading Two"/>
+                <para PARENT="Heading Two"/>
+                <para PARENT="Heading Two"/>
+                <para PARENT="Heading Two"/>
+                <para PARENT="Heading Two"/>
+                <para PARENT="Heading Two"/>
+                <para PARENT="Heading Two"/>
+                <ITEXT CH="3: node-sass"/>
+                <para PARENT="Heading Two"/>
+                <ITEXT CH="Pemakaian "/>
+                <ITEXT CPARENT="Code" CH="node-sass"/>
+                <ITEXT CH=" adalah sangat umum, dan sudah banyak tutorial di internet. Seperti biasa, langsung saja jenguk dokumentasi resminya."/>
+                <para PARENT="Interior Paragraph"/>
+                <ITEXT CPARENT="Tautan Link" CH="sass-lang.com/install"/>
+                <para PARENT="Butir Pikiran"/>
+                <para PARENT="Interior Paragraph"/>
+                <ITEXT CH="Bilamana sohib adalah pemula di bidang "/>
+                <ITEXT CPARENT="Code" CH="NodeJS"/>
+                <ITEXT CH=", maka sohib perlu memahami mengenai pengaturan lingkungan "/>
+                <ITEXT CPARENT="Code" CH="NPM"/>
+                <ITEXT CH="."/>
+                <para PARENT="Interior Paragraph"/>
+                <ITEXT CH="Tidak perlu "/>
+                <ITEXT CPARENT="Code" CH="sudo"/>
+                <ITEXT CH="!"/>
+                <para PARENT="Butir Pikiran"/>
+                <para PARENT="Interior Paragraph No Indent"/>
+                <ITEXT CH="Saat menjadi pemula di bidang NodeJS, penulis berulangkali terbentur masalah terkait "/>
+                <ITEXT CPARENT="Terminology" CH="permission"/>
+                <ITEXT CH=". Sampai penulis menemukan artikel ini"/>
+                <para PARENT="Interior Paragraph"/>
+                <ITEXT CPARENT="Tautan Link" CH="https://docs.npmjs.com/resolving-eacces-permissions-errors-when-installing-packages-globally"/>
+                <para PARENT="Butir Pikiran"/>
+                <ITEXT CH="Pada dasarnya, ini hanyalah mengatur "/>
+                <ITEXT CPARENT="Terminology" CH="global path"/>
+                <ITEXT CH=" untuk pengguna Linux tanapa "/>
+                <ITEXT CPARENT="Terminology" CH="root privilege"/>
+                <ITEXT CH="."/>
+                <para PARENT="Interior Paragraph No Indent"/>
+                <para PARENT="Interior Paragraph"/>
+                <para PARENT="Interior Paragraph"/>
+                <para PARENT="Interior Paragraph"/>
+                <para PARENT="Interior Paragraph"/>
+                <para PARENT="Interior Paragraph"/>
+                <para PARENT="Interior Paragraph"/>
+                <ITEXT CH="Jangan lupa menambahkan di "/>
+                <ITEXT CPARENT="Code" CH=".bashrc"/>
+                <ITEXT CH=" ataupun di "/>
+                <ITEXT CPARENT="Code" CH=".zshrc"/>
+                <ITEXT CH="."/>
+                <para PARENT="Interior Paragraph"/>
+                <ITEXT CH="export PATH=&quot;$PATH:$HOME/.npm-global/bin&quot;"/>
+                <para PARENT="Inline Code"/>
+                <para PARENT="Interior Paragraph"/>
+                <ITEXT CH="Dengan cara ini maka, pengguna biasa dapat memasang "/>
+                <ITEXT CPARENT="Code" CH="node-sass"/>
+                <ITEXT CH=" dengan bebas, tanpa membutuhkan perintah "/>
+                <ITEXT CPARENT="Code" CH="sudo"/>
+                <ITEXT CH="."/>
+                <para PARENT="Interior Paragraph"/>
+                <ITEXT CH="$ npm install -g node-sass"/>
+                <para PARENT="Inline Code"/>
+                <para PARENT="Interior Paragraph"/>
+                <ITEXT CH="Sekarang kita dapat menggunakan "/>
+                <ITEXT CPARENT="Code" CH="node-sass"/>
+                <ITEXT CH=" di dalam "/>
+                <ITEXT CPARENT="Terminology" CH="terminal"/>
+                <ITEXT CH=", dengan pilihan "/>
+                <ITEXT CPARENT="Terminology" CH="parameter"/>
+                <ITEXT CH=" yang berbeda dengan "/>
+                <ITEXT CPARENT="Code" CH="ruby-sass"/>
+                <ITEXT CH=" sebagaimana berikut:"/>
+                <para PARENT="Interior Paragraph"/>
+                <ITEXT CH="$ node-sass --watch \"/>
+                <para PARENT="Inline Code"/>
+                <ITEXT CH="  --include-path sass sass/themes/oriclone \"/>
+                <para PARENT="Inline Code"/>
+                <ITEXT CH="  --output static/assets/css \"/>
+                <para PARENT="Inline Code"/>
+                <ITEXT CH="  --output-style compressed \"/>
+                <para PARENT="Inline Code"/>
+                <ITEXT CH="  --omit-source-map-url"/>
+                <para PARENT="Inline Code"/>
+                <para PARENT="Interior Paragraph"/>
+                <para PARENT="Interior Paragraph"/>
+                <para PARENT="Interior Paragraph"/>
+                <para PARENT="Interior Paragraph"/>
+                <para PARENT="Interior Paragraph"/>
+                <para PARENT="Interior Paragraph"/>
+                <para PARENT="Interior Paragraph"/>
+                <para PARENT="Interior Paragraph"/>
+                <para PARENT="Interior Paragraph"/>
+                <para PARENT="Interior Paragraph"/>
+                <ITEXT CH="Berulangkali mengetik di "/>
+                <ITEXT CPARENT="Terminology" CH="terminal"/>
+                <ITEXT CH=" rawan dari kesalahan, maka ada baiknya perintah tersebut kita bungkus dalam bentuk "/>
+                <ITEXT CPARENT="Terminology" CH="script"/>
+                <ITEXT CH=" di dalam berkas "/>
+                <ITEXT CPARENT="Code" CH="packages.json"/>
+                <ITEXT CH=". Salah satu contoh yang bagus ada di dokumentasi Bulma."/>
+                <para PARENT="Interior Paragraph"/>
+                <ITEXT CPARENT="Tautan Link" CH="https://bulma.io/documentation/customize/with-node-sass/"/>
+                <para PARENT="Butir Pikiran"/>
+                <para PARENT="Interior Paragraph"/>
+                <ITEXT CH="Penulis ringkas saja dan ambil yang perlu yaitu:"/>
+                <para PARENT="Interior Paragraph"/>
+                <ITEXT CH="  &quot;scripts&quot;: {"/>
+                <para PARENT="Inline Code"/>
+                <ITEXT CH="    &quot;css-build&quot;: &quot;node-sass --include-path sass sass/themes/oriclone --output static/assets/css&quot;,"/>
+                <para PARENT="Inline Code"/>
+                <ITEXT CH="    &quot;css-watch&quot;: &quot;npm run css-build -- --watch --output-style compressed --omit-source-map-url&quot;,"/>
+                <para PARENT="Inline Code"/>
+                <ITEXT CH="    &quot;start&quot;: &quot;npm run css-watch&quot;"/>
+                <para PARENT="Inline Code"/>
+                <ITEXT CH="  },"/>
+                <para PARENT="Inline Code"/>
+                <para PARENT="Interior Paragraph"/>
+                <ITEXT CH="Sekarang kita cukup melakukan perintah pendek ini."/>
+                <para PARENT="Interior Paragraph"/>
+                <ITEXT CH="$ npm run css-watch"/>
+                <para PARENT="Inline Code"/>
+                <para PARENT="Interior Paragraph"/>
+                <ITEXT CH="Bagaimana pengaturan yang sesuai, tentunya terserah saja kepada pembaca, karena ini sangat tergantung keadaan setempat. Semua orang memiliki "/>
+                <ITEXT CPARENT="Terminology" CH="use case"/>
+                <ITEXT CH=" yang berbeda, karena itu kebutuhanya berbeda pula."/>
+                <para PARENT="Interior Paragraph"/>
+                <para/>
+                <para/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="582.4008" YPOS="4890.744" OwnPage="14" ItemID="769229655" PTYPE="4" WIDTH="345.6" HEIGHT="540" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0.1528" AUTOTEXT="1" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L345.6 0 L345.6 540 L0 540 L0 0 Z" copath="M0 0 L345.6 0 L345.6 540 L0 540 L0 0 Z" gXpos="582.4008" gYpos="4890.744" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="769219175" BACKITEM="763935415"/>
+        <PAGEOBJECT XPOS="582.4008" YPOS="5246.424" OwnPage="14" ItemID="769257063" PTYPE="2" WIDTH="345.6" HEIGHT="159.991841584158" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" TEXTFLOWMODE="1" LOCALSCX="0.68081634716663" LOCALSCY="0.68081634716663" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="0" RATIO="1" Pagenumber="0" PFILE="illustration/sass/windows-01-cmd-choco-setup.png" IRENDER="0" EMBEDDED="0" path="M0 0 L345.6 0 L345.6 159.992 L0 159.992 L0 0 Z" copath="M0 0 L345.6 0 L345.6 159.992 L0 159.992 L0 0 Z" gXpos="582.4008" gYpos="5246.424" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
+        <PAGEOBJECT XPOS="136.0008" YPOS="5578.7472" OwnPage="15" ItemID="769219175" PTYPE="4" WIDTH="345.6" HEIGHT="540" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0.1528" AUTOTEXT="1" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L345.6 0 L345.6 540 L0 540 L0 0 Z" copath="M0 0 L345.6 0 L345.6 540 L0 540 L0 0 Z" gXpos="136.0008" gYpos="5578.7472" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="769303927" BACKITEM="769229655"/>
+        <PAGEOBJECT XPOS="582.4008" YPOS="5578.7472" OwnPage="16" ItemID="769303927" PTYPE="4" WIDTH="345.6" HEIGHT="540" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0.1528" AUTOTEXT="1" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L345.6 0 L345.6 540 L0 540 L0 0 Z" copath="M0 0 L345.6 0 L345.6 540 L0 540 L0 0 Z" gXpos="582.4008" gYpos="5578.7472" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="774797047" BACKITEM="769219175"/>
+        <PAGEOBJECT XPOS="200.8008" YPOS="5646.4272" OwnPage="15" ItemID="774829879" PTYPE="2" WIDTH="216" HEIGHT="165.6" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" TEXTFLOWMODE="1" LOCALSCX="0.45" LOCALSCY="0.45" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="0" RATIO="1" Pagenumber="0" PFILE="illustration/sass/windows-01-cmder-download.png" IRENDER="0" EMBEDDED="0" path="M0 0 L216 0 L216 165.6 L0 165.6 L0 0 Z" copath="M0 0 L216 0 L216 165.6 L0 165.6 L0 0 Z" gXpos="200.8008" gYpos="5646.4272" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
+        <PAGEOBJECT XPOS="186.4008" YPOS="5970.4272" OwnPage="15" ItemID="774579463" PTYPE="2" WIDTH="244.8" HEIGHT="144" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="0.51" LOCALSCY="0.51" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="0" RATIO="1" Pagenumber="0" PFILE="illustration/sass/windows-03-choco-install-sass.png" IRENDER="0" EMBEDDED="0" path="M0 0 L244.8 0 L244.8 144 L0 144 L0 0 Z" copath="M0 0 L244.8 0 L244.8 144 L0 144 L0 0 Z" gXpos="186.4008" gYpos="5970.4272" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
+        <PAGEOBJECT XPOS="618.4008" YPOS="5761.6272" OwnPage="16" ItemID="774578023" PTYPE="2" WIDTH="273.6" HEIGHT="100.8" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="0.57" LOCALSCY="0.57" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="0" RATIO="1" Pagenumber="0" PFILE="illustration/sass/windows-03-cmder-sass-dart-issue.png" IRENDER="0" EMBEDDED="0" path="M0 0 L273.6 0 L273.6 100.8 L0 100.8 L0 0 Z" copath="M0 0 L273.6 0 L273.6 100.8 L0 100.8 L0 0 Z" gXpos="618.4008" gYpos="5761.6272" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
+        <PAGEOBJECT XPOS="618.4008" YPOS="5927.2272" OwnPage="16" ItemID="774793815" PTYPE="2" WIDTH="273.6" HEIGHT="100.8" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="0.6" LOCALSCY="0.6" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" Pagenumber="0" PFILE="illustration/sass/windows-03-cmder-sass-options.png" IRENDER="0" EMBEDDED="0" path="M0 0 L273.6 0 L273.6 100.8 L0 100.8 L0 0 Z" copath="M0 0 L273.6 0 L273.6 100.8 L0 100.8 L0 0 Z" gXpos="618.4008" gYpos="5927.2272" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
+        <PAGEOBJECT XPOS="136.0008" YPOS="6266.7504" OwnPage="17" ItemID="774797047" PTYPE="4" WIDTH="345.6" HEIGHT="540" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0.1528" AUTOTEXT="1" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L345.6 0 L345.6 540 L0 540 L0 0 Z" copath="M0 0 L345.6 0 L345.6 540 L0 540 L0 0 Z" gXpos="136.0008" gYpos="6266.7504" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="775095703" BACKITEM="769303927"/>
+        <PAGEOBJECT XPOS="582.4008" YPOS="6266.7504" OwnPage="18" ItemID="775095703" PTYPE="4" WIDTH="345.6" HEIGHT="540" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0.1528" AUTOTEXT="1" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L345.6 0 L345.6 540 L0 540 L0 0 Z" copath="M0 0 L345.6 0 L345.6 540 L0 540 L0 0 Z" gXpos="582.4008" gYpos="6266.7504" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="775227623" BACKITEM="774797047"/>
+        <PAGEOBJECT XPOS="618.4008" YPOS="6464.0304" OwnPage="18" ItemID="775119015" PTYPE="2" WIDTH="273.6" HEIGHT="104.4" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" TEXTFLOWMODE="1" LOCALSCX="0.577215189873418" LOCALSCY="0.577215189873418" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="0" RATIO="1" Pagenumber="0" PFILE="illustration/sass/fedora-dart-sass.png" IRENDER="0" EMBEDDED="0" path="M0 0 L273.6 0 L273.6 104.4 L0 104.4 L0 0 Z" copath="M0 0 L273.6 0 L273.6 104.4 L0 104.4 L0 0 Z" gXpos="618.4008" gYpos="6464.0304" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
+        <PAGEOBJECT XPOS="136.0008" YPOS="6954.7536" OwnPage="19" ItemID="775227623" PTYPE="4" WIDTH="345.6" HEIGHT="540" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0.1528" AUTOTEXT="1" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L345.6 0 L345.6 540 L0 540 L0 0 Z" copath="M0 0 L345.6 0 L345.6 540 L0 540 L0 0 Z" gXpos="136.0008" gYpos="6954.7536" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="774823495" BACKITEM="775095703"/>
+        <PAGEOBJECT XPOS="582.4008" YPOS="6954.7536" OwnPage="20" ItemID="774823495" PTYPE="4" WIDTH="345.6" HEIGHT="540" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0.1528" AUTOTEXT="1" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L345.6 0 L345.6 540 L0 540 L0 0 Z" copath="M0 0 L345.6 0 L345.6 540 L0 540 L0 0 Z" gXpos="582.4008" gYpos="6954.7536" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="775227623"/>
+        <PAGEOBJECT XPOS="172.0008" YPOS="7188.0336" OwnPage="19" ItemID="785412743" PTYPE="2" WIDTH="273.6" HEIGHT="79.2" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="0.577215189873418" LOCALSCY="0.577215189873418" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="0" RATIO="1" Pagenumber="0" PFILE="illustration/sass/fedora-npm-global-setup-path.png" IRENDER="0" EMBEDDED="0" path="M0 0 L273.6 0 L273.6 79.2 L0 79.2 L0 0 Z" copath="M0 0 L273.6 0 L273.6 79.2 L0 79.2 L0 0 Z" gXpos="172.0008" gYpos="7188.0336" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
+        <PAGEOBJECT XPOS="618.4008" YPOS="6957.6336" OwnPage="20" ItemID="802626327" PTYPE="2" WIDTH="273.6" HEIGHT="115.2" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="0.577215189873418" LOCALSCY="0.577215189873418" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="0" RATIO="1" Pagenumber="0" PFILE="illustration/sass/fedora-node-sass-watch.png" IRENDER="0" EMBEDDED="0" path="M0 0 L273.6 0 L273.6 115.2 L0 115.2 L0 0 Z" copath="M0 0 L273.6 0 L273.6 115.2 L0 115.2 L0 0 Z" gXpos="618.4008" gYpos="6957.6336" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
+    </DOCUMENT>
+</SCRIBUSUTF8NEW>
