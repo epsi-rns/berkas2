@@ -14,6 +14,18 @@ Bahan Berbagi Berkas
 
 -- -- --
 
+## Tutorial
+
+### Inkscape
+
+* [Inkscape: Slides - Overview][inkscape-tutorial]
+
+### Impress
+
+* [Impress: Slides - Part One][impress-tutorial]
+
+-- -- --
+
 ## Impress Template
 
 ### Template: Auto
@@ -89,3 +101,6 @@ Enjoy his videos too.
 [cover-ssg]:        https://github.com/epsi-rns/berkas2/raw/master/impress-presentation/preview/presentation-concept-ssg-cover-s.png
 [cover-ricing]:     https://github.com/epsi-rns/berkas2/raw/master/impress-presentation/preview/presentation-desktop-customization-cover-s.png
 [cover-diversity]:  https://github.com/epsi-rns/berkas2/raw/master/impress-presentation/preview/presentation-linux-diversity-cover-s.png
+
+[inkscape-tutorial]:https://epsi-rns.gitlab.io/design/2022/09/01/inkscape-slide-templates-01/
+[impress-tutorial]: https://epsi-rns.gitlab.io/design/2020/09/21/inkscape-impress-slides-01/
